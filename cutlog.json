@@ -1,46 +1,6 @@
 {
  "entries": [
   {
-   "ref": "S867646",
-   "code": "CICJM01935803",
-   "desc": "",
-   "qty": 3,
-   "due": "2026-08-24",
-   "printedAt": "2026-08-12",
-   "customer": "",
-   "k": "S867646|CICJM01935803|PC2003ECO",
-   "fabric": "PC2003ECO",
-   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 3.15
-  },
-  {
-   "ref": "S867646",
-   "code": "CICJM01935803",
-   "desc": "",
-   "qty": 3,
-   "due": "2026-08-24",
-   "printedAt": "2026-08-12",
-   "customer": "",
-   "k": "S867646|CICJM01935803|MESH2290903",
-   "fabric": "MESH2290903",
-   "fabName": "Mesh quality 22909 black (Simplex) — back panel",
-   "std": 0.75,
-   "extra": true
-  },
-  {
-   "ref": "S868175",
-   "code": "CICJ01935203S",
-   "desc": "",
-   "qty": 3,
-   "due": "2026-09-15",
-   "printedAt": "2026-08-19",
-   "customer": "",
-   "k": "S868175|CICJ01935203S|PC2003ECO",
-   "fabric": "PC2003ECO",
-   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 3.75
-  },
-  {
    "ref": "WO-0940",
    "code": "OHHICAPP062703DEN/DS",
    "desc": "BLACK DENIM CROSSOVER BIB APRON ZIPPED PKTS + EMB",
@@ -3485,5 +3445,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-01T20:15:03.307Z"
+ "savedAt": "2026-10-01T20:30:00.000Z"
 }
