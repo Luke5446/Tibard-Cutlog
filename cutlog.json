@@ -3219,7 +3219,10 @@
    "k": "WO-1405|OHCTDURHAM4203|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 12
+   "std": 12,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T10:47:27.095Z",
+   "metres": 12
   },
   {
    "ref": "WO-1406",
@@ -3671,5 +3674,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T10:47:24.264Z"
+ "savedAt": "2026-10-02T10:47:27.095Z"
 }
