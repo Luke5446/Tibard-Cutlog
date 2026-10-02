@@ -3730,7 +3730,20 @@
    "fabName": "Mesh quality 22909 white (Clarkson Knitting) — back centre panel",
    "std": 75,
    "extra": true
+  },
+  {
+   "ref": "S-OH116252-Pt9",
+   "code": "OHCJSMOXFORD5003L",
+   "desc": "BLACK S/S OXFORD DETACH BUTTON POLY/COTTON CHEF JACKET SZ 50\" - LONG",
+   "qty": 2,
+   "due": "2026-10-14",
+   "printedAt": "2026-09-29",
+   "customer": "M/Y Eminence",
+   "k": "S-OH116252-Pt9|OHCJSMOXFORD5003L|PC14003",
+   "fabric": "PC14003",
+   "fabName": "BLACK COOLTEX 1 - 215GSM POLY/COTTON",
+   "std": null
   }
  ],
- "savedAt": "2026-10-02T11:50:52.613Z"
+ "savedAt": "2026-10-02T11:51:42.980Z"
 }
