@@ -2845,7 +2845,10 @@
    "k": "WO-1389|OHCJSMCHESHIRE4201|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 11.6
+   "std": 11.6,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T10:58:23.815Z",
+   "metres": 11.6
   },
   {
    "ref": "WO-1389",
@@ -3709,5 +3712,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T10:55:10.335Z"
+ "savedAt": "2026-10-02T10:58:23.815Z"
 }
