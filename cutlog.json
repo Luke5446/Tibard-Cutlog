@@ -2704,7 +2704,10 @@
    "k": "S-OH116252-Pt7|OHCJMOXFORD4803|PC14003",
    "fabric": "PC14003",
    "fabName": "Black Cooltex 1 poly-cotton 50% / 50%",
-   "std": 3.52
+   "std": 3.52,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T11:00:57.251Z",
+   "metres": 3.52
   },
   {
    "ref": "S-OH116252-Pt7",
@@ -2718,7 +2721,10 @@
    "fabric": "MESH2290903",
    "fabName": "Coolmax mesh fabric, qual 22909, black",
    "std": 0.08,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T11:00:57.251Z",
+   "metres": 0.08
   },
   {
    "ref": "S-OH116252-Pt8",
@@ -3715,5 +3721,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T10:58:27.577Z"
+ "savedAt": "2026-10-02T11:00:57.251Z"
 }
