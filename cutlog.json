@@ -3585,7 +3585,34 @@
    "fabName": "Mesh quality 22909 white (Clarkson Knitting) — back centre panel",
    "std": 2.5,
    "extra": true
+  },
+  {
+   "ref": "WO-1428",
+   "code": "CJM0193MM01",
+   "desc": "WHITE L/S MESH BACK P/COTTON CHEFS JACKET SZ MEDIUM",
+   "qty": 300,
+   "due": "2026-10-22",
+   "printedAt": "2026-10-01",
+   "customer": "",
+   "k": "WO-1428|CJM0193MM01|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 375
+  },
+  {
+   "ref": "WO-1428",
+   "code": "CJM0193MM01",
+   "desc": "WHITE L/S MESH BACK P/COTTON CHEFS JACKET SZ MEDIUM",
+   "qty": 300,
+   "due": "2026-10-22",
+   "printedAt": "2026-10-01",
+   "customer": "",
+   "k": "WO-1428|CJM0193MM01|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Mesh quality 22909 white (Clarkson Knitting) — back centre panel",
+   "std": 75,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-02T09:20:41.563Z"
+ "savedAt": "2026-10-02T09:56:32.986Z"
 }
