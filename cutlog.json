@@ -13,7 +13,8 @@
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 10.48,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-01"
   },
   {
    "ref": "S869318",
@@ -28,7 +29,8 @@
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 16.5,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-03"
   },
   {
    "ref": "S869318A",
@@ -43,7 +45,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 17.6,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-03"
   },
   {
    "ref": "WO-0986",
@@ -58,7 +61,8 @@
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
    "std": 30,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-04"
   },
   {
    "ref": "WO-1053",
@@ -73,7 +77,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 5.04,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-07"
   },
   {
    "ref": "WO-1053",
@@ -89,7 +94,8 @@
    "std": 0.44,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-07"
   },
   {
    "ref": "WO-1072",
@@ -104,7 +110,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 4.8,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-08"
   },
   {
    "ref": "WO-1096",
@@ -119,7 +126,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 7.26,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-08"
   },
   {
    "ref": "WO-1096",
@@ -135,7 +143,8 @@
    "std": 0.66,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-08"
   },
   {
    "ref": "WO-1113",
@@ -150,7 +159,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 11.8,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1113",
@@ -166,7 +176,8 @@
    "std": 0.9,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1114",
@@ -181,7 +192,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 2.5,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1114",
@@ -197,7 +209,8 @@
    "std": 0.58,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1116",
@@ -212,7 +225,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 9.85,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1116",
@@ -228,7 +242,8 @@
    "std": 0.9,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1117",
@@ -243,7 +258,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 12.35,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1117",
@@ -259,7 +275,8 @@
    "std": 0.9,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1121",
@@ -274,7 +291,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 2.15,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1121",
@@ -290,7 +308,8 @@
    "std": 0.58,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1124",
@@ -305,7 +324,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 7.86,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1124",
@@ -321,7 +341,8 @@
    "std": 0.24,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1134",
@@ -336,7 +357,8 @@
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 1.2,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-10"
   },
   {
    "ref": "WO-1137",
@@ -351,7 +373,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 2.84,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-10"
   },
   {
    "ref": "WO-1137",
@@ -367,7 +390,8 @@
    "std": 0.22,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-10"
   },
   {
    "ref": "S-TIB870000-Pt1",
@@ -398,7 +422,8 @@
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 19.2,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-10"
   },
   {
    "ref": "WO-1142",
@@ -413,7 +438,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 7.5,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-11"
   },
   {
    "ref": "S-TIB870046-Pt1",
@@ -428,7 +454,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 6,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-11"
   },
   {
    "ref": "WO-1153",
@@ -443,7 +470,8 @@
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 9,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-11"
   },
   {
    "ref": "WO-1158",
@@ -458,7 +486,8 @@
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 1.2,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-11"
   },
   {
    "ref": "WO-1159",
@@ -473,7 +502,8 @@
    "fabName": "BOTTLE GREEN P/COTTON 195GSM 150CM",
    "std": 2.4,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-11"
   },
   {
    "ref": "WO-1171",
@@ -488,7 +518,8 @@
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 10,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-15"
   },
   {
    "ref": "WO-1172",
@@ -503,7 +534,8 @@
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 12.43,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-15"
   },
   {
    "ref": "WO-1197",
@@ -518,7 +550,8 @@
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
    "std": 6.25,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1201",
@@ -533,7 +566,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 1.62,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1201",
@@ -549,7 +583,8 @@
    "std": 0.09,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1202",
@@ -564,7 +599,8 @@
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
    "std": 3.75,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1205",
@@ -579,7 +615,8 @@
    "fabName": "",
    "std": null,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1210",
@@ -609,7 +646,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 10,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1214",
@@ -625,7 +663,8 @@
    "std": 0.9,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1216",
@@ -640,7 +679,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 35,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1220",
@@ -655,7 +695,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 3,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1221",
@@ -670,7 +711,8 @@
    "fabName": "BOTTLE GREEN P/COTTON 195GSM 150CM",
    "std": 6,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1222",
@@ -685,7 +727,8 @@
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
    "std": 100,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-18"
   },
   {
    "ref": "WO-1224",
@@ -700,7 +743,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 2.4,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-18"
   },
   {
    "ref": "WO-1225",
@@ -715,7 +759,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 16.38,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-18"
   },
   {
    "ref": "WO-1225",
@@ -731,7 +776,8 @@
    "std": 1.26,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-18"
   },
   {
    "ref": "WO-1227",
@@ -746,7 +792,8 @@
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
    "std": 10.56,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-18"
   },
   {
    "ref": "WO-1227",
@@ -762,7 +809,8 @@
    "std": 0.32,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-18"
   },
   {
    "ref": "WO-1239",
@@ -777,7 +825,8 @@
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 2.88,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-21"
   },
   {
    "ref": "S-OH116175-Pt1",
@@ -792,7 +841,8 @@
    "fabName": "MAROON POLY/COTTN 195GSM 150CM",
    "std": 40,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "S-TIB###162452009#04850-Pt1",
@@ -807,7 +857,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 6,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "S-TIB870807-Pt1",
@@ -822,7 +873,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 0.9,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1241",
@@ -837,7 +889,8 @@
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 10,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1245",
@@ -852,7 +905,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 11.8,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1245",
@@ -868,7 +922,8 @@
    "std": 0.9,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-09"
   },
   {
    "ref": "WO-1246",
@@ -883,7 +938,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 26.98,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1246",
@@ -899,7 +955,8 @@
    "std": 2.09,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1247",
@@ -914,7 +971,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 22.72,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1247",
@@ -930,7 +988,8 @@
    "std": 1.76,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1248",
@@ -945,7 +1004,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 56.8,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1248",
@@ -961,7 +1021,8 @@
    "std": 4.4,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1249",
@@ -976,7 +1037,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 56.8,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1249",
@@ -992,7 +1054,8 @@
    "std": 4.4,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1250",
@@ -1007,7 +1070,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 33.58,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1250",
@@ -1023,7 +1087,8 @@
    "std": 2.53,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1251",
@@ -1038,7 +1103,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 29.2,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1251",
@@ -1054,7 +1120,8 @@
    "std": 2.2,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1252",
@@ -1069,7 +1136,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 5.92,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1252",
@@ -1085,7 +1153,8 @@
    "std": 0.44,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1253",
@@ -1100,7 +1169,8 @@
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 9.06,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1254",
@@ -1115,7 +1185,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 13.7,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1254",
@@ -1131,7 +1202,8 @@
    "std": 0.4,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1256",
@@ -1146,7 +1218,8 @@
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
    "std": 6.53,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1256",
@@ -1162,7 +1235,8 @@
    "std": 0.2,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1260",
@@ -1177,7 +1251,8 @@
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 16,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1262",
@@ -1192,7 +1267,8 @@
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 11.28,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1262",
@@ -1208,7 +1284,8 @@
    "std": 0.32,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt1",
@@ -1221,7 +1298,8 @@
    "k": "S-OH116105-Pt1|OHCJSMOXFORD3815|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 1.26
+   "std": 1.26,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt1",
@@ -1235,7 +1313,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.04,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt2",
@@ -1248,7 +1327,8 @@
    "k": "S-OH116105-Pt2|OHCJSMOXFORD4215|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 5.24
+   "std": 5.24,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt2",
@@ -1262,7 +1342,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.16,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt3",
@@ -1275,7 +1356,8 @@
    "k": "S-OH116105-Pt3|OHCJSMOXFORD4415|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 4.11
+   "std": 4.11,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt3",
@@ -1289,7 +1371,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.12,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt4",
@@ -1302,7 +1385,8 @@
    "k": "S-OH116105-Pt4|OHCJSMOXFORD4615|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 1.38
+   "std": 1.38,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt4",
@@ -1316,7 +1400,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.04,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt5",
@@ -1329,7 +1414,8 @@
    "k": "S-OH116105-Pt5|OHCJSMOXFORD5215|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 12.69
+   "std": 12.69,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt5",
@@ -1343,7 +1429,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.36,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt6",
@@ -1356,7 +1443,8 @@
    "k": "S-OH116105-Pt6|OHCJSMOXFORD5615|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 3.08
+   "std": 3.08,
+   "created": "2026-09-22"
   },
   {
    "ref": "S-OH116105-Pt6",
@@ -1370,7 +1458,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.08,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1263",
@@ -1400,7 +1489,8 @@
    "fabName": "WHITE 50/50 POLY/TENCEL COOLCEL 200GSM 150CM",
    "std": 1.02,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-23"
   },
   {
    "ref": "WO-1268",
@@ -1415,7 +1505,8 @@
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 15.1,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-23"
   },
   {
    "ref": "S-OH116105-Pt7",
@@ -1428,7 +1519,8 @@
    "k": "S-OH116105-Pt7|OHCJSMOXFORD4815L|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 10.71
+   "std": 10.71,
+   "created": "2026-09-23"
   },
   {
    "ref": "S-OH116105-Pt7",
@@ -1442,7 +1534,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.28,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-23"
   },
   {
    "ref": "S-OH116105-Pt8",
@@ -1455,7 +1548,8 @@
    "k": "S-OH116105-Pt8|OHCJSMOXFORD5215L|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 3.1
+   "std": 3.1,
+   "created": "2026-09-23"
   },
   {
    "ref": "S-OH116105-Pt8",
@@ -1469,7 +1563,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.08,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-23"
   },
   {
    "ref": "S-OH116105-Pt9",
@@ -1482,7 +1577,8 @@
    "k": "S-OH116105-Pt9|OHCJSMOXFORD5415|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 1.48
+   "std": 1.48,
+   "created": "2026-09-23"
   },
   {
    "ref": "S-OH116105-Pt9",
@@ -1496,7 +1592,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.04,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-23"
   },
   {
    "ref": "WO-1272",
@@ -1509,7 +1606,8 @@
    "k": "WO-1272|OHEGOAPP064903|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 16
+   "std": 16,
+   "created": "2026-09-23"
   },
   {
    "ref": "WO-1273",
@@ -1524,7 +1622,8 @@
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
    "std": 5.22,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-23"
   },
   {
    "ref": "WO-1273",
@@ -1540,7 +1639,8 @@
    "std": 0.16,
    "extra": true,
    "cancelledAt": "2026-10-01",
-   "why": "printed more than a week before the cutting log began: cut before there was a list"
+   "why": "printed more than a week before the cutting log began: cut before there was a list",
+   "created": "2026-09-23"
   },
   {
    "ref": "WO-1275",
@@ -1553,7 +1653,8 @@
    "k": "WO-1275|OHEGOAPP065003|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 7.56
+   "std": 7.56,
+   "created": "2026-09-23"
   },
   {
    "ref": "S-OH116106-Pt7",
@@ -1601,7 +1702,8 @@
    "std": 4.5,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T09:57:20.982Z",
-   "metres": 4.5
+   "metres": 4.5,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1277",
@@ -1617,7 +1719,8 @@
    "std": 1.5,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:24.264Z",
-   "metres": 1.5
+   "metres": 1.5,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1278",
@@ -1633,7 +1736,8 @@
    "std": 17.5,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:50:27.514Z",
-   "metres": 17.5
+   "metres": 17.5,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1279",
@@ -1649,7 +1753,8 @@
    "std": 35,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:50:32.849Z",
-   "metres": 35
+   "metres": 35,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1280",
@@ -1665,7 +1770,8 @@
    "std": 35,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:50:36.567Z",
-   "metres": 35
+   "metres": 35,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1282",
@@ -1678,7 +1784,8 @@
    "k": "WO-1282|OHAPP0598224DEN|CO5224DEN",
    "fabric": "CO5224DEN",
    "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
-   "std": 6.6
+   "std": 6.6,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1283",
@@ -1691,7 +1798,8 @@
    "k": "WO-1283|OHAPP065215|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 2.14
+   "std": 2.14,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1284",
@@ -1704,7 +1812,8 @@
    "k": "WO-1284|OHAPP0630682KP|PC90682",
    "fabric": "PC90682",
    "fabName": "HEATHER GREEN COT/POLY 55/45 300GSM(2860 VT/SK COL97KS)",
-   "std": 8.4
+   "std": 8.4,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1289",
@@ -1717,7 +1826,8 @@
    "k": "WO-1289|OHAPP352803|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 10.27
+   "std": 10.27,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1290",
@@ -1730,7 +1840,8 @@
    "k": "WO-1290|OHAPP053515/DS|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 10.85
+   "std": 10.85,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1291",
@@ -1743,7 +1854,8 @@
    "k": "WO-1291|OHAPP063068HP2|PC9068",
    "fabric": "PC9068",
    "fabName": "BISCUIT COT/POLY 55/45 300GSM(2860 LAFCP300 COLF350-DES97DS)",
-   "std": 6.98
+   "std": 6.98,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1292",
@@ -1756,7 +1868,8 @@
    "k": "WO-1292|OHAPP065283|PC2083ECO",
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
-   "std": 5.35
+   "std": 5.35,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1293",
@@ -1769,7 +1882,8 @@
    "k": "WO-1293|OHAP3005248L|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 9.55
+   "std": 9.55,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1294",
@@ -1782,7 +1896,8 @@
    "k": "WO-1294|OHAPP0544222|CO5222ECO",
    "fabric": "CO5222ECO",
    "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
-   "std": 50
+   "std": 50,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1295",
@@ -1795,7 +1910,8 @@
    "k": "WO-1295|OHAPP0535241/DS|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 5.43
+   "std": 5.43,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1296",
@@ -1808,7 +1924,8 @@
    "k": "WO-1296|OHAPP053515|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 11.2
+   "std": 11.2,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1297",
@@ -1821,7 +1938,8 @@
    "k": "WO-1297|OHAPP0535241|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 11.2
+   "std": 11.2,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1299",
@@ -1834,7 +1952,8 @@
    "k": "WO-1299|OHAP300515L|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 19.1
+   "std": 19.1,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1300",
@@ -1847,7 +1966,8 @@
    "k": "WO-1300|OHAP052031|CO6030",
    "fabric": "CO6030",
    "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
-   "std": 30
+   "std": 30,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1301",
@@ -1860,7 +1980,8 @@
    "k": "WO-1301|OHAPP3528248|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 15.4
+   "std": 15.4,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1302",
@@ -1873,7 +1994,8 @@
    "k": "WO-1302|OHAPP0544173|CO5173ECO",
    "fabric": "CO5173ECO",
    "fabName": "SAGE GREEN 100% SUSTAINABLE COTTON (X149 - AMN304)",
-   "std": 50
+   "std": 50,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1303",
@@ -1886,7 +2008,8 @@
    "k": "WO-1303|OHAPP0544241|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 30
+   "std": 30,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1304",
@@ -1899,7 +2022,8 @@
    "k": "WO-1304|OHAPP352882|PC2082ECO",
    "fabric": "PC2082ECO",
    "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
-   "std": 5.13
+   "std": 5.13,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1305",
@@ -1912,7 +2036,8 @@
    "k": "WO-1305|OHAPP053583|CO5083ECO",
    "fabric": "CO5083ECO",
    "fabName": "OLIVE GREEN 100% SUSTAINABLE COTTON (X149 - AMN302)",
-   "std": 11.2
+   "std": 11.2,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1306",
@@ -1925,7 +2050,8 @@
    "k": "WO-1306|OHAP300531|CO6030",
    "fabric": "CO6030",
    "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
-   "std": 50
+   "std": 50,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1307",
@@ -1938,7 +2064,8 @@
    "k": "WO-1307|OHAPP054415|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 50
+   "std": 50,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1308",
@@ -1951,7 +2078,8 @@
    "k": "WO-1308|OHAP300501C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 200
+   "std": 200,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1309",
@@ -1964,7 +2092,8 @@
    "k": "WO-1309|OHAP300582|PC2082ECO",
    "fabric": "PC2082ECO",
    "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
-   "std": 40.25
+   "std": 40.25,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1310",
@@ -1977,7 +2106,8 @@
    "k": "WO-1310|OHCJSMCHESHIRE5201|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 8.52
+   "std": 8.52,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1310",
@@ -1991,7 +2121,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.66,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1311",
@@ -2007,7 +2138,8 @@
    "std": 2.7,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T09:56:52.454Z",
-   "metres": 2.7
+   "metres": 2.7,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1312",
@@ -2023,7 +2155,8 @@
    "std": 12.1,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:55:10.335Z",
-   "metres": 12.1
+   "metres": 12.1,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1312",
@@ -2037,7 +2170,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.1,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1314",
@@ -2053,7 +2187,8 @@
    "std": 30,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:10:43.729Z",
-   "metres": 30
+   "metres": 30,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1315",
@@ -2069,7 +2204,8 @@
    "std": 18,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:10:52.278Z",
-   "metres": 18
+   "metres": 18,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1321",
@@ -2082,7 +2218,8 @@
    "k": "WO-1321|CT0196LL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 61.25
+   "std": 61.25,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1322",
@@ -2095,7 +2232,8 @@
    "k": "WO-1322|CT0196LL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 62.5
+   "std": 62.5,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1328",
@@ -2121,7 +2259,8 @@
    "k": "WO-1331|CT3082XXL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 16
+   "std": 16,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1333",
@@ -2147,7 +2286,8 @@
    "k": "WO-1334|CT30824803|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 16
+   "std": 16,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1336",
@@ -2160,7 +2300,8 @@
    "k": "WO-1336|OHCJSMDEVON4401|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 9.9
+   "std": 9.9,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1336",
@@ -2174,7 +2315,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 2.6,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1337",
@@ -2187,7 +2329,8 @@
    "k": "WO-1337|TRGHT016003SHARP|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 2
+   "std": 2,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1339",
@@ -2200,7 +2343,8 @@
    "k": "WO-1339|OHCJSSUFFOLK4401|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 17.64
+   "std": 17.64,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1340",
@@ -2213,7 +2357,8 @@
    "k": "WO-1340|WAGHTM016001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 2.4
+   "std": 2.4,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1341",
@@ -2226,7 +2371,8 @@
    "k": "WO-1341|OHLCJSYORK1401|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 8.7
+   "std": 8.7,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1342",
@@ -2239,7 +2385,8 @@
    "k": "WO-1342|OHCJSMSTRATFORD4401|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 11.7
+   "std": 11.7,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1342",
@@ -2253,7 +2400,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 0.9,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1344",
@@ -2266,7 +2414,8 @@
    "k": "WO-1344|OHLCJSDERBYSHIRE1201|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 7.81
+   "std": 7.81,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1345",
@@ -2279,7 +2428,8 @@
    "k": "WO-1345|OHAPP059703/153DEN|CO5003DEN",
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
-   "std": 3.21
+   "std": 3.21,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1345",
@@ -2293,7 +2443,8 @@
    "fabric": "CO5153",
    "fabName": "Khaki 3110 100% cotton (for neck and waist ties) \u2014 contrast marker 0597A (neck tie + ties)",
    "std": 0.83,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1346",
@@ -2306,7 +2457,8 @@
    "k": "WO-1346|OHSTRAP209|CO5209",
    "fabric": "CO5209",
    "fabName": "NATURAL 3110 COTTON 255GSM 150CM",
-   "std": 3.6
+   "std": 3.6,
+   "created": "2026-09-24"
   },
   {
    "ref": "WO-1347",
@@ -2319,7 +2471,8 @@
    "k": "WO-1347|OHHTM016003|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 3.4
+   "std": 3.4,
+   "created": "2026-09-24"
   },
   {
    "ref": "S-OH116292-Pt1",
@@ -2332,7 +2485,8 @@
    "k": "S-OH116292-Pt1|OHCJSMOXFORD3815|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 1.26
+   "std": 1.26,
+   "created": "2026-09-25"
   },
   {
    "ref": "S-OH116292-Pt1",
@@ -2346,7 +2500,8 @@
    "fabric": "MESHPW31415",
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.04,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-25"
   },
   {
    "ref": "S-OH116297-Pt1",
@@ -2362,7 +2517,8 @@
    "std": 19.92,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:27:56.006Z",
-   "metres": 19.92
+   "metres": 19.92,
+   "created": "2026-09-25"
   },
   {
    "ref": "S-TIB871106-Pt1",
@@ -2375,7 +2531,8 @@
    "k": "S-TIB871106-Pt1|CJB000152|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 6.18
+   "std": 6.18,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1348",
@@ -2388,7 +2545,8 @@
    "k": "WO-1348|ASKAP056364|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 67.6
+   "std": 67.6,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1349",
@@ -2401,7 +2559,8 @@
    "k": "WO-1349|OHCJSSUFFOLK4201|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 37.8
+   "std": 37.8,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1350",
@@ -2414,7 +2573,8 @@
    "k": "WO-1350|OHCJSMOXFORD5001L|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 4.53
+   "std": 4.53,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1350",
@@ -2428,7 +2588,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.12,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1351",
@@ -2441,7 +2602,8 @@
    "k": "WO-1351|OHCJSSUFFOLK3801|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 17.6
+   "std": 17.6,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1352",
@@ -2454,7 +2616,8 @@
    "k": "WO-1352|OHCJSSUFFOLK4801|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 26.1
+   "std": 26.1,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1354",
@@ -2467,7 +2630,8 @@
    "k": "WO-1354|OHCJSSUFFOLK5201|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 10.02
+   "std": 10.02,
+   "created": "2026-09-25"
   },
   {
    "ref": "WO-1355",
@@ -2483,7 +2647,8 @@
    "std": 13.7,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:04:51.387Z",
-   "metres": 13.7
+   "metres": 13.7,
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1355",
@@ -2500,7 +2665,8 @@
    "extra": true,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:04:51.387Z",
-   "metres": 0.4
+   "metres": 0.4,
+   "created": "2026-09-22"
   },
   {
    "ref": "WO-1362",
@@ -2513,7 +2679,8 @@
    "k": "WO-1362|OHAPP0634911|CO5TEXAS911",
    "fabric": "CO5TEXAS911",
    "fabName": "TEXAS RED DENIM 100% COTTON TWILL 330GSM (RD85)",
-   "std": 3.2
+   "std": 3.2,
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1363",
@@ -2526,7 +2693,8 @@
    "k": "WO-1363|OHAPP078683|PC2083ECO",
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
-   "std": 6.6
+   "std": 6.6,
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1364",
@@ -2539,7 +2707,8 @@
    "k": "WO-1364|OHAPP078615|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 6.6
+   "std": 6.6,
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1365",
@@ -2552,7 +2721,8 @@
    "k": "WO-1365|OHCJSSUFFOLK5401|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 10.08
+   "std": 10.08,
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1366",
@@ -2565,7 +2735,8 @@
    "k": "WO-1366|OHAPP078682|PC2082ECO",
    "fabric": "PC2082ECO",
    "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
-   "std": 6.6
+   "std": 6.6,
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1367",
@@ -2578,7 +2749,8 @@
    "k": "WO-1367|OHCJMDORSET4201|CO4001NH3",
    "fabric": "CO4001NH3",
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
-   "std": 3.06
+   "std": 3.06,
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1367",
@@ -2592,7 +2764,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.08,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1368",
@@ -2605,7 +2778,8 @@
    "k": "WO-1368|OHAPP352883|PC2083ECO",
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
-   "std": 15.4
+   "std": 15.4,
+   "created": "2026-09-28"
   },
   {
    "ref": "S-OH116383-Pt1",
@@ -2621,7 +2795,8 @@
    "std": 13.14,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:40:55.869Z",
-   "metres": 13.14
+   "metres": 13.14,
+   "created": "2026-09-28"
   },
   {
    "ref": "S-OH116383-Pt1",
@@ -2638,7 +2813,8 @@
    "extra": true,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:40:55.869Z",
-   "metres": 3.6
+   "metres": 3.6,
+   "created": "2026-09-28"
   },
   {
    "ref": "S-TIB871161-Pt2",
@@ -2658,7 +2834,8 @@
    "note": "Incorrect fabric code.",
    "adjustedAt": "2026-10-02T12:04:34.160Z",
    "cancelledAt": "2026-10-02",
-   "why": "doubled line: the works order was changed after the print and the planner pushed it again; the other line of this product is the one cut"
+   "why": "doubled line: the works order was changed after the print and the planner pushed it again; the other line of this product is the one cut",
+   "created": "2026-09-28"
   },
   {
    "ref": "WO-1374",
@@ -2671,7 +2848,8 @@
    "k": "WO-1374|OHAP300531|CO6030",
    "fabric": "CO6030",
    "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
-   "std": 100
+   "std": 100,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1375",
@@ -2684,7 +2862,8 @@
    "k": "WO-1375|OHCJSMDEVON4601|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 12.54
+   "std": 12.54,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1375",
@@ -2698,7 +2877,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 3.36,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116252-Pt7",
@@ -2714,7 +2894,8 @@
    "std": 3.52,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T11:00:57.251Z",
-   "metres": 3.52
+   "metres": 3.52,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116252-Pt7",
@@ -2731,7 +2912,8 @@
    "extra": true,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T11:00:57.251Z",
-   "metres": 0.08
+   "metres": 0.08,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116252-Pt8",
@@ -2747,7 +2929,8 @@
    "std": 3.14,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T11:00:59.722Z",
-   "metres": 3.14
+   "metres": 3.14,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116252-Pt8",
@@ -2764,7 +2947,8 @@
    "extra": true,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T11:00:59.722Z",
-   "metres": 0.08
+   "metres": 0.08,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116201-Pt2",
@@ -2780,7 +2964,8 @@
    "std": 19.32,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:01:08.886Z",
-   "metres": 19.32
+   "metres": 19.32,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1379",
@@ -2793,7 +2978,8 @@
    "k": "WO-1379|OHCJSSUFFOLK4001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 22
+   "std": 22,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1380",
@@ -2806,7 +2992,8 @@
    "k": "WO-1380|OHAPP053515/DS|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 5.43
+   "std": 5.43,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116252-Pt9",
@@ -2824,7 +3011,8 @@
    "at": "2026-10-02T11:52:47.362Z",
    "metres": null,
    "cancelledAt": "2026-10-02",
-   "why": "doubled line: the works order was changed after the print and the planner pushed it again; the other line of this product is the one cut"
+   "why": "doubled line: the works order was changed after the print and the planner pushed it again; the other line of this product is the one cut",
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1384",
@@ -2840,7 +3028,8 @@
    "std": 102.66,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:05:00.356Z",
-   "metres": 102.66
+   "metres": 102.66,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1387",
@@ -2856,7 +3045,8 @@
    "std": 15.1,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:06:36.608Z",
-   "metres": 15.1
+   "metres": 15.1,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1389",
@@ -2872,7 +3062,8 @@
    "std": 11.6,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:58:23.815Z",
-   "metres": 11.6
+   "metres": 11.6,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1389",
@@ -2886,7 +3077,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.1,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1390",
@@ -2902,7 +3094,8 @@
    "std": 5.9,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:58:27.577Z",
-   "metres": 5.9
+   "metres": 5.9,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1390",
@@ -2916,7 +3109,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 0.45,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1391",
@@ -2929,7 +3123,8 @@
    "k": "WO-1391|OHAPP0535241/DS|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 16.27
+   "std": 16.27,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1392",
@@ -2945,7 +3140,8 @@
    "std": 1.42,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:00:36.185Z",
-   "metres": 1.42
+   "metres": 1.42,
+   "created": "2026-09-29"
   },
   {
    "ref": "WO-1392",
@@ -2962,7 +3158,8 @@
    "extra": true,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:00:36.185Z",
-   "metres": 0.11
+   "metres": 0.11,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116448-Pt1",
@@ -2978,7 +3175,8 @@
    "std": 6.57,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:14:00.498Z",
-   "metres": 6.57
+   "metres": 6.57,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-OH116448-Pt1",
@@ -2995,7 +3193,8 @@
    "extra": true,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:14:00.498Z",
-   "metres": 2.04
+   "metres": 2.04,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-TIB871626-Pt1",
@@ -3008,7 +3207,8 @@
    "k": "S-TIB871626-Pt1|OHAPP300582|PC2082ECO",
    "fabric": "PC2082ECO",
    "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
-   "std": 55
+   "std": 55,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1393",
@@ -3021,7 +3221,8 @@
    "k": "WO-1393|OHCJSMCHESHIRE4801|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 16.38
+   "std": 16.38,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1393",
@@ -3035,7 +3236,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.43,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1394",
@@ -3048,7 +3250,8 @@
    "k": "WO-1394|CJ0193LL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 15
+   "std": 15,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1395",
@@ -3061,7 +3264,8 @@
    "k": "WO-1395|OHLCJSHAMPSHIRE1601|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 10.5
+   "std": 10.5,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1395",
@@ -3075,7 +3279,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side /underarm panel x 2 pair",
    "std": 0.3,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1396",
@@ -3088,7 +3293,8 @@
    "k": "WO-1396|CICJ01935601|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 2.5
+   "std": 2.5,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1397",
@@ -3101,7 +3307,8 @@
    "k": "WO-1397|OHCJSMDORSET4801L|CO4001NH3",
    "fabric": "CO4001NH3",
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
-   "std": 6
+   "std": 6,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1397",
@@ -3115,7 +3322,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.16,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1398",
@@ -3128,7 +3336,8 @@
    "k": "WO-1398|OHCJSMOXFORD4801L|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 6
+   "std": 6,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1398",
@@ -3142,7 +3351,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.16,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1399",
@@ -3155,7 +3365,8 @@
    "k": "WO-1399|OHLCJSHAMPSHIRE0601|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 3.68
+   "std": 3.68,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1399",
@@ -3169,7 +3380,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side /underarm panel x 2 pair",
    "std": 0.12,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1400",
@@ -3182,7 +3394,8 @@
    "k": "WO-1400|OHCJSMSTRATFORD4801|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 19.76
+   "std": 19.76,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1400",
@@ -3196,7 +3409,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 1.44,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1401",
@@ -3209,7 +3423,8 @@
    "k": "WO-1401|OHTAB15|CMP-WEB-PU-25-15",
    "fabric": "CMP-WEB-PU-25-15",
    "fabName": "NAVY 25MM POLYURETHENE WEBBING",
-   "std": 10
+   "std": 10,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1402",
@@ -3222,7 +3437,8 @@
    "k": "WO-1402|OHAPP078615|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 24.75
+   "std": 24.75,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1403",
@@ -3235,7 +3451,8 @@
    "k": "WO-1403|AP352801|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 15
+   "std": 15,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1404",
@@ -3248,7 +3465,8 @@
    "k": "WO-1404|OHAPP0634912|CO5TEXAS912",
    "fabric": "CO5TEXAS912",
    "fabName": "TEXAS GREEN DENIM 100% COTTON TWILL 330GSM (GE62)",
-   "std": 24
+   "std": 24,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1405",
@@ -3264,7 +3482,8 @@
    "std": 12,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:27.095Z",
-   "metres": 12
+   "metres": 12,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1406",
@@ -3277,7 +3496,8 @@
    "k": "WO-1406|OHCTTLANCASHIREMM03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 10.5
+   "std": 10.5,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1407",
@@ -3293,7 +3513,8 @@
    "std": 6,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:37.669Z",
-   "metres": 6
+   "metres": 6,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1408",
@@ -3309,7 +3530,8 @@
    "std": 9,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:43.962Z",
-   "metres": 9
+   "metres": 9,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1409",
@@ -3325,7 +3547,8 @@
    "std": 9,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:46.336Z",
-   "metres": 9
+   "metres": 9,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1410",
@@ -3341,7 +3564,8 @@
    "std": 9,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:48.692Z",
-   "metres": 9
+   "metres": 9,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1411",
@@ -3357,7 +3581,8 @@
    "std": 3,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:51.461Z",
-   "metres": 3
+   "metres": 3,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1412",
@@ -3370,7 +3595,8 @@
    "k": "WO-1412|OHLCTSHROPSHIRE0603|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 8.4
+   "std": 8.4,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1413",
@@ -3383,7 +3609,8 @@
    "k": "WO-1413|OHLCTSHROPSHIRE1803|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 11.2
+   "std": 11.2,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1414",
@@ -3401,7 +3628,8 @@
    "at": "2026-10-02T10:50:52.783Z",
    "metres": 10,
    "note": "Run part roll out",
-   "adjustedAt": "2026-10-02T10:51:30.635Z"
+   "adjustedAt": "2026-10-02T10:51:30.635Z",
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1415",
@@ -3414,7 +3642,8 @@
    "k": "WO-1415|OHLCTSHROPSHIRE2003|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 5.6
+   "std": 5.6,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1416",
@@ -3427,7 +3656,8 @@
    "k": "WO-1416|OHLCTSHROPSHIRE0803|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 5.6
+   "std": 5.6,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1417",
@@ -3443,7 +3673,8 @@
    "std": 9,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T10:47:29.479Z",
-   "metres": 9
+   "metres": 9,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1418",
@@ -3456,7 +3687,8 @@
    "k": "WO-1418|OHLCTSHROPSHIRE1203|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 14
+   "std": 14,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1212",
@@ -3469,7 +3701,8 @@
    "k": "WO-1212|OHHICAPP062803DEN|CO5003DEN",
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
-   "std": 10.36
+   "std": 10.36,
+   "created": "2026-09-17"
   },
   {
    "ref": "WO-1419",
@@ -3482,7 +3715,8 @@
    "k": "WO-1419|WAGCJM0193XS01|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 16.2
+   "std": 16.2,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1419",
@@ -3496,7 +3730,8 @@
    "fabric": "MESH2290901",
    "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
    "std": 4.2,
-   "extra": true
+   "extra": true,
+   "created": "2026-09-30"
   },
   {
    "ref": "WO-1420",
@@ -3509,7 +3744,8 @@
    "k": "WO-1420|OHLCJDERBYSHIRE1001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 13.97
+   "std": 13.97,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1421",
@@ -3522,7 +3758,8 @@
    "k": "WO-1421|CJM0193SS01|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 95
+   "std": 95,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1421",
@@ -3536,7 +3773,8 @@
    "fabric": "MESH2290901",
    "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
    "std": 19,
-   "extra": true
+   "extra": true,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1422",
@@ -3549,7 +3787,8 @@
    "k": "WO-1422|BEAPP047801C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 11.2
+   "std": 11.2,
+   "created": "2026-10-01"
   },
   {
    "ref": "S-OH116519-Pt1",
@@ -3562,7 +3801,8 @@
    "k": "S-OH116519-Pt1|OHAP300515C|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 48
+   "std": 48,
+   "created": "2026-10-01"
   },
   {
    "ref": "S-TIB871699-Pt1",
@@ -3575,7 +3815,8 @@
    "k": "S-TIB871699-Pt1|APP063103PCS|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 2.7
+   "std": 2.7,
+   "created": "2026-10-01"
   },
   {
    "ref": "S-TIB871755-Pt1",
@@ -3588,7 +3829,8 @@
    "k": "S-TIB871755-Pt1|CICJM01936601|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 10.5
+   "std": 10.5,
+   "created": "2026-10-01"
   },
   {
    "ref": "S-TIB871755-Pt1",
@@ -3602,7 +3844,8 @@
    "fabric": "MESH2290901",
    "fabName": "Mesh quality 22909 white (Simplex) \u2014 back panel",
    "std": 2.5,
-   "extra": true
+   "extra": true,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1423",
@@ -3615,7 +3858,8 @@
    "k": "WO-1423|OHAPP352803|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 256.65
+   "std": 256.65,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1424",
@@ -3628,7 +3872,8 @@
    "k": "WO-1424|OHCJSMCHESHIRE5001|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 12.78
+   "std": 12.78,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1424",
@@ -3642,7 +3887,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.99,
-   "extra": true
+   "extra": true,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1425",
@@ -3655,7 +3901,8 @@
    "k": "WO-1425|OHAPP352801C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 92.39
+   "std": 92.39,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1426",
@@ -3668,7 +3915,8 @@
    "k": "WO-1426|OHCJSMCHESHIRE4001|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 18.4
+   "std": 18.4,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1426",
@@ -3682,7 +3930,8 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.76,
-   "extra": true
+   "extra": true,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1427",
@@ -3695,7 +3944,8 @@
    "k": "WO-1427|CJM01935201|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 12.5
+   "std": 12.5,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1427",
@@ -3709,7 +3959,8 @@
    "fabric": "MESH2290901",
    "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
    "std": 2.5,
-   "extra": true
+   "extra": true,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1428",
@@ -3722,7 +3973,8 @@
    "k": "WO-1428|CJM0193MM01|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 375
+   "std": 375,
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1428",
@@ -3736,7 +3988,8 @@
    "fabric": "MESH2290901",
    "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
    "std": 75,
-   "extra": true
+   "extra": true,
+   "created": "2026-10-01"
   },
   {
    "ref": "S-OH116252-Pt9",
@@ -3752,7 +4005,8 @@
    "std": null,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T11:52:55.625Z",
-   "metres": null
+   "metres": null,
+   "created": "2026-09-29"
   },
   {
    "ref": "S-TIB871161-Pt2",
@@ -3768,7 +4022,8 @@
    "std": 1.5,
    "cutAt": "2026-10-02",
    "at": "2026-10-02T12:04:34.160Z",
-   "metres": 1.5
+   "metres": 1.5,
+   "created": "2026-09-28"
   }
  ],
  "savedAt": "2026-10-02T12:04:34.160Z"
