@@ -2812,7 +2812,12 @@
    "k": "S-OH116252-Pt9|OHCJSMOXFORD5003L|",
    "fabric": "",
    "fabName": "",
-   "std": null
+   "std": null,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T11:50:52.613Z",
+   "metres": 3.14,
+   "note": "No fabric on WO",
+   "adjustedAt": "2026-10-02T11:50:52.613Z"
   },
   {
    "ref": "WO-1384",
@@ -3727,5 +3732,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T11:49:45.158Z"
+ "savedAt": "2026-10-02T11:50:52.613Z"
 }
