@@ -2603,7 +2603,10 @@
    "k": "S-OH116383-Pt1|OHAPP053403/07CT|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 13.14
+   "std": 13.14,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T10:40:55.869Z",
+   "metres": 13.14
   },
   {
    "ref": "S-OH116383-Pt1",
@@ -2617,7 +2620,10 @@
    "fabric": "CO5007",
    "fabName": "Red 100% cotton 255gsm 3110 (P&R) — contrast neck strap and waist ties — rating 0.15M",
    "std": 3.6,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T10:40:55.869Z",
+   "metres": 3.6
   },
   {
    "ref": "S-TIB871161-Pt2",
@@ -3662,5 +3668,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T10:33:19.173Z"
+ "savedAt": "2026-10-02T10:40:55.869Z"
 }
