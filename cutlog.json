@@ -2719,7 +2719,10 @@
    "k": "S-OH116201-Pt2|OHRSAPP300503PC|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 19.32
+   "std": 19.32,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T10:01:08.886Z",
+   "metres": 19.32
   },
   {
    "ref": "WO-1379",
@@ -3629,5 +3632,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T10:00:36.185Z"
+ "savedAt": "2026-10-02T10:01:08.886Z"
 }
