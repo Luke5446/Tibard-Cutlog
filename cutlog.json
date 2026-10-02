@@ -3744,7 +3744,20 @@
    "cutAt": "2026-10-02",
    "at": "2026-10-02T11:52:55.625Z",
    "metres": null
+  },
+  {
+   "ref": "S-TIB871161-Pt2",
+   "code": "OHCJSMOXFORD4003",
+   "desc": "BLACK S/S DETACH BUTTON OXFORD CHEF JACKET SZ 40\"",
+   "qty": 1,
+   "due": "2026-10-22",
+   "printedAt": "2026-09-28",
+   "customer": "Wards Catering 22.09.26",
+   "k": "S-TIB871161-Pt2|OHCJSMOXFORD4003|PC14003",
+   "fabric": "PC14003",
+   "fabName": "BLACK COOLTEX 1 - 215GSM POLY/COTTON",
+   "std": 1.5
   }
  ],
- "savedAt": "2026-10-02T11:52:55.625Z"
+ "savedAt": "2026-10-02T11:58:18.134Z"
 }
