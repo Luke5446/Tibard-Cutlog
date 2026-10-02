@@ -2048,7 +2048,10 @@
    "k": "WO-1315|WAGSB077403L|PVC600D03",
    "fabric": "PVC600D03",
    "fabName": "BLACK RECYCLED TEXTURED POLYESTER 430GSM",
-   "std": 18
+   "std": 18,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T10:10:52.278Z",
+   "metres": 18
   },
   {
    "ref": "WO-1321",
@@ -3647,5 +3650,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T10:10:43.729Z"
+ "savedAt": "2026-10-02T10:10:52.278Z"
 }
