@@ -380,7 +380,10 @@
    "k": "S-TIB870000-Pt1|OHAPB0002|CO5083ECO",
    "fabric": "CO5083ECO",
    "fabName": "OLIVE GREEN 100% SUSTAINABLE COTTON (X149 - AM302)",
-   "std": 28
+   "std": 28,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T10:33:19.173Z",
+   "metres": 28
   },
   {
    "ref": "WO-1139",
@@ -3659,5 +3662,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T10:27:56.006Z"
+ "savedAt": "2026-10-02T10:33:19.173Z"
 }
