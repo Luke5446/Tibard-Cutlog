@@ -3740,8 +3740,11 @@
    "k": "S-OH116252-Pt9|OHCJSMOXFORD5003L|PC14003",
    "fabric": "PC14003",
    "fabName": "BLACK COOLTEX 1 - 215GSM POLY/COTTON",
-   "std": null
+   "std": null,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T11:52:55.625Z",
+   "metres": null
   }
  ],
- "savedAt": "2026-10-02T11:52:47.362Z"
+ "savedAt": "2026-10-02T11:52:55.625Z"
 }
