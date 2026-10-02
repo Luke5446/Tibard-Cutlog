@@ -1595,7 +1595,10 @@
    "k": "S-OH116106-Pt9|OHLCJ40084203|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 4.5
+   "std": 4.5,
+   "cutAt": "2026-10-02",
+   "at": "2026-10-02T09:57:20.982Z",
+   "metres": 4.5
   },
   {
    "ref": "WO-1277",
@@ -3620,5 +3623,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-02T09:57:15.900Z"
+ "savedAt": "2026-10-02T09:57:20.982Z"
 }
