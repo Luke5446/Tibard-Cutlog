@@ -3845,7 +3845,7 @@
    "customer": "",
    "k": "WO-1421|CJM0193SS01|MESHPW31401",
    "fabric": "MESHPW31401",
-   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back centre panel",
    "std": 19,
    "extra": true,
    "created": "2026-10-01"
@@ -4034,7 +4034,7 @@
    "customer": "",
    "k": "WO-1427|CJM01935201|MESHPW31401",
    "fabric": "MESHPW31401",
-   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back centre panel",
    "std": 2.5,
    "extra": true,
    "created": "2026-10-01"
@@ -4063,7 +4063,7 @@
    "customer": "",
    "k": "WO-1428|CJM0193MM01|MESHPW31401",
    "fabric": "MESHPW31401",
-   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back centre panel",
    "std": 75,
    "extra": true,
    "created": "2026-10-01"
@@ -4117,5 +4117,5 @@
    "std": 12.08
   }
  ],
- "savedAt": "2026-10-05T10:32:34.569Z"
+ "savedAt": "2026-10-05T10:47:48.998Z"
 }
