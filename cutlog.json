@@ -2441,7 +2441,7 @@
    "customer": "",
    "k": "WO-1345|OHAPP059703/153DEN|CO5153",
    "fabric": "CO5153",
-   "fabName": "Khaki 3110 100% cotton (for neck and waist ties) \u2014 contrast marker 0597A (neck tie + ties)",
+   "fabName": "Khaki 3110 100% cotton (for neck and waist ties) — contrast marker 0597A (neck tie + ties)",
    "std": 0.83,
    "extra": true,
    "created": "2026-09-24"
@@ -2808,7 +2808,7 @@
    "customer": "CNM College",
    "k": "S-OH116383-Pt1|OHAPP053403/07CT|CO5007",
    "fabric": "CO5007",
-   "fabName": "Red 100% cotton 255gsm 3110 (P&R) \u2014 contrast neck strap and waist ties \u2014 rating 0.15M",
+   "fabName": "Red 100% cotton 255gsm 3110 (P&R) — contrast neck strap and waist ties — rating 0.15M",
    "std": 3.6,
    "extra": true,
    "cutAt": "2026-10-02",
@@ -3188,7 +3188,7 @@
    "customer": "Venue Catering & Events Ltd",
    "k": "S-OH116448-Pt1|OHAPP0534110/222CTS|CO5222ECO",
    "fabric": "CO5222ECO",
-   "fabName": "Cocoa 100% organic cotton 260gsm X149ECO-AM307 (Tiajo) \u2014 contrast for neck strap and waist ties \u2014 rating 0.17M",
+   "fabName": "Cocoa 100% organic cotton 260gsm X149ECO-AM307 (Tiajo) — contrast for neck strap and waist ties — rating 0.17M",
    "std": 2.04,
    "extra": true,
    "cutAt": "2026-10-02",
@@ -3366,7 +3366,10 @@
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 3.68,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cutAt": "2026-10-05",
+   "at": "2026-10-05T07:42:10.211Z",
+   "metres": 3.68
   },
   {
    "ref": "WO-1399",
@@ -3381,7 +3384,10 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side /underarm panel x 2 pair",
    "std": 0.12,
    "extra": true,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cutAt": "2026-10-05",
+   "at": "2026-10-05T07:42:10.212Z",
+   "metres": 0.12
   },
   {
    "ref": "WO-1400",
@@ -3728,7 +3734,7 @@
    "customer": "",
    "k": "WO-1419|WAGCJM0193XS01|MESH2290901",
    "fabric": "MESH2290901",
-   "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
+   "fabName": "Mesh quality 22909 white (Clarkson Knitting) — back centre panel",
    "std": 4.2,
    "extra": true,
    "created": "2026-09-30"
@@ -3771,7 +3777,7 @@
    "customer": "",
    "k": "WO-1421|CJM0193SS01|MESH2290901",
    "fabric": "MESH2290901",
-   "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
+   "fabName": "Mesh quality 22909 white (Clarkson Knitting) — back centre panel",
    "std": 19,
    "extra": true,
    "created": "2026-10-01"
@@ -3842,7 +3848,7 @@
    "customer": "Stalbridge Linen Services Ltd",
    "k": "S-TIB871755-Pt1|CICJM01936601|MESH2290901",
    "fabric": "MESH2290901",
-   "fabName": "Mesh quality 22909 white (Simplex) \u2014 back panel",
+   "fabName": "Mesh quality 22909 white (Simplex) — back panel",
    "std": 2.5,
    "extra": true,
    "created": "2026-10-01"
@@ -3957,7 +3963,7 @@
    "customer": "",
    "k": "WO-1427|CJM01935201|MESH2290901",
    "fabric": "MESH2290901",
-   "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
+   "fabName": "Mesh quality 22909 white (Clarkson Knitting) — back centre panel",
    "std": 2.5,
    "extra": true,
    "created": "2026-10-01"
@@ -3986,7 +3992,7 @@
    "customer": "",
    "k": "WO-1428|CJM0193MM01|MESH2290901",
    "fabric": "MESH2290901",
-   "fabName": "Mesh quality 22909 white (Clarkson Knitting) \u2014 back centre panel",
+   "fabName": "Mesh quality 22909 white (Clarkson Knitting) — back centre panel",
    "std": 75,
    "extra": true,
    "created": "2026-10-01"
@@ -4026,5 +4032,5 @@
    "created": "2026-09-28"
   }
  ],
- "savedAt": "2026-10-02T12:04:34.160Z"
+ "savedAt": "2026-10-05T07:42:10.212Z"
 }
