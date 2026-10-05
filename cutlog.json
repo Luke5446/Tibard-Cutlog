@@ -3608,7 +3608,12 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 8.4,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cutAt": "2026-10-05",
+   "at": "2026-10-05T07:45:22.151Z",
+   "metres": 7.08,
+   "note": "Actual Rating = 1.18m",
+   "adjustedAt": "2026-10-05T07:45:22.151Z"
   },
   {
    "ref": "WO-1413",
@@ -4038,5 +4043,5 @@
    "created": "2026-09-28"
   }
  ],
- "savedAt": "2026-10-05T07:43:05.683Z"
+ "savedAt": "2026-10-05T07:45:22.151Z"
 }
