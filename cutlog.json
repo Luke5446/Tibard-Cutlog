@@ -4764,7 +4764,21 @@
    "fabName": "Cocoa 100% organic cotton 260gsm X149ECO-AM307 (Tiajo) — contrast for neck strap and waist ties — rating 0.17M",
    "std": 3.4,
    "extra": true
+  },
+  {
+   "ref": "WO-1452",
+   "code": "OHAPP0634912",
+   "desc": "TEXAS GREEN DENIM BIB APRON, S/F TIES + ANGLED POCKETS",
+   "qty": 12,
+   "due": "2026-10-06",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "",
+   "k": "WO-1452|OHAPP0634912|CO5TEXAS912",
+   "fabric": "CO5TEXAS912",
+   "fabName": "TEXAS GREEN DENIM 100% COTTON TWILL 330GSM (GE62)",
+   "std": 9.6
   }
  ],
- "savedAt": "2026-10-06T13:23:57.776Z"
+ "savedAt": "2026-10-06T13:51:56.699Z"
 }
