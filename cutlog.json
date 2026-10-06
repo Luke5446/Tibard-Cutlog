@@ -4190,7 +4190,21 @@
    "extra": true,
    "cancelledAt": "2026-10-06",
    "why": "split off WO-1355 after its cloth was cut (10 of OHCJSMOXFORD4401 on 2 Oct): nothing more to cut"
+  },
+  {
+   "ref": "WO-1431",
+   "code": "BEAPP047801C",
+   "desc": "WHITE 100% COTTON BIB APRON, S/F TIES & STRAP, PKT + LOGO",
+   "qty": 30,
+   "due": "2026-10-14",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "",
+   "k": "WO-1431|BEAPP047801C|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 24
   }
  ],
- "savedAt": "2026-10-06T08:36:20.254Z"
+ "savedAt": "2026-10-06T08:49:52.711Z"
 }
