@@ -2564,7 +2564,10 @@
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
    "std": 1.26,
-   "created": "2026-09-25"
+   "created": "2026-09-25",
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T10:41:07.721Z",
+   "metres": 1.26
   },
   {
    "ref": "S-OH116292-Pt1",
@@ -2579,7 +2582,10 @@
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.04,
    "extra": true,
-   "created": "2026-09-25"
+   "created": "2026-09-25",
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T10:41:07.721Z",
+   "metres": 0.04
   },
   {
    "ref": "S-OH116297-Pt1",
@@ -4644,5 +4650,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-06T10:25:57.688Z"
+ "savedAt": "2026-10-06T10:41:07.721Z"
 }
