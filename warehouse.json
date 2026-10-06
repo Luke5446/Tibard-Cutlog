@@ -14797,7 +14797,20 @@
    "machine": "1",
    "allocatedAt": "2026-10-06T12:36:31.906Z",
    "doneAt": "2026-10-06T12:36:38.240Z"
+  },
+  {
+   "k": "embbook|WO-1451|TRGHT016003SHARP",
+   "kind": "embbook",
+   "ref": "WO-1451",
+   "code": "TRGHT016003SHARP",
+   "baseCode": "HT016003",
+   "qty": 13,
+   "bookedAt": "2026-10-06T12:37:21.355Z",
+   "files": [
+    "EMB_WriteOff_WO-1451_2026-10-06.csv",
+    "EMB_BookIn_WO-1451_2026-10-06.csv"
+   ]
   }
  ],
- "savedAt": "2026-10-06T12:36:38.240Z"
+ "savedAt": "2026-10-06T12:37:21.355Z"
 }
