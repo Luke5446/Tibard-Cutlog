@@ -4794,7 +4794,21 @@
    "cutAt": "2026-10-06",
    "at": "2026-10-06T14:06:16.536Z",
    "metres": 9.6
+  },
+  {
+   "ref": "WO-1454",
+   "code": "OHAPP078615",
+   "desc": "NAVY POLY/COTTON UTILITY BIB APRON BASE",
+   "qty": 20,
+   "due": "2026-10-13",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "",
+   "k": "WO-1454|OHAPP078615|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 16.5
   }
  ],
- "savedAt": "2026-10-06T15:00:57.487Z"
+ "savedAt": "2026-10-06T15:01:37.111Z"
 }
