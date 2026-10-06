@@ -3532,7 +3532,10 @@
    "fabric": "CO5TEXAS912",
    "fabName": "TEXAS GREEN DENIM 100% COTTON TWILL 330GSM (GE62)",
    "std": 24,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T07:51:30.501Z",
+   "metres": 24
   },
   {
    "ref": "WO-1405",
@@ -4151,5 +4154,5 @@
    "std": 12.08
   }
  ],
- "savedAt": "2026-10-05T14:56:37.016Z"
+ "savedAt": "2026-10-06T07:51:30.501Z"
 }
