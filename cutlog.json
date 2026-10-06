@@ -4755,7 +4755,10 @@
    "k": "S-OH116688-Pt1|OHAPP0534110/222CTS|CO5364ECO",
    "fabric": "CO5364ECO",
    "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
-   "std": 10.95
+   "std": 10.95,
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T15:00:57.487Z",
+   "metres": 10.95
   },
   {
    "ref": "S-OH116688-Pt1",
@@ -4770,7 +4773,10 @@
    "fabric": "CO5222ECO",
    "fabName": "Cocoa 100% organic cotton 260gsm X149ECO-AM307 (Tiajo) — contrast for neck strap and waist ties — rating 0.17M",
    "std": 3.4,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T15:00:57.487Z",
+   "metres": 3.4
   },
   {
    "ref": "WO-1452",
@@ -4790,5 +4796,5 @@
    "metres": 9.6
   }
  ],
- "savedAt": "2026-10-06T14:39:09.898Z"
+ "savedAt": "2026-10-06T15:00:57.487Z"
 }
