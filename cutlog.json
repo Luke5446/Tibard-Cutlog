@@ -4777,8 +4777,11 @@
    "k": "WO-1452|OHAPP0634912|CO5TEXAS912",
    "fabric": "CO5TEXAS912",
    "fabName": "TEXAS GREEN DENIM 100% COTTON TWILL 330GSM (GE62)",
-   "std": 9.6
+   "std": 9.6,
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T14:06:16.536Z",
+   "metres": 9.6
   }
  ],
- "savedAt": "2026-10-06T13:51:56.699Z"
+ "savedAt": "2026-10-06T14:06:16.536Z"
 }
