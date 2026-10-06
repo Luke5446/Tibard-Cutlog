@@ -4657,7 +4657,36 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.11,
    "extra": true
+  },
+  {
+   "ref": "S-OH116688-Pt1",
+   "code": "OHAPP0534110/222CTS",
+   "desc": "PUTTY ADJUSTABLE CONTRAST NECK BIB APRON, COCOA TIES + CENTRE FRONT POCKET - Special",
+   "qty": 20,
+   "due": "2026-10-14",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "Venue Catering & Events Ltd",
+   "k": "S-OH116688-Pt1|OHAPP0534110/222CTS|CO5364ECO",
+   "fabric": "CO5364ECO",
+   "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
+   "std": 10.95
+  },
+  {
+   "ref": "S-OH116688-Pt1",
+   "code": "OHAPP0534110/222CTS",
+   "desc": "PUTTY ADJUSTABLE CONTRAST NECK BIB APRON, COCOA TIES + CENTRE FRONT POCKET - Special",
+   "qty": 20,
+   "due": "2026-10-14",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "Venue Catering & Events Ltd",
+   "k": "S-OH116688-Pt1|OHAPP0534110/222CTS|CO5222ECO",
+   "fabric": "CO5222ECO",
+   "fabName": "Cocoa 100% organic cotton 260gsm X149ECO-AM307 (Tiajo) — contrast for neck strap and waist ties — rating 0.17M",
+   "std": 3.4,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-06T10:55:13.231Z"
+ "savedAt": "2026-10-06T10:55:15.539Z"
 }
