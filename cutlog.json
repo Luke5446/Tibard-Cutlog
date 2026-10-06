@@ -4839,7 +4839,21 @@
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 10.95
+  },
+  {
+   "ref": "WO-1456",
+   "code": "OHCJSSUFFOLK4601",
+   "desc": "WHITE S/S SUFFOLK CONCEALED STUD CHEF JACKET SZ 46\"",
+   "qty": 10,
+   "due": "2026-10-14",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "",
+   "k": "WO-1456|OHCJSSUFFOLK4601|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 15.1
   }
  ],
- "savedAt": "2026-10-06T15:27:40.231Z"
+ "savedAt": "2026-10-06T15:27:50.918Z"
 }
