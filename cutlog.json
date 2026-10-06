@@ -4534,7 +4534,21 @@
    "fabric": "CO5005",
    "fabName": "MAROON 3110 TRACKER COTTON 255GSM 150CM",
    "std": 4.8
+  },
+  {
+   "ref": "S-TIB872032-Pt1",
+   "code": "BEAP300601",
+   "desc": "WHITE COTTON LONG WAIST WITH POCKET + BETTYS LOGO",
+   "qty": 10,
+   "due": "2026-10-20",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "Bettys & Taylors of Harrogate Ltd",
+   "k": "S-TIB872032-Pt1|BEAP300601|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 10
   }
  ],
- "savedAt": "2026-10-06T09:00:01.132Z"
+ "savedAt": "2026-10-06T09:11:57.958Z"
 }
