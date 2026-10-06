@@ -14739,7 +14739,16 @@
    "desc": "PUTTY ADJUSTABLE CONTRAST NECK BIB APRON, COCOA TIES + CENTRE FRONT POCKET - Special",
    "bookedAt": "2026-10-05T16:03:50.203Z",
    "movedFrom": "this PC"
+  },
+  {
+   "k": "print|WO-1450",
+   "kind": "print",
+   "ref": "WO-1450",
+   "code": "GIRHT016003",
+   "pickCode": "HT016003",
+   "qty": 24,
+   "printedAt": "2026-10-06T10:38:52.289Z"
   }
  ],
- "savedAt": "2026-10-06T10:19:47.069Z"
+ "savedAt": "2026-10-06T10:38:52.289Z"
 }
