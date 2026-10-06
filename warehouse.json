@@ -14779,7 +14779,15 @@
    "due": "2026-10-08",
    "customer": "",
    "pickedAt": "2026-10-06T12:01:19.165Z"
+  },
+  {
+   "k": "emb|WO-1451|TRGHT016003SHARP",
+   "kind": "emb",
+   "ref": "WO-1451",
+   "code": "TRGHT016003SHARP",
+   "machine": "1",
+   "allocatedAt": "2026-10-06T12:01:29.905Z"
   }
  ],
- "savedAt": "2026-10-06T12:01:19.165Z"
+ "savedAt": "2026-10-06T12:01:29.905Z"
 }
