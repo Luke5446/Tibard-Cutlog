@@ -2961,7 +2961,10 @@
    "fabric": "CO6030",
    "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
    "std": 100,
-   "created": "2026-09-29"
+   "created": "2026-09-29",
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T12:27:17.967Z",
+   "metres": 100
   },
   {
    "ref": "WO-1375",
@@ -4745,5 +4748,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-06T11:44:26.349Z"
+ "savedAt": "2026-10-06T12:27:17.967Z"
 }
