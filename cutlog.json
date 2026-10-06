@@ -3922,7 +3922,12 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 2.7,
-   "created": "2026-10-01"
+   "created": "2026-10-01",
+   "cutAt": "2026-10-06",
+   "at": "2026-10-06T08:25:07.999Z",
+   "metres": 3,
+   "note": "Used 2 Garment Marker with Rating of 0.505m per garment",
+   "adjustedAt": "2026-10-06T08:25:07.999Z"
   },
   {
    "ref": "S-TIB871755-Pt1",
@@ -4183,5 +4188,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-06T08:13:50.933Z"
+ "savedAt": "2026-10-06T08:25:07.999Z"
 }
