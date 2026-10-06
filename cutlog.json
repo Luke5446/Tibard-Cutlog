@@ -4491,7 +4491,36 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.68,
    "extra": true
+  },
+  {
+   "ref": "WO-1447",
+   "code": "OHCJSMSTRATFORD3801",
+   "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 38\"",
+   "qty": 14,
+   "due": "2026-10-14",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "",
+   "k": "WO-1447|OHCJSMSTRATFORD3801|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 13.58
+  },
+  {
+   "ref": "WO-1447",
+   "code": "OHCJSMSTRATFORD3801",
+   "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 38\"",
+   "qty": 14,
+   "due": "2026-10-14",
+   "created": "2026-10-06",
+   "printedAt": "2026-10-06",
+   "customer": "",
+   "k": "WO-1447|OHCJSMSTRATFORD3801|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
+   "std": 1.26,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-06T08:59:36.005Z"
+ "savedAt": "2026-10-06T08:59:55.006Z"
 }
