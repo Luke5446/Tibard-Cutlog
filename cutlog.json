@@ -4381,7 +4381,7 @@
    "ref": "WO-1440",
    "code": "OHCJSMCHESHIRE4601",
    "desc": "WHITE S/S CHESHIRE PRESS STUD CHEF JACKET SZ 46''",
-   "qty": 10,
+   "qty": 9,
    "due": "2026-10-14",
    "created": "2026-10-06",
    "printedAt": "2026-10-06",
@@ -4389,13 +4389,13 @@
    "k": "WO-1440|OHCJSMCHESHIRE4601|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 12.1
+   "std": 10.89
   },
   {
    "ref": "WO-1440",
    "code": "OHCJSMCHESHIRE4601",
    "desc": "WHITE S/S CHESHIRE PRESS STUD CHEF JACKET SZ 46''",
-   "qty": 10,
+   "qty": 9,
    "due": "2026-10-14",
    "created": "2026-10-06",
    "printedAt": "2026-10-06",
@@ -4403,7 +4403,7 @@
    "k": "WO-1440|OHCJSMCHESHIRE4601|MESH2290901",
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
-   "std": 1.1,
+   "std": 0.99,
    "extra": true
   },
   {
@@ -4550,5 +4550,5 @@
    "std": 10
   }
  ],
- "savedAt": "2026-10-06T09:11:57.958Z"
+ "savedAt": "2026-10-06T09:15:03.048Z"
 }
