@@ -4615,10 +4615,7 @@
    "k": "WO-1444|OHCJSMOXFORD4601|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 23.46,
-   "cutAt": "2026-10-06",
-   "at": "2026-10-06T13:05:04.899Z",
-   "metres": 23.46
+   "std": 23.46
   },
   {
    "ref": "WO-1444",
@@ -4783,5 +4780,5 @@
    "metres": 9.6
   }
  ],
- "savedAt": "2026-10-06T14:06:16.536Z"
+ "savedAt": "2026-10-06T14:35:29.015Z"
 }
