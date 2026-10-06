@@ -14785,8 +14785,8 @@
    "kind": "emb",
    "ref": "WO-1451",
    "code": "TRGHT016003SHARP",
-   "machine": "1",
-   "allocatedAt": "2026-10-06T12:01:29.905Z"
+   "machine": "DTF",
+   "allocatedAt": "2026-10-06T12:36:28.417Z"
   },
   {
    "k": "emb|WO-1450|GIRHT016003",
@@ -14797,5 +14797,5 @@
    "allocatedAt": "2026-10-06T12:22:46.454Z"
   }
  ],
- "savedAt": "2026-10-06T12:36:22.546Z"
+ "savedAt": "2026-10-06T12:36:28.417Z"
 }
