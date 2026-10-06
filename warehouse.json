@@ -14759,7 +14759,16 @@
    "due": "2026-10-21",
    "customer": "",
    "pickedAt": "2026-10-06T11:10:05.243Z"
+  },
+  {
+   "k": "print|WO-1451",
+   "kind": "print",
+   "ref": "WO-1451",
+   "code": "TRGHT016003SHARP",
+   "pickCode": "HT016003SHARP",
+   "qty": 13,
+   "printedAt": "2026-10-06T11:17:02.551Z"
   }
  ],
- "savedAt": "2026-10-06T11:10:05.243Z"
+ "savedAt": "2026-10-06T11:17:02.551Z"
 }
