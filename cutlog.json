@@ -4983,7 +4983,10 @@
    "k": "WO-1457|OHLCJHAMPSHIRE1401|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 8.92
+   "std": 8.92,
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T11:29:11.876Z",
+   "metres": 8.92
   },
   {
    "ref": "WO-1457",
@@ -4998,7 +5001,10 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side /underarm panel x 2 pair",
    "std": 0.24,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T11:29:11.876Z",
+   "metres": 0.24
   },
   {
    "ref": "WO-1458",
@@ -5160,5 +5166,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-07T11:25:57.844Z"
+ "savedAt": "2026-10-07T11:29:11.876Z"
 }
