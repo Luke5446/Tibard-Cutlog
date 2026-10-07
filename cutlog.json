@@ -3991,7 +3991,8 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 16.2,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cancelledAt": "2026-10-07"
   },
   {
    "ref": "WO-1419",
@@ -4006,7 +4007,8 @@
    "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back centre panel",
    "std": 4.2,
    "extra": true,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cancelledAt": "2026-10-07"
   },
   {
    "ref": "WO-1420",
@@ -5155,5 +5157,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-07T10:30:13.493Z"
+ "savedAt": "2026-10-07T11:03:17.324Z"
 }
