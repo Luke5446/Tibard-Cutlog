@@ -1930,7 +1930,10 @@
    "fabric": "PC9068",
    "fabName": "BISCUIT COT/POLY 55/45 300GSM(2860 LAFCP300 COLF350-DES97DS)",
    "std": 6.98,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T10:22:13.416Z",
+   "metres": 6.98
   },
   {
    "ref": "WO-1292",
@@ -5113,5 +5116,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-07T10:21:59.925Z"
+ "savedAt": "2026-10-07T10:22:13.416Z"
 }
