@@ -1845,7 +1845,10 @@
    "fabric": "CO5224DEN",
    "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
    "std": 6.6,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T10:21:28.405Z",
+   "metres": 6.6
   },
   {
    "ref": "WO-1283",
@@ -5101,5 +5104,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-07T10:09:58.805Z"
+ "savedAt": "2026-10-07T10:21:28.405Z"
 }
