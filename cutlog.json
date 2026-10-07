@@ -5221,7 +5221,21 @@
    "fabric": "CO5224DEN",
    "fabName": "Indigo denim art murray 315gsm 100% cotton 1.50m width — rating 0.72 m (marker 0597FSAME, 2.88 m over 4)",
    "std": 28.8
+  },
+  {
+   "ref": "S-OH116732-Pt1",
+   "code": "OHAPP062615PC",
+   "desc": "NAVY P/C LONG BIB APRON + PKT, SELF FABRIC TIES, STUD HALTER",
+   "qty": 24,
+   "due": "2026-10-21",
+   "created": "2026-10-07",
+   "printedAt": "2026-10-07",
+   "customer": "Moor Hall Restaurant Ltd",
+   "k": "S-OH116732-Pt1|OHAPP062615PC|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 24
   }
  ],
- "savedAt": "2026-10-07T18:36:24.702Z"
+ "savedAt": "2026-10-07T19:14:53.317Z"
 }
