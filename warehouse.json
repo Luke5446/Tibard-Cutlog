@@ -14949,7 +14949,18 @@
    "pickCode": "CJM0193XS01",
    "qty": 12,
    "printedAt": "2026-10-07T15:44:21.583Z"
+  },
+  {
+   "k": "pick|WO-1464|WAGCJM0193XS01",
+   "kind": "pick",
+   "ref": "WO-1464",
+   "code": "WAGCJM0193XS01",
+   "pickCode": "CJM0193XS01",
+   "qty": 12,
+   "due": "2026-10-21",
+   "customer": "",
+   "pickedAt": "2026-10-07T15:47:11.492Z"
   }
  ],
- "savedAt": "2026-10-07T15:44:21.584Z"
+ "savedAt": "2026-10-07T15:47:11.492Z"
 }
