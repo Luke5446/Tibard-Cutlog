@@ -2812,7 +2812,10 @@
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
    "std": 6.6,
-   "created": "2026-09-28"
+   "created": "2026-09-28",
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T09:14:56.646Z",
+   "metres": 6.6
   },
   {
    "ref": "WO-1364",
@@ -5039,5 +5042,5 @@
    "std": 5
   }
  ],
- "savedAt": "2026-10-07T09:05:23.219Z"
+ "savedAt": "2026-10-07T09:14:56.647Z"
 }
