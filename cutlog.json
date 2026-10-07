@@ -5207,7 +5207,21 @@
    "fabName": "Brown leather, cut 74 cm x 2.5 cm x 2 — average 30 pairs per hide (0.033 of a hide)",
    "std": 0.3,
    "extra": true
+  },
+  {
+   "ref": "S-OH116726-Pt1",
+   "code": "OHAPP0597F224DEN",
+   "desc": "INDIGO DENIM LADIES STUD FASTENED BIB APRON WITH CONTRAST GOLD STITCHING + 2 HIP POCKETS",
+   "qty": 40,
+   "due": "2026-10-21",
+   "created": "2026-10-07",
+   "printedAt": "2026-10-07",
+   "customer": "Rhubarb Food Design Ltd",
+   "k": "S-OH116726-Pt1|OHAPP0597F224DEN|CO5224DEN",
+   "fabric": "CO5224DEN",
+   "fabName": "Indigo denim art murray 315gsm 100% cotton 1.50m width — rating 0.72 m (marker 0597FSAME, 2.88 m over 4)",
+   "std": 28.8
   }
  ],
- "savedAt": "2026-10-07T18:33:50.227Z"
+ "savedAt": "2026-10-07T18:36:24.702Z"
 }
