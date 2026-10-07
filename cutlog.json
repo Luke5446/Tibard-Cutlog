@@ -4319,7 +4319,12 @@
    "k": "WO-1431|BEAPP047801C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 24
+   "std": 24,
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T08:59:46.957Z",
+   "metres": 20.56,
+   "note": "Garment Rating = 0.6425m. Cut 2 extra garments.",
+   "adjustedAt": "2026-10-07T08:59:46.957Z"
   },
   {
    "ref": "WO-1432",
@@ -5020,5 +5025,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-07T08:57:30.184Z"
+ "savedAt": "2026-10-07T08:59:46.957Z"
 }
