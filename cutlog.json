@@ -2807,7 +2807,10 @@
    "fabric": "CO5TEXAS911",
    "fabName": "TEXAS RED DENIM 100% COTTON TWILL 330GSM (RD85)",
    "std": 3.2,
-   "created": "2026-09-28"
+   "created": "2026-09-28",
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T10:07:01.486Z",
+   "metres": 3.2
   },
   {
    "ref": "WO-1363",
@@ -5092,5 +5095,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-07T10:04:04.217Z"
+ "savedAt": "2026-10-07T10:07:01.486Z"
 }
