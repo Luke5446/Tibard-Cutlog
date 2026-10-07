@@ -3515,7 +3515,10 @@
    "fabric": "CO4001NH3",
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
    "std": 6,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T10:27:04.882Z",
+   "metres": 6
   },
   {
    "ref": "WO-1397",
@@ -3530,7 +3533,10 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.16,
    "extra": true,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cutAt": "2026-10-07",
+   "at": "2026-10-07T10:27:04.882Z",
+   "metres": 0.16
   },
   {
    "ref": "WO-1398",
@@ -5134,5 +5140,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-07T10:26:55.338Z"
+ "savedAt": "2026-10-07T10:27:04.882Z"
 }
