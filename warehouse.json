@@ -15087,7 +15087,37 @@
    "code": "WAGCJM0193XS01",
    "machine": "1",
    "allocatedAt": "2026-10-08T09:00:29.994Z"
+  },
+  {
+   "k": "book|WO-1306|OHAP300531|2026-10-08|51",
+   "kind": "book",
+   "ref": "WO-1306",
+   "code": "OHAP300531",
+   "completed": "2026-10-08",
+   "qty": 51,
+   "desc": "NAVY/WHITE BUTCHERS 100% COTTON BIB APRON",
+   "bookedAt": "2026-10-08T10:26:30.755Z"
+  },
+  {
+   "k": "book|WO-1469|WAGSB077403L|2026-10-08|30",
+   "kind": "book",
+   "ref": "WO-1469",
+   "code": "WAGSB077403L",
+   "completed": "2026-10-08",
+   "qty": 30,
+   "desc": "BLACK RECYCLED POLYESTER PVC STAFF BAG, LONGER TIES + LOGO",
+   "bookedAt": "2026-10-08T10:26:30.755Z"
+  },
+  {
+   "k": "book|WO-1470|WAGSB077403|2026-10-08|60",
+   "kind": "book",
+   "ref": "WO-1470",
+   "code": "WAGSB077403",
+   "completed": "2026-10-08",
+   "qty": 60,
+   "desc": "BLACK RECYCLED POLYESTER PVC STAFF BAG + WAGAMAMA LOGO",
+   "bookedAt": "2026-10-08T10:26:30.755Z"
   }
  ],
- "savedAt": "2026-10-08T09:01:50.762Z"
+ "savedAt": "2026-10-08T10:26:31.245Z"
 }
