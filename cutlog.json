@@ -5299,7 +5299,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 15.7
+  },
+  {
+   "ref": "WO-1468",
+   "code": "OHCJSUFFOLK4801",
+   "desc": "WHITE L/S SUFFOLK CONCEALED STUD CHEF JACKET SZ 48\"",
+   "qty": 10,
+   "due": "2026-10-15",
+   "created": "2026-10-08",
+   "printedAt": "2026-10-08",
+   "customer": "",
+   "k": "WO-1468|OHCJSUFFOLK4801|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 19.3
   }
  ],
- "savedAt": "2026-10-08T08:33:42.539Z"
+ "savedAt": "2026-10-08T08:33:46.777Z"
 }
