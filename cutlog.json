@@ -5353,7 +5353,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 11
+  },
+  {
+   "ref": "S-TIB866692-Pt3",
+   "code": "COB0001108",
+   "desc": "DARK GREY GENTS STUD LAB COAT SZ 108CM + MTC LOGOS",
+   "qty": 10,
+   "due": "2026-10-20",
+   "created": "2026-10-08",
+   "printedAt": "2026-10-08",
+   "customer": "MTC Operations Limited",
+   "k": "S-TIB866692-Pt3|COB0001108|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 18.4
   }
  ],
- "savedAt": "2026-10-08T10:02:08.483Z"
+ "savedAt": "2026-10-08T10:02:13.266Z"
 }
