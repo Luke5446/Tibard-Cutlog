@@ -15080,7 +15080,15 @@
    "qty": 49,
    "desc": "BLACK ELASTICATED CHEFS TROUSERS SIZE LARGE",
    "bookedAt": "2026-10-07T15:53:38.003Z"
+  },
+  {
+   "k": "emb|WO-1464|WAGCJM0193XS01",
+   "kind": "emb",
+   "ref": "WO-1464",
+   "code": "WAGCJM0193XS01",
+   "machine": "1",
+   "allocatedAt": "2026-10-08T09:00:29.994Z"
   }
  ],
- "savedAt": "2026-10-07T15:53:38.640Z"
+ "savedAt": "2026-10-08T09:00:29.994Z"
 }
