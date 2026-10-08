@@ -5489,7 +5489,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 1
+  },
+  {
+   "ref": "S-OH116770-Pt1",
+   "code": "OHAPP0617110/222CTS",
+   "desc": "PUTTY CONTRAST WAIST APRON, COCOA TIES + 2 POCKETS - Special",
+   "qty": 100,
+   "due": "2026-10-29",
+   "created": "2026-10-08",
+   "printedAt": "2026-10-08",
+   "customer": "Wasing Lesiure Ltd",
+   "k": "S-OH116770-Pt1|OHAPP0617110/222CTS|CO5364ECO",
+   "fabric": "CO5364ECO",
+   "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
+   "std": 41.25
   }
  ],
- "savedAt": "2026-10-08T11:09:21.279Z"
+ "savedAt": "2026-10-08T11:30:52.242Z"
 }
