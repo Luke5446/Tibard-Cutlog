@@ -2582,7 +2582,10 @@
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 3.21,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-10-09",
+   "at": "2026-10-09T08:28:13.227Z",
+   "metres": 3.21
   },
   {
    "ref": "WO-1345",
@@ -2597,7 +2600,10 @@
    "fabName": "Khaki 3110 100% cotton (for neck and waist ties) — contrast marker 0597A (neck tie + ties)",
    "std": 0.83,
    "extra": true,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-10-09",
+   "at": "2026-10-09T08:28:13.227Z",
+   "metres": 0.83
   },
   {
    "ref": "WO-1346",
@@ -5583,5 +5589,5 @@
    "std": 2.2
   }
  ],
- "savedAt": "2026-10-09T08:24:35.199Z"
+ "savedAt": "2026-10-09T08:28:13.227Z"
 }
