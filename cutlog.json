@@ -5593,7 +5593,21 @@
    "cutAt": "2026-10-09",
    "at": "2026-10-09T09:15:49.433Z",
    "metres": 2.2
+  },
+  {
+   "ref": "S-OH116786-Pt1",
+   "code": "OHCJSCUMBRIA5203",
+   "desc": "BLACK S/S CUMBRIA PRESS STUD POLY/COTTON CHEF JACKET SZ 52\"",
+   "qty": 5,
+   "due": "2026-10-22",
+   "created": "2026-10-09",
+   "printedAt": "2026-10-09",
+   "customer": "Aidan McKeegan",
+   "k": "S-OH116786-Pt1|OHCJSCUMBRIA5203|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 7.75
   }
  ],
- "savedAt": "2026-10-09T09:16:06.911Z"
+ "savedAt": "2026-10-09T16:52:24.482Z"
 }
