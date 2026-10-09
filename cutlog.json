@@ -5664,7 +5664,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.72,
    "extra": true
+  },
+  {
+   "ref": "WO-1484",
+   "code": "OHCJSSUFFOLK4401",
+   "desc": "WHITE S/S SUFFOLK CONCEALED STUD CHEF JACKET SZ 44\"",
+   "qty": 23,
+   "due": "2026-10-16",
+   "created": "2026-10-09",
+   "printedAt": "2026-10-09",
+   "customer": "",
+   "k": "WO-1484|OHCJSSUFFOLK4401|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 33.81
   }
  ],
- "savedAt": "2026-10-09T16:59:09.436Z"
+ "savedAt": "2026-10-09T16:59:14.671Z"
 }
