@@ -5607,7 +5607,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 7.75
+  },
+  {
+   "ref": "S-OH116810-Pt1",
+   "code": "OHCJCUMBRIA6001",
+   "desc": "WHITE L/S CUMBRIA PRESS STUD POLY/COTTON CHEF JACKET SZ 60\"",
+   "qty": 3,
+   "due": "2026-10-21",
+   "created": "2026-10-09",
+   "printedAt": "2026-10-09",
+   "customer": "Vissi Uniforms",
+   "k": "S-OH116810-Pt1|OHCJCUMBRIA6001|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 6.39
   }
  ],
- "savedAt": "2026-10-09T16:52:24.482Z"
+ "savedAt": "2026-10-09T16:52:31.054Z"
 }
