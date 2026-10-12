@@ -2100,7 +2100,10 @@
    "fabric": "CO5173ECO",
    "fabName": "SAGE GREEN 100% SUSTAINABLE COTTON (X149 - AMN304)",
    "std": 50,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-10-12",
+   "at": "2026-10-12T09:19:09.986Z",
+   "metres": 50
   },
   {
    "ref": "WO-1303",
@@ -5759,5 +5762,5 @@
    "std": 3.4
   }
  ],
- "savedAt": "2026-10-12T09:13:14.030Z"
+ "savedAt": "2026-10-12T09:19:09.986Z"
 }
