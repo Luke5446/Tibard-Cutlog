@@ -5391,7 +5391,7 @@
    "k": "S-TIB866692-Pt2|COB0001100|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 11
+   "std": 19.36
   },
   {
    "ref": "S-TIB866692-Pt3",
@@ -5419,7 +5419,7 @@
    "k": "S-TIB866692-Pt4|COB0001116|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 25
+   "std": 52
   },
   {
    "ref": "S-TIB866692-Pt5",
@@ -5450,7 +5450,7 @@
    "k": "S-TIB866692-Pt6|COB0001132|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 25
+   "std": 52.75
   },
   {
    "ref": "S-TIB866692-Pt7",
@@ -5506,7 +5506,7 @@
    "k": "S-TIB872071-Pt2|COB0001116|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 1
+   "std": 2.08
   },
   {
    "ref": "S-OH116770-Pt1",
@@ -5759,5 +5759,5 @@
    "std": 3.4
   }
  ],
- "savedAt": "2026-10-12T07:32:39.269Z"
+ "savedAt": "2026-10-12T09:13:14.030Z"
 }
