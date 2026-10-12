@@ -5016,7 +5016,12 @@
    "k": "WO-1445|CBHT016064PG|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "Storm grey 65% recycled polyester / 35% BCI cotton 200 gsm X133ECO AM299 (Tiajo) — rating 0.12 m",
-   "std": 3.6
+   "std": 3.6,
+   "cutAt": "2026-10-12",
+   "at": "2026-10-12T13:53:25.246Z",
+   "metres": 8,
+   "note": "EX  GARMENTS",
+   "adjustedAt": "2026-10-12T13:53:25.246Z"
   },
   {
    "ref": "WO-1455",
@@ -6002,5 +6007,5 @@
    "std": 6.6
   }
  ],
- "savedAt": "2026-10-12T13:47:32.626Z"
+ "savedAt": "2026-10-12T13:53:25.246Z"
 }
