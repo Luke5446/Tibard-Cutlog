@@ -5441,7 +5441,12 @@
    "k": "S-TIB866692-Pt4|COB0001116|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 52
+   "std": 52,
+   "cutAt": "2026-10-12",
+   "at": "2026-10-12T09:57:38.124Z",
+   "metres": 54,
+   "note": "+2m for Damages",
+   "adjustedAt": "2026-10-12T09:57:38.124Z"
   },
   {
    "ref": "S-TIB866692-Pt5",
@@ -5805,5 +5810,5 @@
    "std": 3.4
   }
  ],
- "savedAt": "2026-10-12T09:56:50.997Z"
+ "savedAt": "2026-10-12T09:57:38.124Z"
 }
