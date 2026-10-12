@@ -5227,7 +5227,10 @@
    "k": "WO-1463|GBKAPP064464|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 5
+   "std": 5,
+   "cutAt": "2026-10-12",
+   "at": "2026-10-12T09:20:39.796Z",
+   "metres": 5
   },
   {
    "ref": "WO-1462",
@@ -5768,5 +5771,5 @@
    "std": 3.4
   }
  ],
- "savedAt": "2026-10-12T09:19:54.726Z"
+ "savedAt": "2026-10-12T09:20:39.796Z"
 }
