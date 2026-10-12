@@ -5967,7 +5967,10 @@
    "k": "WO-1494|OHTAB11|CMP-WEB-PU-25-11",
    "fabric": "CMP-WEB-PU-25-11",
    "fabName": "YELLOW 25MM POLYURETHENE WEBBING",
-   "std": 0.6
+   "std": 0.6,
+   "cutAt": "2026-10-12",
+   "at": "2026-10-12T11:22:11.461Z",
+   "metres": 0.6
   },
   {
    "ref": "WO-1495",
@@ -5984,5 +5987,5 @@
    "std": 6.6
   }
  ],
- "savedAt": "2026-10-12T10:44:49.497Z"
+ "savedAt": "2026-10-12T11:22:11.461Z"
 }
