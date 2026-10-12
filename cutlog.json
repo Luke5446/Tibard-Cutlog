@@ -6005,7 +6005,21 @@
    "fabric": "CMP-WEB-PU-25-15",
    "fabName": "NAVY 25MM POLYURETHENE WEBBING",
    "std": 6.6
+  },
+  {
+   "ref": "WO-1501",
+   "code": "OHAPP0597224DEN",
+   "desc": "INDIGO DENIM STUD FASTENED BIB APRON + 2 HIP POCKETS",
+   "qty": 14,
+   "due": "2026-10-23",
+   "created": "2026-10-12",
+   "printedAt": "2026-10-12",
+   "customer": "",
+   "k": "WO-1501|OHAPP0597224DEN|CO5224DEN",
+   "fabric": "CO5224DEN",
+   "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
+   "std": 10.08
   }
  ],
- "savedAt": "2026-10-12T14:42:07.939Z"
+ "savedAt": "2026-10-12T14:57:52.210Z"
 }
