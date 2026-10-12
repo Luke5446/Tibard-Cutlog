@@ -15977,7 +15977,17 @@
    "qty": 8,
    "desc": "WHITE S/S DETACH BUTTON OXFORD CHEF JACKET SZ 44\"",
    "bookedAt": "2026-10-12T15:01:22.205Z"
+  },
+  {
+   "k": "book|WO-1407|OHCTTDURHAM2803|2026-10-12|5",
+   "kind": "book",
+   "ref": "WO-1407",
+   "code": "OHCTTDURHAM2803",
+   "completed": "2026-10-12",
+   "qty": 5,
+   "desc": "BLACK DURHAM EXECUTIVE TROUSERS SZ 28\" - TALL LEG",
+   "bookedAt": "2026-10-12T15:05:39.645Z"
   }
  ],
- "savedAt": "2026-10-12T15:01:22.633Z"
+ "savedAt": "2026-10-12T15:05:40.353Z"
 }
