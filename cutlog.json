@@ -6019,7 +6019,21 @@
    "fabric": "CO5224DEN",
    "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
    "std": 10.08
+  },
+  {
+   "ref": "WO-1502",
+   "code": "OHAPP078606",
+   "desc": "BURGUNDY POLY/COTTON UTILITY BIB APRON BASE",
+   "qty": 8,
+   "due": "2026-10-23",
+   "created": "2026-10-12",
+   "printedAt": "2026-10-12",
+   "customer": "",
+   "k": "WO-1502|OHAPP078606|PC2X13306",
+   "fabric": "PC2X13306",
+   "fabName": "BURGUNDY POLY/COTTON 200G (X133 COLOUR 133)",
+   "std": 6.6
   }
  ],
- "savedAt": "2026-10-12T14:57:52.210Z"
+ "savedAt": "2026-10-12T14:58:45.665Z"
 }
