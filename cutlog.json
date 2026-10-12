@@ -6091,7 +6091,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.48,
    "extra": true
+  },
+  {
+   "ref": "WO-1505",
+   "code": "OHCTLINCOLN3603",
+   "desc": "BLACK LINCOLN SLIM FIT TROUSER SZ 36\"",
+   "qty": 18,
+   "due": "2026-10-23",
+   "created": "2026-10-12",
+   "printedAt": "2026-10-12",
+   "customer": "",
+   "k": "WO-1505|OHCTLINCOLN3603|PCFLEXI03",
+   "fabric": "PCFLEXI03",
+   "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
+   "std": 23.94
   }
  ],
- "savedAt": "2026-10-12T14:59:37.944Z"
+ "savedAt": "2026-10-12T14:59:53.793Z"
 }
