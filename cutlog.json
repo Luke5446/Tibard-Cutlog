@@ -6014,7 +6014,7 @@
    "code": "OHAPP0597224DEN",
    "desc": "INDIGO DENIM STUD FASTENED BIB APRON + 2 HIP POCKETS",
    "qty": 14,
-   "due": "2026-10-23",
+   "due": "2026-10-20",
    "created": "2026-10-12",
    "printedAt": "2026-10-12",
    "customer": "",
@@ -6124,5 +6124,5 @@
    "std": 6.35
   }
  ],
- "savedAt": "2026-10-12T15:01:30.688Z"
+ "savedAt": "2026-10-12T15:03:01.666Z"
 }
