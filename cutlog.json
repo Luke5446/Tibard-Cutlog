@@ -5264,7 +5264,10 @@
    "k": "WO-1462|OHSTRAP222/LT|CO5222ECO",
    "fabric": "CO5222ECO",
    "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
-   "std": 1.35
+   "std": 1.35,
+   "cutAt": "2026-10-12",
+   "at": "2026-10-12T15:12:05.176Z",
+   "metres": 1.35
   },
   {
    "ref": "WO-1462",
@@ -5279,7 +5282,10 @@
    "fabric": "LEATHERHIDE",
    "fabName": "Brown leather, cut 74 cm x 2.5 cm x 2 — average 30 pairs per hide (0.033 of a hide)",
    "std": 0.3,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-12",
+   "at": "2026-10-12T15:12:05.176Z",
+   "metres": 0.3
   },
   {
    "ref": "S-OH116726-Pt1",
@@ -6124,5 +6130,5 @@
    "std": 6.35
   }
  ],
- "savedAt": "2026-10-12T15:03:01.666Z"
+ "savedAt": "2026-10-12T15:12:05.176Z"
 }
