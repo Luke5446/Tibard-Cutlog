@@ -6048,7 +6048,10 @@
    "k": "WO-1495|OHTAB15|CMP-WEB-PU-25-15",
    "fabric": "CMP-WEB-PU-25-15",
    "fabName": "NAVY 25MM POLYURETHENE WEBBING",
-   "std": 6.6
+   "std": 6.6,
+   "cutAt": "2026-10-13",
+   "at": "2026-10-13T13:41:35.972Z",
+   "metres": 6.6
   },
   {
    "ref": "WO-1501",
@@ -6410,5 +6413,5 @@
    "std": 4
   }
  ],
- "savedAt": "2026-10-13T13:41:13.587Z"
+ "savedAt": "2026-10-13T13:41:35.972Z"
 }
