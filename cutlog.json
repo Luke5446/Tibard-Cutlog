@@ -4149,7 +4149,12 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 48,
-   "created": "2026-10-01"
+   "created": "2026-10-01",
+   "cutAt": "2026-10-13",
+   "at": "2026-10-13T10:24:21.228Z",
+   "metres": 39.36,
+   "note": "Garment Rating = 0.82m",
+   "adjustedAt": "2026-10-13T10:24:21.228Z"
   },
   {
    "ref": "S-TIB871699-Pt1",
@@ -6304,5 +6309,5 @@
    "std": 6.24
   }
  ],
- "savedAt": "2026-10-13T09:40:36.035Z"
+ "savedAt": "2026-10-13T10:24:21.228Z"
 }
