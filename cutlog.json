@@ -6191,7 +6191,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 31.5
+  },
+  {
+   "ref": "WO-1510",
+   "code": "OHCTTDURHAM2803",
+   "desc": "BLACK DURHAM EXECUTIVE TROUSERS SZ 28\" - TALL LEG",
+   "qty": 4,
+   "due": "2026-10-22",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1510|OHCTTDURHAM2803|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 6
   }
  ],
- "savedAt": "2026-10-13T07:13:27.688Z"
+ "savedAt": "2026-10-13T07:13:35.156Z"
 }
