@@ -6414,7 +6414,21 @@
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 4
+  },
+  {
+   "ref": "WO-1529",
+   "code": "OHCTTLINCOLN3203",
+   "desc": "BLACK LINCOLN SLIM FIT TROUSER SZ 32\" - TALL LEG",
+   "qty": 2,
+   "due": "2026-10-20",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1529|OHCTTLINCOLN3203|PCFLEXI03",
+   "fabric": "PCFLEXI03",
+   "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
+   "std": 2.7
   }
  ],
- "savedAt": "2026-10-13T13:55:16.116Z"
+ "savedAt": "2026-10-13T14:42:15.802Z"
 }
