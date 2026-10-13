@@ -6257,7 +6257,21 @@
    "fabric": "CMP-WEB-PU-25-11",
    "fabName": "YELLOW 25MM POLYURETHENE WEBBING",
    "std": 0.6
+  },
+  {
+   "ref": "WO-1513",
+   "code": "BEAPP047801C",
+   "desc": "WHITE 100% COTTON BIB APRON, S/F TIES & STRAP, PKT + LOGO",
+   "qty": 24,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1513|BEAPP047801C|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 19.2
   }
  ],
- "savedAt": "2026-10-13T08:37:54.541Z"
+ "savedAt": "2026-10-13T09:08:18.856Z"
 }
