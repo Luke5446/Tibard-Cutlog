@@ -5631,7 +5631,10 @@
    "k": "S-OH116770-Pt1|OHAPP0617110/222CTS|CO5364ECO",
    "fabric": "CO5364ECO",
    "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
-   "std": 41.25
+   "std": 41.25,
+   "cutAt": "2026-10-13",
+   "at": "2026-10-13T13:55:16.116Z",
+   "metres": 41.25
   },
   {
    "ref": "WO-1477",
@@ -6413,5 +6416,5 @@
    "std": 4
   }
  ],
- "savedAt": "2026-10-13T13:41:35.972Z"
+ "savedAt": "2026-10-13T13:55:16.116Z"
 }
