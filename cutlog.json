@@ -6335,7 +6335,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 2.94
+  },
+  {
+   "ref": "WO-1516",
+   "code": "OHAP300503PCL",
+   "desc": "BLACK POLY/COTTON 6\" LONGER BIB APRON",
+   "qty": 20,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1516|OHAP300503PCL|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 19.1
   }
  ],
- "savedAt": "2026-10-13T12:33:20.327Z"
+ "savedAt": "2026-10-13T13:21:42.325Z"
 }
