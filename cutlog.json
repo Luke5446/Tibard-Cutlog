@@ -6363,7 +6363,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 15.28
+  },
+  {
+   "ref": "WO-1518",
+   "code": "OHAP300582",
+   "desc": "BROWN POLY/COTTON BIB APRON",
+   "qty": 100,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1518|OHAP300582|PC2082ECO",
+   "fabric": "PC2082ECO",
+   "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
+   "std": 80.5
   }
  ],
- "savedAt": "2026-10-13T13:21:50.005Z"
+ "savedAt": "2026-10-13T13:21:56.318Z"
 }
