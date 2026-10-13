@@ -6470,7 +6470,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 42
+  },
+  {
+   "ref": "WO-1525",
+   "code": "OHCTDURHAM3403",
+   "desc": "BLACK DURHAM EXECUTIVE TROUSERS SZ 34\"",
+   "qty": 8,
+   "due": "2026-10-20",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1525|OHCTDURHAM3403|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 12
   }
  ],
- "savedAt": "2026-10-13T14:42:32.235Z"
+ "savedAt": "2026-10-13T14:42:37.216Z"
 }
