@@ -6428,7 +6428,21 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 2.7
+  },
+  {
+   "ref": "WO-1528",
+   "code": "OHCTLINCOLN3403",
+   "desc": "BLACK LINCOLN SLIM FIT TROUSER SZ 34\"",
+   "qty": 22,
+   "due": "2026-10-20",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1528|OHCTLINCOLN3403|PCFLEXI03",
+   "fabric": "PCFLEXI03",
+   "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
+   "std": 29.26
   }
  ],
- "savedAt": "2026-10-13T14:42:15.802Z"
+ "savedAt": "2026-10-13T14:42:22.018Z"
 }
