@@ -5320,7 +5320,10 @@
    "k": "S-OH116726-Pt1|OHAPP0597F224DEN|CO5224DEN",
    "fabric": "CO5224DEN",
    "fabName": "Indigo denim art murray 315gsm 100% cotton 1.50m width — rating 0.72 m (marker 0597FSAME, 2.88 m over 4)",
-   "std": 28.8
+   "std": 28.8,
+   "cutAt": "2026-10-13",
+   "at": "2026-10-13T11:22:06.371Z",
+   "metres": 28.8
   },
   {
    "ref": "S-OH116732-Pt1",
@@ -6328,5 +6331,5 @@
    "std": 2.94
   }
  ],
- "savedAt": "2026-10-13T10:59:00.275Z"
+ "savedAt": "2026-10-13T11:22:06.371Z"
 }
