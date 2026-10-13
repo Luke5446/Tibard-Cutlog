@@ -3454,7 +3454,12 @@
    "fabric": "PC2082ECO",
    "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
    "std": 55,
-   "created": "2026-09-30"
+   "created": "2026-09-30",
+   "cutAt": "2026-10-13",
+   "at": "2026-10-13T10:59:00.275Z",
+   "metres": 45.1,
+   "note": "Garment Rating = 0.82",
+   "adjustedAt": "2026-10-13T10:59:00.275Z"
   },
   {
    "ref": "WO-1393",
@@ -6323,5 +6328,5 @@
    "std": 2.94
   }
  ],
- "savedAt": "2026-10-13T10:25:39.358Z"
+ "savedAt": "2026-10-13T10:59:00.275Z"
 }
