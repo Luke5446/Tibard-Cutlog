@@ -5940,7 +5940,10 @@
    "k": "WO-1491|OHAPP078615|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 13.2
+   "std": 13.2,
+   "cutAt": "2026-10-13",
+   "at": "2026-10-13T09:40:36.035Z",
+   "metres": 13.2
   },
   {
    "ref": "WO-1492",
@@ -6301,5 +6304,5 @@
    "std": 6.24
   }
  ],
- "savedAt": "2026-10-13T09:08:42.816Z"
+ "savedAt": "2026-10-13T09:40:36.035Z"
 }
