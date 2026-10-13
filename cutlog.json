@@ -6134,7 +6134,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 6.35
+  },
+  {
+   "ref": "WO-1507",
+   "code": "OHAPP0631241DS",
+   "desc": "SLATE GREY CUSTOM WAIST APRON BASE + 2 HIP PKTS",
+   "qty": 36,
+   "due": "2026-10-22",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-13",
+   "customer": "",
+   "k": "WO-1507|OHAPP0631241DS|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 14.04
   }
  ],
- "savedAt": "2026-10-12T15:12:30.779Z"
+ "savedAt": "2026-10-13T07:10:12.118Z"
 }
