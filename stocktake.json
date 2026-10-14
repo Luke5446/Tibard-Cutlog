@@ -14,8 +14,32 @@
    "day": "2026-10-14",
    "code": "CO5224DEN",
    "abc": "B",
-   "at": "2026-10-14T14:04:03.133Z"
+   "at": "2026-10-14T14:04:03.133Z",
+   "countedK": "count|CO5224DEN|2026-10-14T14:28:51.587Z"
+  },
+  {
+   "k": "count|CO5224DEN|2026-10-14T14:28:51.587Z",
+   "kind": "count",
+   "code": "CO5224DEN",
+   "name": "MURRAY INDIGO DENIM 100% COTTON 315GM",
+   "supName": "P&R Fabrics Ltd",
+   "day": "2026-10-14",
+   "at": "2026-10-14T14:28:51.587Z",
+   "counted": 97,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-14",
+   "abc": "B",
+   "expected": {
+    "inSage": 148.8,
+    "cutLive": 38.88,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 109.92,
+    "sageAt": "2026-10-14"
+   },
+   "diff": -12.92
   }
  ],
- "savedAt": "2026-10-14T14:04:03.133Z"
+ "savedAt": "2026-10-14T14:28:51.901Z"
 }
