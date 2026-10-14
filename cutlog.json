@@ -6757,7 +6757,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side /underarm panel x 2 pair",
    "std": 0.15,
    "extra": true
+  },
+  {
+   "ref": "WO-1535",
+   "code": "OHLCJDERBYSHIRE0601",
+   "desc": "WHITE LADIES L/S DERBYSHIRE CONCEALED STUD CHEF JACKET SZ 06",
+   "qty": 2,
+   "due": "2026-10-21",
+   "created": "2026-10-14",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1535|OHLCJDERBYSHIRE0601|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 2.52
   }
  ],
- "savedAt": "2026-10-14T10:30:27.043Z"
+ "savedAt": "2026-10-14T10:30:32.022Z"
 }
