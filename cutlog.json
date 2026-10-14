@@ -6496,7 +6496,12 @@
    "k": "WO-1526|OHCTLANCASHIREXL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 42
+   "std": 42,
+   "cutAt": "2026-10-14",
+   "at": "2026-10-14T07:39:23.149Z",
+   "metres": 39.84,
+   "note": "Double Marker Used. Garment Rating = 1.66m",
+   "adjustedAt": "2026-10-14T07:39:23.149Z"
   },
   {
    "ref": "WO-1525",
@@ -6541,5 +6546,5 @@
    "std": 1.65
   }
  ],
- "savedAt": "2026-10-14T07:10:19.602Z"
+ "savedAt": "2026-10-14T07:39:23.149Z"
 }
