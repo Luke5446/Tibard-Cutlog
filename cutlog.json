@@ -6584,7 +6584,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 1.65
+  },
+  {
+   "ref": "S-TIB872728-Pt1",
+   "code": "SHROUD01",
+   "desc": "CV-19 SHROUD - 2.86M X 1.80M INC 3 X 1.60M TIES",
+   "qty": 200,
+   "due": "2026-10-19",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-14",
+   "customer": "Respect Direct Funeral Services",
+   "k": "S-TIB872728-Pt1|SHROUD01|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 740
   }
  ],
- "savedAt": "2026-10-14T09:01:22.486Z"
+ "savedAt": "2026-10-14T09:18:34.674Z"
 }
