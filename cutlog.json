@@ -6016,7 +6016,10 @@
    "k": "WO-1492|OHCJSMSTRATFORD5001|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 7.25
+   "std": 7.25,
+   "cutAt": "2026-10-14",
+   "at": "2026-10-14T09:00:53.798Z",
+   "metres": 7.25
   },
   {
    "ref": "WO-1492",
@@ -6574,5 +6577,5 @@
    "std": 1.65
   }
  ],
- "savedAt": "2026-10-14T08:49:30.533Z"
+ "savedAt": "2026-10-14T09:00:53.798Z"
 }
