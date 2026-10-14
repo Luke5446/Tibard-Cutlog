@@ -6,7 +6,8 @@
    "day": "2026-10-14",
    "code": "PC2020",
    "abc": "C",
-   "at": "2026-10-14T14:04:03.133Z"
+   "at": "2026-10-14T14:04:03.133Z",
+   "countedK": "count|PC2020|2026-10-14T14:29:05.173Z"
   },
   {
    "k": "pick|2026-10-14|CO5224DEN",
@@ -39,7 +40,30 @@
     "sageAt": "2026-10-14"
    },
    "diff": -12.92
+  },
+  {
+   "k": "count|PC2020|2026-10-14T14:29:05.173Z",
+   "kind": "count",
+   "code": "PC2020",
+   "name": "METRO BLUE POLY COTTON 195GRMS 150CM",
+   "supName": "USE A/C 503  CARRINGTONS CARE",
+   "day": "2026-10-14",
+   "at": "2026-10-14T14:29:05.173Z",
+   "counted": 57,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-14",
+   "abc": "C",
+   "expected": {
+    "inSage": 57,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 57,
+    "sageAt": "2026-10-14"
+   },
+   "diff": 0
   }
  ],
- "savedAt": "2026-10-14T14:28:51.901Z"
+ "savedAt": "2026-10-14T14:29:05.496Z"
 }
