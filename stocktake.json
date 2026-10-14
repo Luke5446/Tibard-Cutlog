@@ -39,7 +39,9 @@
     "toHand": 109.92,
     "sageAt": "2026-10-14"
    },
-   "diff": -12.92
+   "diff": -12.92,
+   "pmNote": "Recutts and wrong M put in cutting",
+   "pmAt": "2026-10-14T15:39:30.713Z"
   },
   {
    "k": "count|PC2020|2026-10-14T14:29:05.173Z",
@@ -67,5 +69,5 @@
    "closedHow": "matched"
   }
  ],
- "savedAt": "2026-10-14T15:11:45.902Z"
+ "savedAt": "2026-10-14T15:39:30.713Z"
 }
