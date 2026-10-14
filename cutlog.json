@@ -6800,7 +6800,36 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 0.54,
    "extra": true
+  },
+  {
+   "ref": "WO-1533",
+   "code": "OHCJSMDEVON3801",
+   "desc": "WHITE S/S RING STUD MESH BACK DEVON CHEF JACKET SZ 38\"",
+   "qty": 10,
+   "due": "2026-10-21",
+   "created": "2026-10-14",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1533|OHCJSMDEVON3801|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 9.75
+  },
+  {
+   "ref": "WO-1533",
+   "code": "OHCJSMDEVON3801",
+   "desc": "WHITE S/S RING STUD MESH BACK DEVON CHEF JACKET SZ 38\"",
+   "qty": 10,
+   "due": "2026-10-21",
+   "created": "2026-10-14",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1533|OHCJSMDEVON3801|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white",
+   "std": 2.1,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-14T10:30:38.274Z"
+ "savedAt": "2026-10-14T10:30:43.411Z"
 }
