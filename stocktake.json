@@ -62,8 +62,10 @@
     "toHand": 57,
     "sageAt": "2026-10-14"
    },
-   "diff": 0
+   "diff": 0,
+   "closedAt": "2026-10-14T15:11:45.902Z",
+   "closedHow": "matched"
   }
  ],
- "savedAt": "2026-10-14T14:29:05.496Z"
+ "savedAt": "2026-10-14T15:11:45.902Z"
 }
