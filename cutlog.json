@@ -6714,7 +6714,21 @@
    "fabName": "Red 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m",
    "std": 1.12,
    "extra": true
+  },
+  {
+   "ref": "WO-1524",
+   "code": "WCL222203",
+   "desc": "BLACK 100% COTTON WAITERS CLOTH 22X22 (3110)",
+   "qty": 70,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1524|WCL222203|CO5003ECO",
+   "fabric": "CO5003ECO",
+   "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
+   "std": 17.5
   }
  ],
- "savedAt": "2026-10-14T09:59:22.170Z"
+ "savedAt": "2026-10-14T09:59:28.089Z"
 }
