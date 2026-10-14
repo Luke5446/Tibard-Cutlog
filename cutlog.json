@@ -6685,7 +6685,36 @@
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 17.61
+  },
+  {
+   "ref": "WO-1523",
+   "code": "WAGHTM016007",
+   "desc": "RED/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 28,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1523|WAGHTM016007|PC2X13307",
+   "fabric": "PC2X13307",
+   "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
+   "std": 3.36
+  },
+  {
+   "ref": "WO-1523",
+   "code": "WAGHTM016007",
+   "desc": "RED/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 28,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1523|WAGHTM016007|MESHPW31407",
+   "fabric": "MESHPW31407",
+   "fabName": "Red 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m",
+   "std": 1.12,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-14T09:59:14.935Z"
+ "savedAt": "2026-10-14T09:59:22.170Z"
 }
