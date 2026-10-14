@@ -42,7 +42,11 @@
    "diff": -12.92,
    "pmNote": "Recuts and wrong M put in cutting",
    "pmAt": "2026-10-14T15:39:43.371Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-14T15:39:50.454Z",
+   "closedHow": "writeoff",
+   "exportedAt": "2026-10-14T15:39:50.454Z",
+   "exportFile": "StockTake_WriteOff_2026-10-14_1639.csv"
   },
   {
    "k": "count|PC2020|2026-10-14T14:29:05.173Z",
@@ -70,5 +74,5 @@
    "closedHow": "matched"
   }
  ],
- "savedAt": "2026-10-14T15:39:43.371Z"
+ "savedAt": "2026-10-14T15:39:51.884Z"
 }
