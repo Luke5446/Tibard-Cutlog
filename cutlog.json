@@ -6643,7 +6643,21 @@
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 15.54
+  },
+  {
+   "ref": "WO-1500",
+   "code": "CBAPP054964PG",
+   "desc": "STORM GREY WAIST APRON WITH POCKET + CIAO BELLA LOGO",
+   "qty": 72,
+   "due": "2026-10-23",
+   "created": "2026-10-12",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1500|CBAPP054964PG|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 36
   }
  ],
- "savedAt": "2026-10-14T09:56:33.528Z"
+ "savedAt": "2026-10-14T09:58:53.915Z"
 }
