@@ -6728,7 +6728,36 @@
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 17.5
+  },
+  {
+   "ref": "WO-1536",
+   "code": "OHLCJSHAMPSHIRE1401",
+   "desc": "WHITE LADIES S/S HAMPSHIRE FLY FRONT ZIP CHEF JACKET SZ 14",
+   "qty": 5,
+   "due": "2026-10-21",
+   "created": "2026-10-14",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1536|OHLCJSHAMPSHIRE1401|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 4.95
+  },
+  {
+   "ref": "WO-1536",
+   "code": "OHLCJSHAMPSHIRE1401",
+   "desc": "WHITE LADIES S/S HAMPSHIRE FLY FRONT ZIP CHEF JACKET SZ 14",
+   "qty": 5,
+   "due": "2026-10-21",
+   "created": "2026-10-14",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1536|OHLCJSHAMPSHIRE1401|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white cut side /underarm panel x 2 pair",
+   "std": 0.15,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-14T09:59:28.089Z"
+ "savedAt": "2026-10-14T10:30:27.043Z"
 }
