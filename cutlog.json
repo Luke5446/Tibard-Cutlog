@@ -6657,7 +6657,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 36
+  },
+  {
+   "ref": "WO-1520",
+   "code": "OHAPP063015HP1S",
+   "desc": "NAVY ADJUSTABLE BIB APRON WITH LEATHER STRAP + 1 HIP POCKET",
+   "qty": 24,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1520|OHAPP063015HP1S|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 15.6
   }
  ],
- "savedAt": "2026-10-14T09:58:53.915Z"
+ "savedAt": "2026-10-14T09:59:07.768Z"
 }
