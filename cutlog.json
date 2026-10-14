@@ -2151,7 +2151,10 @@
    "fabric": "CO5083ECO",
    "fabName": "OLIVE GREEN 100% SUSTAINABLE COTTON (X149 - AMN302)",
    "std": 11.2,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-10-14",
+   "at": "2026-10-14T09:49:30.107Z",
+   "metres": 11.2
   },
   {
    "ref": "WO-1306",
@@ -6628,5 +6631,5 @@
    "std": 8.4
   }
  ],
- "savedAt": "2026-10-14T09:22:49.711Z"
+ "savedAt": "2026-10-14T09:49:30.107Z"
 }
