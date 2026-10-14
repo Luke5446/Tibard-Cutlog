@@ -6257,7 +6257,12 @@
    "k": "WO-1507|OHAPP0631241DS|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 14.04
+   "std": 14.04,
+   "cutAt": "2026-10-14",
+   "at": "2026-10-14T13:58:25.021Z",
+   "metres": 14.58,
+   "note": "Garment Rating = 0.405m",
+   "adjustedAt": "2026-10-14T13:58:25.021Z"
   },
   {
    "ref": "WO-1508",
@@ -6845,5 +6850,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-14T12:31:55.748Z"
+ "savedAt": "2026-10-14T13:58:25.021Z"
 }
