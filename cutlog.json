@@ -6612,7 +6612,21 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 2.8
+  },
+  {
+   "ref": "WO-1530",
+   "code": "OHLCTSHROPSHIRE1403",
+   "desc": "BLACK LADIES HALF ELASTICATED SHROPSHIRE CHEF TROUSER SZ 14",
+   "qty": 6,
+   "due": "2026-10-16",
+   "created": "2026-10-14",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1530|OHLCTSHROPSHIRE1403|PCFLEXI03",
+   "fabric": "PCFLEXI03",
+   "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
+   "std": 8.4
   }
  ],
- "savedAt": "2026-10-14T09:22:44.235Z"
+ "savedAt": "2026-10-14T09:22:49.711Z"
 }
