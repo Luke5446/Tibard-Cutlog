@@ -6671,7 +6671,21 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 15.6
+  },
+  {
+   "ref": "WO-1521",
+   "code": "OHHICAPP062803DEN",
+   "desc": "BLACK DENIM WAIST APRON, ZIPPED PKTS, SELF FABRIC TIES + EMB",
+   "qty": 34,
+   "due": "2026-10-27",
+   "created": "2026-10-13",
+   "printedAt": "2026-10-14",
+   "customer": "",
+   "k": "WO-1521|OHHICAPP062803DEN|CO5003DEN",
+   "fabric": "CO5003DEN",
+   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
+   "std": 17.61
   }
  ],
- "savedAt": "2026-10-14T09:59:07.768Z"
+ "savedAt": "2026-10-14T09:59:14.935Z"
 }
