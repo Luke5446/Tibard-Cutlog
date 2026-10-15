@@ -6907,7 +6907,21 @@
    "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
    "std": 15,
    "extra": true
+  },
+  {
+   "ref": "S-OH116998-Pt1",
+   "code": "OHAP060501",
+   "desc": "WHITE ADJUST BIB APRON, CONCEALED STUD FASTEN, FABRIC TIES",
+   "qty": 75,
+   "due": "2026-10-20",
+   "created": "2026-10-15",
+   "printedAt": "2026-10-15",
+   "customer": "Fat Duck Ltd",
+   "k": "S-OH116998-Pt1|OHAP060501|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 66.77
   }
  ],
- "savedAt": "2026-10-15T08:49:30.475Z"
+ "savedAt": "2026-10-15T09:20:09.897Z"
 }
