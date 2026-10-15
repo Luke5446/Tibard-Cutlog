@@ -3239,7 +3239,7 @@
    "k": "WO-1379|OHCJSSUFFOLK4001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 22,
+   "std": 22.6,
    "created": "2026-09-29"
   },
   {
@@ -3253,7 +3253,7 @@
    "k": "WO-1380|OHAPP053515/DS|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 5.43,
+   "std": 5.52,
    "created": "2026-09-29"
   },
   {
@@ -3320,7 +3320,7 @@
    "k": "WO-1389|OHCJSMCHESHIRE4201|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 11.6,
+   "std": 11.9,
    "created": "2026-09-29"
   },
   {
@@ -3349,7 +3349,7 @@
    "k": "WO-1390|OHCJSMSTRATFORD4601|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 5.9,
+   "std": 5.99,
    "created": "2026-09-29"
   },
   {
@@ -3378,7 +3378,7 @@
    "k": "WO-1391|OHAPP0535241/DS|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 16.27,
+   "std": 16.51,
    "created": "2026-09-29"
   },
   {
@@ -5868,7 +5868,7 @@
    "k": "WO-1486|OHHTM016015|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 5.9
+   "std": 7.67
   },
   {
    "ref": "WO-1487",
@@ -6148,7 +6148,7 @@
    "k": "WO-1502|OHAPP078606|PC2X13306",
    "fabric": "PC2X13306",
    "fabName": "BURGUNDY POLY/COTTON 200G (X133 COLOUR 133)",
-   "std": 6.6
+   "std": 6.72
   },
   {
    "ref": "WO-1503",
@@ -6162,7 +6162,7 @@
    "k": "WO-1503|OHCJSMCHESHIRE4401|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 25.41
+   "std": 26.04
   },
   {
    "ref": "WO-1503",
@@ -6281,7 +6281,7 @@
    "k": "WO-1508|OHCJMOXFORD4201L|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 3.24
+   "std": 3.3
   },
   {
    "ref": "WO-1508",
@@ -6374,7 +6374,7 @@
    "k": "WO-1513|BEAPP047801C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 19.2
+   "std": 19.92
   },
   {
    "ref": "S-TIB872554-Pt1",
@@ -6436,7 +6436,7 @@
    "k": "WO-1516|OHAP300503PCL|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 19.1
+   "std": 19.4
   },
   {
    "ref": "WO-1517",
@@ -6450,7 +6450,7 @@
    "k": "WO-1517|OHAP3005248L|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 15.28
+   "std": 15.52
   },
   {
    "ref": "WO-1518",
@@ -6503,7 +6503,7 @@
    "k": "WO-1522|OHSTRAP03|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 4
+   "std": 4.6
   },
   {
    "ref": "WO-1529",
@@ -6621,7 +6621,7 @@
    "k": "S-OH116948-Pt1|OHCJSCUMBRIA6001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 1.65
+   "std": 1.68
   },
   {
    "ref": "S-TIB872728-Pt1",
@@ -6635,7 +6635,7 @@
    "k": "S-TIB872728-Pt1|SHROUD01|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 740
+   "std": 746
   },
   {
    "ref": "WO-1531",
@@ -6649,7 +6649,7 @@
    "k": "WO-1531|OHLCTSHROPSHIRE2003|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 2.8
+   "std": 2.86
   },
   {
    "ref": "WO-1530",
@@ -6663,7 +6663,7 @@
    "k": "WO-1530|OHLCTSHROPSHIRE1403|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 8.4
+   "std": 8.58
   },
   {
    "ref": "WO-1532",
@@ -6691,7 +6691,7 @@
    "k": "WO-1500|CBAPP054964PG|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 36
+   "std": 38.16
   },
   {
    "ref": "WO-1520",
@@ -6705,7 +6705,7 @@
    "k": "WO-1520|OHAPP063015HP1S|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 15.6
+   "std": 15.78
   },
   {
    "ref": "WO-1521",
@@ -6719,7 +6719,7 @@
    "k": "WO-1521|OHHICAPP062803DEN|CO5003DEN",
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
-   "std": 17.61
+   "std": 17.82
   },
   {
    "ref": "WO-1523",
@@ -6733,7 +6733,7 @@
    "k": "WO-1523|WAGHTM016007|PC2X13307",
    "fabric": "PC2X13307",
    "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
-   "std": 3.36
+   "std": 4.2
   },
   {
    "ref": "WO-1523",
@@ -6762,7 +6762,7 @@
    "k": "WO-1524|WCL222203|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 17.5
+   "std": 19.6
   },
   {
    "ref": "WO-1536",
@@ -6776,7 +6776,7 @@
    "k": "WO-1536|OHLCJSHAMPSHIRE1401|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 4.95
+   "std": 5.1
   },
   {
    "ref": "WO-1536",
@@ -6805,7 +6805,7 @@
    "k": "WO-1535|OHLCJDERBYSHIRE0601|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 2.52
+   "std": 2.58
   },
   {
    "ref": "WO-1534",
@@ -6819,7 +6819,7 @@
    "k": "WO-1534|OHCJSMSTRATFORD3601|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 5.64
+   "std": 5.73
   },
   {
    "ref": "WO-1534",
@@ -6848,7 +6848,7 @@
    "k": "WO-1533|OHCJSMDEVON3801|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 9.75
+   "std": 9.9
   },
   {
    "ref": "WO-1533",
@@ -6877,7 +6877,7 @@
    "k": "S-TIB872789-Pt1|SNSAPP052803|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 275
+   "std": 282.5
   },
   {
    "ref": "WO-1539",
@@ -6891,7 +6891,7 @@
    "k": "WO-1539|CICJM01935201|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 63
+   "std": 64.8
   },
   {
    "ref": "WO-1539",
@@ -6923,5 +6923,5 @@
    "std": 66.77
   }
  ],
- "savedAt": "2026-10-15T09:20:09.897Z"
+ "savedAt": "2026-10-15T10:01:07.466Z"
 }
