@@ -7020,7 +7020,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.56,
    "extra": true
+  },
+  {
+   "ref": "S-TIB872521-Pt1",
+   "code": "HT016064",
+   "desc": "STORM GREY VELCRO FASTEN SKULL CAP",
+   "qty": 15,
+   "due": "2026-10-20",
+   "created": "2026-10-14",
+   "printedAt": "2026-10-15",
+   "customer": "Big Table - Manual Orders",
+   "k": "S-TIB872521-Pt1|HT016064|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 3.45
   }
  ],
- "savedAt": "2026-10-15T13:32:20.310Z"
+ "savedAt": "2026-10-15T13:42:35.186Z"
 }
