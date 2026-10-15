@@ -6855,7 +6855,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 2.1,
    "extra": true
+  },
+  {
+   "ref": "S-TIB872789-Pt1",
+   "code": "SNSAPP052803",
+   "desc": "BLACK SPLIT CENTRE FRONT WIDE WAIST APRON WITH SELF FABRIC TIES + POCKET",
+   "qty": 250,
+   "due": "2026-11-11",
+   "created": "2026-10-15",
+   "printedAt": "2026-10-15",
+   "customer": "Stalbridge Linen Services Ltd",
+   "k": "S-TIB872789-Pt1|SNSAPP052803|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 275
   }
  ],
- "savedAt": "2026-10-14T15:34:33.719Z"
+ "savedAt": "2026-10-15T06:57:28.669Z"
 }
