@@ -6963,7 +6963,21 @@
    "fabric": "CMP-WEB-PU-25-14",
    "fabName": "DARK GREY 25MM POLYURETHENE WEBBING",
    "std": 1.2
+  },
+  {
+   "ref": "WO-1549",
+   "code": "OHSTRAP153",
+   "desc": "KHAKI DETACHABLE LONG BIB STRAP",
+   "qty": 56,
+   "due": "2026-10-20",
+   "created": "2026-10-15",
+   "printedAt": "2026-10-15",
+   "customer": "",
+   "k": "WO-1549|OHSTRAP153|CO5153ECO",
+   "fabric": "CO5153ECO",
+   "fabName": "KHAKI 100% SUSTAINABLE COTTON (X149 - AM306)",
+   "std": 12.88
   }
  ],
- "savedAt": "2026-10-15T13:29:09.997Z"
+ "savedAt": "2026-10-15T13:29:22.808Z"
 }
