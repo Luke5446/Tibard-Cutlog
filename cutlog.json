@@ -6464,7 +6464,13 @@
    "k": "WO-1518|OHAP300582|PC2082ECO",
    "fabric": "PC2082ECO",
    "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
-   "std": 80.5
+   "std": 80.5,
+   "cutAt": "2026-10-15",
+   "at": "2026-10-15T08:18:24.907Z",
+   "metres": 82.75,
+   "qtyCut": 98,
+   "note": "+2.25m for Damages",
+   "adjustedAt": "2026-10-15T08:18:24.907Z"
   },
   {
    "ref": "WO-1519",
@@ -6874,5 +6880,5 @@
    "std": 275
   }
  ],
- "savedAt": "2026-10-15T08:16:41.562Z"
+ "savedAt": "2026-10-15T08:18:24.907Z"
 }
