@@ -88,7 +88,8 @@
    "day": "2026-10-15",
    "code": "PO7014",
    "abc": "C",
-   "at": "2026-10-15T07:03:15.711Z"
+   "at": "2026-10-15T07:03:15.711Z",
+   "countedK": "count|PO7014|2026-10-15T07:12:38.341Z"
   },
   {
    "k": "count|CO5394|2026-10-15T07:12:20.841Z",
@@ -112,7 +113,30 @@
     "sageAt": "2026-10-15"
    },
    "diff": 0
+  },
+  {
+   "k": "count|PO7014|2026-10-15T07:12:38.341Z",
+   "kind": "count",
+   "code": "PO7014",
+   "name": "GREY 4oz PU COATED POLYESTER (P910-GREY4)",
+   "supName": "Henderson Textiles Co Ltd",
+   "day": "2026-10-15",
+   "at": "2026-10-15T07:12:38.341Z",
+   "counted": 0,
+   "note": "Eric Taken",
+   "why": "pick",
+   "listedOn": "2026-10-15",
+   "abc": "C",
+   "expected": {
+    "inSage": 538,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 538,
+    "sageAt": "2026-10-15"
+   },
+   "diff": -538
   }
  ],
- "savedAt": "2026-10-15T07:12:21.127Z"
+ "savedAt": "2026-10-15T07:12:38.830Z"
 }
