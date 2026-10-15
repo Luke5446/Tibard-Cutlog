@@ -79,7 +79,8 @@
    "day": "2026-10-15",
    "code": "CO5394",
    "abc": "C",
-   "at": "2026-10-15T07:03:15.711Z"
+   "at": "2026-10-15T07:03:15.711Z",
+   "countedK": "count|CO5394|2026-10-15T07:12:20.841Z"
   },
   {
    "k": "pick|2026-10-15|PO7014",
@@ -88,7 +89,30 @@
    "code": "PO7014",
    "abc": "C",
    "at": "2026-10-15T07:03:15.711Z"
+  },
+  {
+   "k": "count|CO5394|2026-10-15T07:12:20.841Z",
+   "kind": "count",
+   "code": "CO5394",
+   "name": "MUSHROOM 3110 100% COTTON 265GMS 150CM",
+   "supName": "P&R Fabrics Ltd",
+   "day": "2026-10-15",
+   "at": "2026-10-15T07:12:20.841Z",
+   "counted": 6,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-15",
+   "abc": "C",
+   "expected": {
+    "inSage": 6,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 6,
+    "sageAt": "2026-10-15"
+   },
+   "diff": 0
   }
  ],
- "savedAt": "2026-10-15T07:03:15.711Z"
+ "savedAt": "2026-10-15T07:12:21.127Z"
 }
