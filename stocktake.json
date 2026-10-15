@@ -140,8 +140,12 @@
    "diff": -538,
    "pmNote": "taken by eric",
    "pmAt": "2026-10-15T13:51:56.326Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-15T13:52:12.539Z",
+   "closedHow": "writeoff",
+   "exportedAt": "2026-10-15T13:52:12.539Z",
+   "exportFile": "StockTake_WriteOff_2026-10-15_1452.csv"
   }
  ],
- "savedAt": "2026-10-15T13:51:56.326Z"
+ "savedAt": "2026-10-15T13:52:12.828Z"
 }
