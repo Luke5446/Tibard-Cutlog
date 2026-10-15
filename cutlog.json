@@ -6878,7 +6878,36 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 275
+  },
+  {
+   "ref": "WO-1539",
+   "code": "CICJM01935201",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 52\"",
+   "qty": 60,
+   "due": "2026-10-22",
+   "created": "2026-10-15",
+   "printedAt": "2026-10-15",
+   "customer": "",
+   "k": "WO-1539|CICJM01935201|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 63
+  },
+  {
+   "ref": "WO-1539",
+   "code": "CICJM01935201",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 52\"",
+   "qty": 60,
+   "due": "2026-10-22",
+   "created": "2026-10-15",
+   "printedAt": "2026-10-15",
+   "customer": "",
+   "k": "WO-1539|CICJM01935201|MESHPW31401",
+   "fabric": "MESHPW31401",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "std": 15,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-15T08:18:24.907Z"
+ "savedAt": "2026-10-15T08:49:30.475Z"
 }
