@@ -7082,7 +7082,21 @@
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
    "std": 23.52
+  },
+  {
+   "ref": "WO-1554",
+   "code": "OHAPP352815",
+   "desc": "NAVY POLY/COTTON WAIST APRON WITH POCKET",
+   "qty": 116,
+   "due": "2026-10-23",
+   "created": "2026-10-16",
+   "printedAt": "2026-10-16",
+   "customer": "",
+   "k": "WO-1554|OHAPP352815|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 60.14
   }
  ],
- "savedAt": "2026-10-16T07:06:42.026Z"
+ "savedAt": "2026-10-16T07:06:47.063Z"
 }
