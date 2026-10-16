@@ -7040,7 +7040,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 3.45
+  },
+  {
+   "ref": "S-OH117003-Pt1",
+   "code": "OHAPP0666241",
+   "desc": "SLATE GREY ADJUSTABLE OFF CENTRE BIB APRON WITH SELF FABRIC TIES + 1 SMALL RIGHT SIDE POCKET & 1 LARGE LEFT SIDE POCKET",
+   "qty": 80,
+   "due": "2026-11-05",
+   "created": "2026-10-15",
+   "printedAt": "2026-10-16",
+   "customer": "Alpha Co Ltd - Archie",
+   "k": "S-OH117003-Pt1|OHAPP0666241|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 71.2
   }
  ],
- "savedAt": "2026-10-15T15:27:19.029Z"
+ "savedAt": "2026-10-16T06:59:51.449Z"
 }
