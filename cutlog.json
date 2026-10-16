@@ -6810,7 +6810,12 @@
    "k": "WO-1535|OHLCJDERBYSHIRE0601|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 2.58
+   "std": 2.58,
+   "cutAt": "2026-10-16",
+   "at": "2026-10-16T11:09:23.086Z",
+   "metres": 0,
+   "note": "Cut from waste.",
+   "adjustedAt": "2026-10-16T11:09:23.086Z"
   },
   {
    "ref": "WO-1534",
@@ -7199,5 +7204,5 @@
    "std": 24.48
   }
  ],
- "savedAt": "2026-10-16T11:09:03.001Z"
+ "savedAt": "2026-10-16T11:09:23.086Z"
 }
