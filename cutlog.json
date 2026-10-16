@@ -4363,10 +4363,7 @@
    "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back centre panel",
    "std": 2.5,
    "extra": true,
-   "created": "2026-10-01",
-   "cutAt": "2026-10-12",
-   "at": "2026-10-12T15:12:30.779Z",
-   "metres": 2.5
+   "created": "2026-10-01"
   },
   {
    "ref": "WO-1428",
@@ -7201,5 +7198,5 @@
    "std": 24.48
   }
  ],
- "savedAt": "2026-10-16T11:19:26.219Z"
+ "savedAt": "2026-10-16T11:19:34.689Z"
 }
