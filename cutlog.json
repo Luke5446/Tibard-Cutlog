@@ -7068,7 +7068,21 @@
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 21.2
+  },
+  {
+   "ref": "WO-1553",
+   "code": "OHAPP078615",
+   "desc": "NAVY POLY/COTTON UTILITY BIB APRON BASE",
+   "qty": 28,
+   "due": "2026-10-23",
+   "created": "2026-10-16",
+   "printedAt": "2026-10-16",
+   "customer": "",
+   "k": "WO-1553|OHAPP078615|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 23.52
   }
  ],
- "savedAt": "2026-10-16T07:00:18.957Z"
+ "savedAt": "2026-10-16T07:06:42.026Z"
 }
