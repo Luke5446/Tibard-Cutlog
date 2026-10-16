@@ -7054,7 +7054,21 @@
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
    "std": 71.2
+  },
+  {
+   "ref": "WO-1548",
+   "code": "OHHICAPP062703DEN/DS",
+   "desc": "BLACK DENIM CROSSOVER BIB APRON ZIPPED PKTS + EMB",
+   "qty": 32,
+   "due": "2026-10-20",
+   "created": "2026-10-15",
+   "printedAt": "2026-10-16",
+   "customer": "",
+   "k": "WO-1548|OHHICAPP062703DEN/DS|CO5003DEN",
+   "fabric": "CO5003DEN",
+   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
+   "std": 21.2
   }
  ],
- "savedAt": "2026-10-16T06:59:51.449Z"
+ "savedAt": "2026-10-16T07:00:18.957Z"
 }
