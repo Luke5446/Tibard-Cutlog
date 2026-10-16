@@ -6635,7 +6635,12 @@
    "k": "S-TIB872728-Pt1|SHROUD01|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 746
+   "std": 746,
+   "cutAt": "2026-10-16",
+   "at": "2026-10-16T09:00:02.545Z",
+   "metres": 754,
+   "note": "+8m Damages and Roll Ends that aren't quite big enough for a shroud.",
+   "adjustedAt": "2026-10-16T09:00:02.545Z"
   },
   {
    "ref": "WO-1531",
@@ -7189,5 +7194,5 @@
    "std": 24.48
   }
  ],
- "savedAt": "2026-10-16T07:51:43.161Z"
+ "savedAt": "2026-10-16T09:00:02.545Z"
 }
