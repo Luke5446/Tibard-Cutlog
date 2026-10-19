@@ -7521,7 +7521,21 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 2.76
+  },
+  {
+   "ref": "WO-1579",
+   "code": "OHTAB82",
+   "desc": "BROWN WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 20,
+   "due": "2026-11-13",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1579|OHTAB82|CMP-WEB-PU-25-82",
+   "fabric": "CMP-WEB-PU-25-82",
+   "fabName": "BROWN 25MM POLYURETHENE WEBBING",
+   "std": 4
   }
  ],
- "savedAt": "2026-10-19T15:24:28.357Z"
+ "savedAt": "2026-10-19T15:24:35.078Z"
 }
