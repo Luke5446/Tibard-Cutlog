@@ -3379,7 +3379,13 @@
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
    "std": 16.51,
-   "created": "2026-09-29"
+   "created": "2026-09-29",
+   "cutAt": "2026-10-19",
+   "at": "2026-10-19T09:55:38.550Z",
+   "metres": 17.61,
+   "qtyCut": 32,
+   "note": "cut for 32 of 30",
+   "adjustedAt": "2026-10-19T09:55:38.550Z"
   },
   {
    "ref": "WO-1392",
@@ -7301,5 +7307,5 @@
    "std": 0.39
   }
  ],
- "savedAt": "2026-10-19T09:28:56.520Z"
+ "savedAt": "2026-10-19T09:55:38.550Z"
 }
