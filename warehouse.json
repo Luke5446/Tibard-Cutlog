@@ -16897,7 +16897,17 @@
    "qty": 3,
    "desc": "BLACK ELASTICATED TALL LEG CHEFS TROUSERS SIZE X-LARGE",
    "bookedAt": "2026-10-19T15:59:16.578Z"
+  },
+  {
+   "k": "book|WO-1566|CJM0193MM01|2026-10-19|25",
+   "kind": "book",
+   "ref": "WO-1566",
+   "code": "CJM0193MM01",
+   "completed": "2026-10-19",
+   "qty": 25,
+   "desc": "WHITE L/S MESH BACK P/COTTON CHEFS JACKET SZ MEDIUM",
+   "bookedAt": "2026-10-19T15:59:32.642Z"
   }
  ],
- "savedAt": "2026-10-19T15:59:16.990Z"
+ "savedAt": "2026-10-19T15:59:33.158Z"
 }
