@@ -6139,12 +6139,7 @@
    "k": "WO-1501|OHAPP0597224DEN|CO5224DEN",
    "fabric": "CO5224DEN",
    "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
-   "std": 10.08,
-   "cutAt": "2026-10-14",
-   "at": "2026-10-14T15:34:33.719Z",
-   "metres": 11.52,
-   "note": "Garment Rating = 0.7275m",
-   "adjustedAt": "2026-10-14T15:34:33.719Z"
+   "std": 10.08
   },
   {
    "ref": "WO-1502",
@@ -7318,5 +7313,5 @@
    "std": 0.39
   }
  ],
- "savedAt": "2026-10-19T10:50:18.796Z"
+ "savedAt": "2026-10-19T11:11:19.085Z"
 }
