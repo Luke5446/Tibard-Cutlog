@@ -188,7 +188,11 @@
    "diff": -7,
    "pmNote": "stock take",
    "pmAt": "2026-10-19T08:35:23.180Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-19T08:35:37.759Z",
+   "closedHow": "writeoff",
+   "exportedAt": "2026-10-19T08:35:37.759Z",
+   "exportFile": "StockTake_WriteOff_2026-10-19_0935.csv"
   },
   {
    "k": "count|PC2UNIONJACK|2026-10-19T07:20:05.851Z",
@@ -214,8 +218,12 @@
    "diff": -113,
    "pmNote": "eric has taken",
    "pmAt": "2026-10-19T08:35:24.150Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-19T08:35:37.759Z",
+   "closedHow": "writeoff",
+   "exportedAt": "2026-10-19T08:35:37.759Z",
+   "exportFile": "StockTake_WriteOff_2026-10-19_0935.csv"
   }
  ],
- "savedAt": "2026-10-19T08:35:24.151Z"
+ "savedAt": "2026-10-19T08:35:38.068Z"
 }
