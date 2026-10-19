@@ -7339,7 +7339,36 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 0.39
+  },
+  {
+   "ref": "S-OH117087-Pt1",
+   "code": "OHAP3005241/222CTDR",
+   "desc": "SLATE GREY 100% COTTON BIB APRON WITH COCOA FABRIC TIES - NO NECK STRAP",
+   "qty": 1,
+   "due": "2026-10-23",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "Andy Kelliott",
+   "k": "S-OH117087-Pt1|OHAP3005241/222CTDR|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 1.03
+  },
+  {
+   "ref": "S-OH117087-Pt1",
+   "code": "OHAP3005241/222CTDR",
+   "desc": "SLATE GREY 100% COTTON BIB APRON WITH COCOA FABRIC TIES - NO NECK STRAP",
+   "qty": 1,
+   "due": "2026-10-23",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "Andy Kelliott",
+   "k": "S-OH117087-Pt1|OHAP3005241/222CTDR|CO5222ECO",
+   "fabric": "CO5222ECO",
+   "fabName": "Cocoa 100% organic cotton 260 gsm X149ECO-AM307 (Tiajo) — waist ties, rating 0.10 m",
+   "std": 0.1,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-19T13:53:32.276Z"
+ "savedAt": "2026-10-19T14:11:55.349Z"
 }
