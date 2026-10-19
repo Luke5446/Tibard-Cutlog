@@ -6131,7 +6131,7 @@
    "ref": "WO-1501",
    "code": "OHAPP0597224DEN",
    "desc": "INDIGO DENIM STUD FASTENED BIB APRON + 2 HIP POCKETS",
-   "qty": 15,
+   "qty": 14,
    "due": "2026-10-20",
    "created": "2026-10-12",
    "printedAt": "2026-10-12",
@@ -6139,7 +6139,7 @@
    "k": "WO-1501|OHAPP0597224DEN|CO5224DEN",
    "fabric": "CO5224DEN",
    "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
-   "std": 10.92
+   "std": 10.2
   },
   {
    "ref": "WO-1502",
@@ -7537,5 +7537,5 @@
    "std": 4
   }
  ],
- "savedAt": "2026-10-19T15:24:35.078Z"
+ "savedAt": "2026-10-19T15:46:40.536Z"
 }
