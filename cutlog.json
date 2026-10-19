@@ -7008,7 +7008,13 @@
    "k": "WO-1549|OHSTRAP153|CO5153ECO",
    "fabric": "CO5153ECO",
    "fabName": "KHAKI 100% SUSTAINABLE COTTON (X149 - AM306)",
-   "std": 12.88
+   "std": 12.88,
+   "cutAt": "2026-10-19",
+   "at": "2026-10-19T07:53:02.472Z",
+   "metres": 11.7,
+   "qtyCut": 66,
+   "note": "Garment Rating = 0.17m",
+   "adjustedAt": "2026-10-19T07:53:02.472Z"
   },
   {
    "ref": "WO-1547",
@@ -7239,5 +7245,5 @@
    "metres": 4.42
   }
  ],
- "savedAt": "2026-10-16T11:55:13.115Z"
+ "savedAt": "2026-10-19T07:53:02.472Z"
 }
