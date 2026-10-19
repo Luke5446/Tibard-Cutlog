@@ -7436,7 +7436,21 @@
    "fabric": "PCECO520128",
    "fabName": "CHARCOAL 63/35 RECYCLED ORGANIC P/COTTON 260GM (RP-OC520)",
    "std": 21.5
+  },
+  {
+   "ref": "WO-1574",
+   "code": "OHAPP0534224DEN",
+   "desc": "INDIGO DENIM ADJ NECK STRAP BIB APRON + CENTRE FRONT POCKET",
+   "qty": 16,
+   "due": "2026-11-13",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1574|OHAPP0534224DEN|CO5224DEN",
+   "fabric": "CO5224DEN",
+   "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
+   "std": 8.88
   }
  ],
- "savedAt": "2026-10-19T14:54:11.104Z"
+ "savedAt": "2026-10-19T15:24:00.553Z"
 }
