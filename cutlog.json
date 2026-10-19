@@ -7416,7 +7416,21 @@
    "fabric": "PVC600D03",
    "fabName": "BLACK RECYCLED TEXTURED POLYESTER 430GSM",
    "std": 27.6
+  },
+  {
+   "ref": "WO-1572",
+   "code": "AP0777128",
+   "desc": "CHARCOAL RECYCLED WAIST APRON WITH EYELETS, SELF FABRIC TIES",
+   "qty": 50,
+   "due": "2026-10-21",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1572|AP0777128|PCECO520128",
+   "fabric": "PCECO520128",
+   "fabName": "CHARCOAL 63/35 RECYCLED ORGANIC P/COTTON 260GM (RP-OC520)",
+   "std": 21.5
   }
  ],
- "savedAt": "2026-10-19T14:28:16.962Z"
+ "savedAt": "2026-10-19T14:36:47.237Z"
 }
