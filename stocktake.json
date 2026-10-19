@@ -145,7 +145,23 @@
    "closedHow": "writeoff",
    "exportedAt": "2026-10-15T13:52:12.539Z",
    "exportFile": "StockTake_WriteOff_2026-10-15_1452.csv"
+  },
+  {
+   "k": "pick|2026-10-19|PC2UNIONJACK",
+   "kind": "pick",
+   "day": "2026-10-19",
+   "code": "PC2UNIONJACK",
+   "abc": "C",
+   "at": "2026-10-19T07:04:53.515Z"
+  },
+  {
+   "k": "pick|2026-10-19|CO5TEXAS913",
+   "kind": "pick",
+   "day": "2026-10-19",
+   "code": "CO5TEXAS913",
+   "abc": "C",
+   "at": "2026-10-19T07:04:53.516Z"
   }
  ],
- "savedAt": "2026-10-15T13:52:12.828Z"
+ "savedAt": "2026-10-19T07:04:53.516Z"
 }
