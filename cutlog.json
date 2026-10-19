@@ -7258,7 +7258,21 @@
    "cutAt": "2026-10-16",
    "at": "2026-10-16T11:55:13.115Z",
    "metres": 4.42
+  },
+  {
+   "ref": "WO-1567",
+   "code": "OHCJCUMBRIA3401",
+   "desc": "WHITE L/S PRESS STUD CUMBRIA CHEF JACKET SZ 34\"",
+   "qty": 3,
+   "due": "2026-10-20",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1567|OHCJCUMBRIA3401|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 4.44
   }
  ],
- "savedAt": "2026-10-19T08:47:08.570Z"
+ "savedAt": "2026-10-19T08:59:55.025Z"
 }
