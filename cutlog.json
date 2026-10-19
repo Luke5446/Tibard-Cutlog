@@ -7397,7 +7397,21 @@
    "fabName": "Cocoa 3110 100% cotton (P and R) — waist ties, rating 0.10 m",
    "std": 0.1,
    "extra": true
+  },
+  {
+   "ref": "WO-1556",
+   "code": "WAGSB077403",
+   "desc": "BLACK RECYCLED POLYESTER PVC STAFF BAG + WAGAMAMA LOGO",
+   "qty": 120,
+   "due": "2026-10-23",
+   "created": "2026-10-16",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1556|WAGSB077403|PVC600D03",
+   "fabric": "PVC600D03",
+   "fabName": "BLACK RECYCLED TEXTURED POLYESTER 430GSM",
+   "std": 27.6
   }
  ],
- "savedAt": "2026-10-19T14:12:04.085Z"
+ "savedAt": "2026-10-19T14:12:22.945Z"
 }
