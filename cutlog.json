@@ -7286,7 +7286,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 7.4
+  },
+  {
+   "ref": "WO-1569",
+   "code": "OHHTM016003",
+   "desc": "BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
+   "qty": 3,
+   "due": "2026-10-19",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1569|OHHTM016003|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 0.39
   }
  ],
- "savedAt": "2026-10-19T09:00:00.607Z"
+ "savedAt": "2026-10-19T09:24:03.447Z"
 }
