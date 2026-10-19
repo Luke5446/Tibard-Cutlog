@@ -7124,7 +7124,10 @@
    "k": "WO-1548|OHHICAPP062703DEN/DS|CO5003DEN",
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
-   "std": 21.2
+   "std": 21.2,
+   "cutAt": "2026-10-19",
+   "at": "2026-10-19T08:47:08.570Z",
+   "metres": 21.2
   },
   {
    "ref": "WO-1553",
@@ -7257,5 +7260,5 @@
    "metres": 4.42
   }
  ],
- "savedAt": "2026-10-19T07:57:57.452Z"
+ "savedAt": "2026-10-19T08:47:08.570Z"
 }
