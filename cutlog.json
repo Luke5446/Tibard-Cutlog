@@ -7479,7 +7479,21 @@
    "fabName": "Khaki 3110 100% cotton (for neck and waist ties) — contrast marker 0597A (neck tie + ties)",
    "std": 3.45,
    "extra": true
+  },
+  {
+   "ref": "WO-1576",
+   "code": "OHAPP061203DEN",
+   "desc": "BLACK DENIM BIB APRON, SLANT HIP PKT, LEATHER NECK STRAP",
+   "qty": 10,
+   "due": "2026-11-13",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1576|OHAPP061203DEN|CO5003DEN",
+   "fabric": "CO5003DEN",
+   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
+   "std": 7.24
   }
  ],
- "savedAt": "2026-10-19T15:24:08.845Z"
+ "savedAt": "2026-10-19T15:24:15.490Z"
 }
