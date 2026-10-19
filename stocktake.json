@@ -152,7 +152,8 @@
    "day": "2026-10-19",
    "code": "PC2UNIONJACK",
    "abc": "C",
-   "at": "2026-10-19T07:04:53.515Z"
+   "at": "2026-10-19T07:04:53.515Z",
+   "countedK": "count|PC2UNIONJACK|2026-10-19T07:20:05.851Z"
   },
   {
    "k": "pick|2026-10-19|CO5TEXAS913",
@@ -185,7 +186,30 @@
     "sageAt": "2026-10-16"
    },
    "diff": -7
+  },
+  {
+   "k": "count|PC2UNIONJACK|2026-10-19T07:20:05.851Z",
+   "kind": "count",
+   "code": "PC2UNIONJACK",
+   "name": "UNION JACK TEREDO POLY COTTON 1596",
+   "supName": "Carrington Textiles Ltd",
+   "day": "2026-10-19",
+   "at": "2026-10-19T07:20:05.851Z",
+   "counted": 0,
+   "note": "Eric has taken.",
+   "why": "pick",
+   "listedOn": "2026-10-19",
+   "abc": "C",
+   "expected": {
+    "inSage": 113,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 113,
+    "sageAt": "2026-10-16"
+   },
+   "diff": -113
   }
  ],
- "savedAt": "2026-10-19T07:19:44.126Z"
+ "savedAt": "2026-10-19T07:20:06.162Z"
 }
