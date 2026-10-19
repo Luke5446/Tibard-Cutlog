@@ -7450,7 +7450,36 @@
    "fabric": "CO5224DEN",
    "fabName": "MURRAY INDIGO DENIM 100% COTTON 315GM",
    "std": 8.88
+  },
+  {
+   "ref": "WO-1575",
+   "code": "OHAPP059703/153DEN",
+   "desc": "BLACK DENIM-KHAKI CONTRAST BIB APRON + 2 HIP POCKETS",
+   "qty": 20,
+   "due": "2026-11-13",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1575|OHAPP059703/153DEN|CO5003DEN",
+   "fabric": "CO5003DEN",
+   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
+   "std": 13
+  },
+  {
+   "ref": "WO-1575",
+   "code": "OHAPP059703/153DEN",
+   "desc": "BLACK DENIM-KHAKI CONTRAST BIB APRON + 2 HIP POCKETS",
+   "qty": 20,
+   "due": "2026-11-13",
+   "created": "2026-10-19",
+   "printedAt": "2026-10-19",
+   "customer": "",
+   "k": "WO-1575|OHAPP059703/153DEN|CO5153",
+   "fabric": "CO5153",
+   "fabName": "Khaki 3110 100% cotton (for neck and waist ties) — contrast marker 0597A (neck tie + ties)",
+   "std": 3.45,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-19T15:24:00.553Z"
+ "savedAt": "2026-10-19T15:24:08.845Z"
 }
