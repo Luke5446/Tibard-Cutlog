@@ -160,8 +160,32 @@
    "day": "2026-10-19",
    "code": "CO5TEXAS913",
    "abc": "C",
-   "at": "2026-10-19T07:04:53.516Z"
+   "at": "2026-10-19T07:04:53.516Z",
+   "countedK": "count|CO5TEXAS913|2026-10-19T07:19:43.831Z"
+  },
+  {
+   "k": "count|CO5TEXAS913|2026-10-19T07:19:43.831Z",
+   "kind": "count",
+   "code": "CO5TEXAS913",
+   "name": "TEXAS BROWN DENIM 100% COTTON TWILL 330GSM (BR15)",
+   "supName": "Tiajo Comercio De Texteis LDA",
+   "day": "2026-10-19",
+   "at": "2026-10-19T07:19:43.831Z",
+   "counted": 28,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-19",
+   "abc": "C",
+   "expected": {
+    "inSage": 35,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 35,
+    "sageAt": "2026-10-16"
+   },
+   "diff": -7
   }
  ],
- "savedAt": "2026-10-19T07:04:53.516Z"
+ "savedAt": "2026-10-19T07:19:44.126Z"
 }
