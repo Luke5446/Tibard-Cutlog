@@ -6880,7 +6880,13 @@
    "k": "WO-1533|OHCJSMDEVON3801|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 9.9
+   "std": 9.9,
+   "cutAt": "2026-10-19",
+   "at": "2026-10-19T13:29:10.088Z",
+   "metres": 11.88,
+   "qtyCut": 12,
+   "note": "cut for 12 of 10",
+   "adjustedAt": "2026-10-19T13:29:10.088Z"
   },
   {
    "ref": "WO-1533",
@@ -7329,5 +7335,5 @@
    "std": 0.39
   }
  ],
- "savedAt": "2026-10-19T13:28:59.083Z"
+ "savedAt": "2026-10-19T13:29:10.088Z"
 }
