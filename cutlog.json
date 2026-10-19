@@ -6997,7 +6997,10 @@
    "k": "WO-1550|OHTAB14|CMP-WEB-PU-25-14",
    "fabric": "CMP-WEB-PU-25-14",
    "fabName": "DARK GREY 25MM POLYURETHENE WEBBING",
-   "std": 1.2
+   "std": 1.2,
+   "cutAt": "2026-10-19",
+   "at": "2026-10-19T07:57:18.142Z",
+   "metres": 1.2
   },
   {
    "ref": "WO-1549",
@@ -7248,5 +7251,5 @@
    "metres": 4.42
   }
  ],
- "savedAt": "2026-10-19T07:56:42.718Z"
+ "savedAt": "2026-10-19T07:57:18.142Z"
 }
