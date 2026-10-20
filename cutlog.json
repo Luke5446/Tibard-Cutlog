@@ -7880,7 +7880,21 @@
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
    "std": 7.68
+  },
+  {
+   "ref": "WO-1601",
+   "code": "OHAPP078682",
+   "desc": "BROWN POLY/COTTON UTILITY BIB APRON BASE",
+   "qty": 16,
+   "due": "2026-11-10",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1601|OHAPP078682|PC2082ECO",
+   "fabric": "PC2082ECO",
+   "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
+   "std": 13.44
   }
  ],
- "savedAt": "2026-10-20T13:23:54.922Z"
+ "savedAt": "2026-10-20T13:24:01.666Z"
 }
