@@ -7752,7 +7752,21 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 2.3
+  },
+  {
+   "ref": "WO-1594",
+   "code": "OHCTTLANCASHIREXL03",
+   "desc": "BLACK LANCASHIRE TROUSERS SZ X-LARGE - TALL LEG",
+   "qty": 6,
+   "due": "2026-10-22",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1594|OHCTTLANCASHIREXL03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 10.68
   }
  ],
- "savedAt": "2026-10-20T13:21:18.282Z"
+ "savedAt": "2026-10-20T13:21:33.347Z"
 }
