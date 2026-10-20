@@ -230,7 +230,8 @@
    "day": "2026-10-20",
    "code": "CMP-WEB-PU-25-15",
    "abc": "C",
-   "at": "2026-10-20T07:09:10.647Z"
+   "at": "2026-10-20T07:09:10.647Z",
+   "countedK": "count|CMP-WEB-PU-25-15|2026-10-20T14:22:36.678Z"
   },
   {
    "k": "pick|2026-10-20|MESH2290901",
@@ -263,7 +264,30 @@
     "sageAt": "2026-10-19"
    },
    "diff": -65.02
+  },
+  {
+   "k": "count|CMP-WEB-PU-25-15|2026-10-20T14:22:36.678Z",
+   "kind": "count",
+   "code": "CMP-WEB-PU-25-15",
+   "name": "NAVY 25MM POLYURETHENE WEBBING",
+   "supName": "Newlace Ltd",
+   "day": "2026-10-20",
+   "at": "2026-10-20T14:22:36.678Z",
+   "counted": 91.6,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-20",
+   "abc": "C",
+   "expected": {
+    "inSage": 91.6,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 91.6,
+    "sageAt": "2026-10-20"
+   },
+   "diff": 0
   }
  ],
- "savedAt": "2026-10-20T07:17:33.458Z"
+ "savedAt": "2026-10-20T14:22:36.962Z"
 }
