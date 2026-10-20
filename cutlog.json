@@ -6463,7 +6463,10 @@
    "k": "WO-1517|OHAP3005248L|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 15.52
+   "std": 15.52,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T10:23:58.841Z",
+   "metres": 15.52
   },
   {
    "ref": "WO-1518",
@@ -7684,5 +7687,5 @@
    "std": 6.12
   }
  ],
- "savedAt": "2026-10-20T10:03:29.306Z"
+ "savedAt": "2026-10-20T10:23:58.841Z"
 }
