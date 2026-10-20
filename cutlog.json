@@ -7824,7 +7824,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 2.52,
    "extra": true
+  },
+  {
+   "ref": "WO-1591",
+   "code": "OHAPP063115DS",
+   "desc": "NAVY CUSTOM WAIST APRON BASE + 2 HIP POCKETS",
+   "qty": 30,
+   "due": "2026-10-22",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1591|OHAPP063115DS|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 12.15
   }
  ],
- "savedAt": "2026-10-20T13:21:46.533Z"
+ "savedAt": "2026-10-20T13:21:52.505Z"
 }
