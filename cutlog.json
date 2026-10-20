@@ -7849,7 +7849,10 @@
    "k": "WO-1591|OHAPP063115DS|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 12.15
+   "std": 12.15,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T15:23:48.424Z",
+   "metres": 12.15
   },
   {
    "ref": "WO-1590",
@@ -7942,5 +7945,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-20T15:14:24.480Z"
+ "savedAt": "2026-10-20T15:23:48.424Z"
 }
