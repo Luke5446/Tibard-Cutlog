@@ -7587,7 +7587,13 @@
    "k": "WO-1581|OHAPP0630242KP|PC90242",
    "fabric": "PC90242",
    "fabName": "HEATHER GREY COT/POLY 55/45 300GSM(2860 VT/SK COL97BE)",
-   "std": 11.04
+   "std": 11.04,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T11:09:34.661Z",
+   "metres": 13.59,
+   "qtyCut": 16,
+   "note": "Cut in 4s",
+   "adjustedAt": "2026-10-20T11:09:34.661Z"
   },
   {
    "ref": "WO-1582",
@@ -7698,5 +7704,5 @@
    "std": 6.12
   }
  ],
- "savedAt": "2026-10-20T10:48:02.798Z"
+ "savedAt": "2026-10-20T11:09:34.661Z"
 }
