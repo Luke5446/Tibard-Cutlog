@@ -7724,7 +7724,21 @@
    "fabric": "CMP-WEB-PU-25-01",
    "fabName": "WHITE 25MM POLYURETHENE WEBBING",
    "std": 1.2
+  },
+  {
+   "ref": "WO-1596",
+   "code": "OHSTRAP222WAIST",
+   "desc": "COCOA DETACHABLE SHORT WAIST STRAP",
+   "qty": 20,
+   "due": "2026-10-22",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1596|OHSTRAP222WAIST|CO5222ECO",
+   "fabric": "CO5222ECO",
+   "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
+   "std": 2.8
   }
  ],
- "savedAt": "2026-10-20T13:21:03.496Z"
+ "savedAt": "2026-10-20T13:21:09.805Z"
 }
