@@ -6678,7 +6678,12 @@
    "k": "WO-1531|OHLCTSHROPSHIRE2003|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 2.86
+   "std": 2.86,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T12:46:21.755Z",
+   "metres": 3.16,
+   "note": "Garment Rating = 1.58m",
+   "adjustedAt": "2026-10-20T12:46:21.755Z"
   },
   {
    "ref": "WO-1530",
@@ -7704,5 +7709,5 @@
    "std": 6.12
   }
  ],
- "savedAt": "2026-10-20T11:09:34.661Z"
+ "savedAt": "2026-10-20T12:46:21.755Z"
 }
