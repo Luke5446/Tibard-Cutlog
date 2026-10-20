@@ -7723,7 +7723,10 @@
    "k": "WO-1597|OHTAB01|CMP-WEB-PU-25-01",
    "fabric": "CMP-WEB-PU-25-01",
    "fabName": "WHITE 25MM POLYURETHENE WEBBING",
-   "std": 1.2
+   "std": 1.2,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T14:27:20.307Z",
+   "metres": 1.2
   },
   {
    "ref": "WO-1596",
@@ -7925,5 +7928,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-20T14:05:31.226Z"
+ "savedAt": "2026-10-20T14:27:20.307Z"
 }
