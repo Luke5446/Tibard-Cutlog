@@ -223,7 +223,23 @@
    "closedHow": "writeoff",
    "exportedAt": "2026-10-19T08:35:37.759Z",
    "exportFile": "StockTake_WriteOff_2026-10-19_0935.csv"
+  },
+  {
+   "k": "pick|2026-10-20|CMP-WEB-PU-25-15",
+   "kind": "pick",
+   "day": "2026-10-20",
+   "code": "CMP-WEB-PU-25-15",
+   "abc": "C",
+   "at": "2026-10-20T07:09:10.647Z"
+  },
+  {
+   "k": "pick|2026-10-20|MESH2290901",
+   "kind": "pick",
+   "day": "2026-10-20",
+   "code": "MESH2290901",
+   "abc": "B",
+   "at": "2026-10-20T07:09:10.647Z"
   }
  ],
- "savedAt": "2026-10-19T08:35:38.068Z"
+ "savedAt": "2026-10-20T07:09:10.647Z"
 }
