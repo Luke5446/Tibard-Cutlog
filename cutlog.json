@@ -6449,7 +6449,10 @@
    "k": "WO-1516|OHAP300503PCL|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 19.4
+   "std": 19.4,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T10:30:52.955Z",
+   "metres": 19.4
   },
   {
    "ref": "WO-1517",
@@ -7687,5 +7690,5 @@
    "std": 6.12
   }
  ],
- "savedAt": "2026-10-20T10:23:58.841Z"
+ "savedAt": "2026-10-20T10:30:52.955Z"
 }
