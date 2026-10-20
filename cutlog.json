@@ -7710,7 +7710,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 6.12
+  },
+  {
+   "ref": "WO-1597",
+   "code": "OHTAB01",
+   "desc": "WHITE WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 6,
+   "due": "2026-10-22",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1597|OHTAB01|CMP-WEB-PU-25-01",
+   "fabric": "CMP-WEB-PU-25-01",
+   "fabName": "WHITE 25MM POLYURETHENE WEBBING",
+   "std": 1.2
   }
  ],
- "savedAt": "2026-10-20T12:46:49.714Z"
+ "savedAt": "2026-10-20T13:21:03.496Z"
 }
