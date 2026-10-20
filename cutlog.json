@@ -7852,7 +7852,21 @@
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
    "std": 6.4
+  },
+  {
+   "ref": "WO-1599",
+   "code": "CBHT016064PG",
+   "desc": "STORM GREY VELCRO FASTEN SKULL CAP + CIAO BELLA",
+   "qty": 30,
+   "due": "2026-11-10",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1599|CBHT016064PG|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "Storm grey 65% recycled polyester / 35% BCI cotton 200 gsm X133ECO AM299 (Tiajo) — rating 0.12 m",
+   "std": 4.5
   }
  ],
- "savedAt": "2026-10-20T13:22:05.079Z"
+ "savedAt": "2026-10-20T13:23:49.396Z"
 }
