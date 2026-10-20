@@ -7866,7 +7866,21 @@
    "fabric": "PC2064ECO",
    "fabName": "Storm grey 65% recycled polyester / 35% BCI cotton 200 gsm X133ECO AM299 (Tiajo) — rating 0.12 m",
    "std": 4.5
+  },
+  {
+   "ref": "WO-1600",
+   "code": "CT01964626",
+   "desc": "BLUE/WHITE GINGHAM CHECK CHEF TROUSER SZ 46\"",
+   "qty": 6,
+   "due": "2026-11-10",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1600|CT01964626|PC2026",
+   "fabric": "PC2026",
+   "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
+   "std": 7.68
   }
  ],
- "savedAt": "2026-10-20T13:23:49.396Z"
+ "savedAt": "2026-10-20T13:23:54.922Z"
 }
