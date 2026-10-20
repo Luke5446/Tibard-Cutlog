@@ -7738,7 +7738,21 @@
    "fabric": "CO5222ECO",
    "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
    "std": 2.8
+  },
+  {
+   "ref": "WO-1595",
+   "code": "OHSTRAP15",
+   "desc": "NAVY DETACHABLE LONG BIB STRAP",
+   "qty": 10,
+   "due": "2026-10-22",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-20",
+   "customer": "",
+   "k": "WO-1595|OHSTRAP15|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 2.3
   }
  ],
- "savedAt": "2026-10-20T13:21:09.805Z"
+ "savedAt": "2026-10-20T13:21:18.282Z"
 }
