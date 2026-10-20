@@ -7363,7 +7363,12 @@
    "k": "S-OH117087-Pt1|OHAP3005241/222CTDR|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 1.03
+   "std": 1.03,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T07:21:58.478Z",
+   "metres": 0,
+   "note": "Cut from Waste",
+   "adjustedAt": "2026-10-20T07:21:58.478Z"
   },
   {
    "ref": "S-OH117087-Pt1",
@@ -7378,7 +7383,12 @@
    "fabric": "CO5222ECO",
    "fabName": "Cocoa 100% organic cotton 260 gsm X149ECO-AM307 (Tiajo) — waist ties, rating 0.10 m",
    "std": 0.1,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T07:21:58.478Z",
+   "metres": 0,
+   "note": "Cut from Waste",
+   "adjustedAt": "2026-10-20T07:21:58.478Z"
   },
   {
    "ref": "S-OH117087-Pt2",
@@ -7537,5 +7547,5 @@
    "std": 1.03
   }
  ],
- "savedAt": "2026-10-20T07:06:43.717Z"
+ "savedAt": "2026-10-20T07:21:58.478Z"
 }
