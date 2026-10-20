@@ -238,8 +238,32 @@
    "day": "2026-10-20",
    "code": "MESH2290901",
    "abc": "B",
-   "at": "2026-10-20T07:09:10.647Z"
+   "at": "2026-10-20T07:09:10.647Z",
+   "countedK": "count|MESH2290901|2026-10-20T07:17:33.103Z"
+  },
+  {
+   "k": "count|MESH2290901|2026-10-20T07:17:33.103Z",
+   "kind": "count",
+   "code": "MESH2290901",
+   "name": "WHITE 22909 COOLMAX MESH ACTIVE 50% COOLMAX",
+   "supName": "Clockwork Giant Clothing Pty Ltd",
+   "day": "2026-10-20",
+   "at": "2026-10-20T07:17:33.103Z",
+   "counted": 819,
+   "note": "There are 7 entries on the old google cutting sheet that dont appear to be booked out.",
+   "why": "pick",
+   "listedOn": "2026-10-20",
+   "abc": "B",
+   "expected": {
+    "inSage": 901.18,
+    "cutLive": 17.159999999999997,
+    "notWrittenOff": 0,
+    "waiting": 11.09,
+    "toHand": 884.02,
+    "sageAt": "2026-10-19"
+   },
+   "diff": -65.02
   }
  ],
- "savedAt": "2026-10-20T07:09:10.647Z"
+ "savedAt": "2026-10-20T07:17:33.458Z"
 }
