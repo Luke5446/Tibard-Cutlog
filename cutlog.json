@@ -7073,12 +7073,7 @@
    "k": "WO-1547|OHCJSSUFFOLK4801|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 18.6,
-   "cutAt": "2026-10-16",
-   "at": "2026-10-16T11:09:03.001Z",
-   "metres": 19,
-   "note": "+0.40m for Damages",
-   "adjustedAt": "2026-10-16T11:09:03.001Z"
+   "std": 18.6
   },
   {
    "ref": "WO-1546",
@@ -7566,5 +7561,5 @@
    "std": 11.04
   }
  ],
- "savedAt": "2026-10-20T07:42:28.280Z"
+ "savedAt": "2026-10-20T07:53:02.910Z"
 }
