@@ -1981,7 +1981,12 @@
    "fabric": "CO5222ECO",
    "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
    "std": 50,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-09-29",
+   "at": "2026-10-20T10:03:29.306Z",
+   "backdated": "2026-10-20",
+   "metres": 50,
+   "qtyCut": 40
   },
   {
    "ref": "WO-1295",
@@ -7679,5 +7684,5 @@
    "std": 6.12
   }
  ],
- "savedAt": "2026-10-20T10:01:26.985Z"
+ "savedAt": "2026-10-20T10:03:29.306Z"
 }
