@@ -7754,7 +7754,13 @@
    "k": "WO-1595|OHSTRAP15|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 2.3
+   "std": 2.3,
+   "cutAt": "2026-10-20",
+   "at": "2026-10-20T15:14:24.480Z",
+   "metres": 2.53,
+   "qtyCut": 11,
+   "note": "cut for 11 of 10",
+   "adjustedAt": "2026-10-20T15:14:24.480Z"
   },
   {
    "ref": "WO-1594",
@@ -7936,5 +7942,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-20T15:06:21.437Z"
+ "savedAt": "2026-10-20T15:14:24.480Z"
 }
