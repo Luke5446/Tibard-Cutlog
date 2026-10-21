@@ -303,7 +303,8 @@
    "day": "2026-10-21",
    "code": "CO5222ECO",
    "abc": "B",
-   "at": "2026-10-21T06:32:00.147Z"
+   "at": "2026-10-21T06:32:00.147Z",
+   "countedK": "count|CO5222ECO|2026-10-21T06:36:56.305Z"
   },
   {
    "k": "count|CMP-WEB-PU-25-83|2026-10-21T06:36:36.021Z",
@@ -327,7 +328,30 @@
     "sageAt": "2026-10-20"
    },
    "diff": 0
+  },
+  {
+   "k": "count|CO5222ECO|2026-10-21T06:36:56.305Z",
+   "kind": "count",
+   "code": "CO5222ECO",
+   "name": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
+   "supName": "Tiajo Comercio De Texteis LDA",
+   "day": "2026-10-21",
+   "at": "2026-10-21T06:36:56.305Z",
+   "counted": 640.8,
+   "note": "10 rolls",
+   "why": "pick",
+   "listedOn": "2026-10-21",
+   "abc": "B",
+   "expected": {
+    "inSage": 675.41,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 2.8,
+    "toHand": 675.41,
+    "sageAt": "2026-10-20"
+   },
+   "diff": -34.61
   }
  ],
- "savedAt": "2026-10-21T06:36:36.354Z"
+ "savedAt": "2026-10-21T06:36:56.590Z"
 }
