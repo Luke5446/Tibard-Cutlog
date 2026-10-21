@@ -7943,7 +7943,36 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 4.5,
    "extra": true
+  },
+  {
+   "ref": "S-TIB873320-Pt1",
+   "code": "CICJM01936601",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 66\"",
+   "qty": 5,
+   "due": "2026-11-10",
+   "created": "2026-10-21",
+   "printedAt": "2026-10-21",
+   "customer": "Stalbridge Linen Services Ltd",
+   "k": "S-TIB873320-Pt1|CICJM01936601|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 5.4
+  },
+  {
+   "ref": "S-TIB873320-Pt1",
+   "code": "CICJM01936601",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 66\"",
+   "qty": 5,
+   "due": "2026-11-10",
+   "created": "2026-10-21",
+   "printedAt": "2026-10-21",
+   "customer": "Stalbridge Linen Services Ltd",
+   "k": "S-TIB873320-Pt1|CICJM01936601|MESHPW31401",
+   "fabric": "MESHPW31401",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "std": 1.25,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-20T15:23:48.424Z"
+ "savedAt": "2026-10-21T07:14:57.139Z"
 }
