@@ -7725,7 +7725,7 @@
    "ref": "WO-1586",
    "code": "OHLCJSYORK1601",
    "desc": "WHITE LADIES S/S YORK PRESS STUD CHEF JACKET SZ 16",
-   "qty": 4,
+   "qty": 10,
    "due": "2026-11-10",
    "created": "2026-10-20",
    "printedAt": "2026-10-20",
@@ -7733,7 +7733,7 @@
    "k": "WO-1586|OHLCJSYORK1601|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 6.12
+   "std": 15.3
   },
   {
    "ref": "WO-1597",
@@ -8018,5 +8018,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T15:12:01.723Z"
+ "savedAt": "2026-10-21T15:16:28.373Z"
 }
