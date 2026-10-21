@@ -7963,7 +7963,7 @@
    "ref": "WO-1602",
    "code": "OHCJSMSTRATFORD4201",
    "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 42\"",
-   "qty": 50,
+   "qty": 40,
    "due": "2026-11-10",
    "created": "2026-10-20",
    "printedAt": "2026-10-20",
@@ -7971,13 +7971,13 @@
    "k": "WO-1602|OHCJSMSTRATFORD4201|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 50.75
+   "std": 40.6
   },
   {
    "ref": "WO-1602",
    "code": "OHCJSMSTRATFORD4201",
    "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 42\"",
-   "qty": 50,
+   "qty": 40,
    "due": "2026-11-10",
    "created": "2026-10-20",
    "printedAt": "2026-10-20",
@@ -7985,7 +7985,7 @@
    "k": "WO-1602|OHCJSMSTRATFORD4201|MESH2290901",
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
-   "std": 4.5,
+   "std": 3.6,
    "extra": true
   },
   {
@@ -8018,5 +8018,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T15:17:57.494Z"
+ "savedAt": "2026-10-21T15:18:24.771Z"
 }
