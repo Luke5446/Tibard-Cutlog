@@ -7312,7 +7312,7 @@
    "ref": "WO-1559",
    "code": "OHCTDURHAM4403",
    "desc": "BLACK DURHAM EXECUTIVE TROUSERS SZ 44\"",
-   "qty": 6,
+   "qty": 10,
    "due": "2026-10-30",
    "created": "2026-10-16",
    "printedAt": "2026-10-16",
@@ -7320,7 +7320,7 @@
    "k": "WO-1559|OHCTDURHAM4403|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 9.18
+   "std": 15.3
   },
   {
    "ref": "WO-1560",
@@ -8018,5 +8018,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T14:49:38.411Z"
+ "savedAt": "2026-10-21T15:12:01.723Z"
 }
