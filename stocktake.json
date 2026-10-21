@@ -294,7 +294,8 @@
    "day": "2026-10-21",
    "code": "CMP-WEB-PU-25-83",
    "abc": "C",
-   "at": "2026-10-21T06:32:00.147Z"
+   "at": "2026-10-21T06:32:00.147Z",
+   "countedK": "count|CMP-WEB-PU-25-83|2026-10-21T06:36:36.021Z"
   },
   {
    "k": "pick|2026-10-21|CO5222ECO",
@@ -303,7 +304,30 @@
    "code": "CO5222ECO",
    "abc": "B",
    "at": "2026-10-21T06:32:00.147Z"
+  },
+  {
+   "k": "count|CMP-WEB-PU-25-83|2026-10-21T06:36:36.021Z",
+   "kind": "count",
+   "code": "CMP-WEB-PU-25-83",
+   "name": "OLIVE 25MM POLYURETHENE WEBBING",
+   "supName": "Newlace Ltd",
+   "day": "2026-10-21",
+   "at": "2026-10-21T06:36:36.021Z",
+   "counted": 96,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-21",
+   "abc": "C",
+   "expected": {
+    "inSage": 96,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 96,
+    "sageAt": "2026-10-20"
+   },
+   "diff": 0
   }
  ],
- "savedAt": "2026-10-21T06:32:00.147Z"
+ "savedAt": "2026-10-21T06:36:36.354Z"
 }
