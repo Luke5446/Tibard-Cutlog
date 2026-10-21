@@ -7949,7 +7949,7 @@
    "ref": "WO-1601",
    "code": "OHAPP078682",
    "desc": "BROWN POLY/COTTON UTILITY BIB APRON BASE",
-   "qty": 16,
+   "qty": 20,
    "due": "2026-11-10",
    "created": "2026-10-20",
    "printedAt": "2026-10-20",
@@ -7957,7 +7957,7 @@
    "k": "WO-1601|OHAPP078682|PC2082ECO",
    "fabric": "PC2082ECO",
    "fabName": "BROWN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM300)",
-   "std": 13.44
+   "std": 16.8
   },
   {
    "ref": "WO-1602",
@@ -8018,5 +8018,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T15:18:24.771Z"
+ "savedAt": "2026-10-21T15:19:43.879Z"
 }
