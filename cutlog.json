@@ -6294,7 +6294,10 @@
    "k": "WO-1508|OHCJMOXFORD4201L|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 3.3
+   "std": 3.3,
+   "cutAt": "2026-10-21",
+   "at": "2026-10-21T09:36:38.034Z",
+   "metres": 3.3
   },
   {
    "ref": "WO-1508",
@@ -6309,7 +6312,10 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.08,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-21",
+   "at": "2026-10-21T09:36:38.034Z",
+   "metres": 0.08
   },
   {
    "ref": "WO-1509",
@@ -8000,5 +8006,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T09:18:03.374Z"
+ "savedAt": "2026-10-21T09:36:38.034Z"
 }
