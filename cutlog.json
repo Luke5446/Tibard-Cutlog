@@ -6537,7 +6537,7 @@
    "ref": "WO-1522",
    "code": "OHSTRAP03",
    "desc": "BLACK DETACHABLE LONG BIB STRAP",
-   "qty": 20,
+   "qty": 121,
    "due": "2026-10-27",
    "created": "2026-10-13",
    "printedAt": "2026-10-13",
@@ -6545,7 +6545,7 @@
    "k": "WO-1522|OHSTRAP03|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 4.6
+   "std": 27.83
   },
   {
    "ref": "WO-1529",
@@ -8017,5 +8017,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T12:13:03.473Z"
+ "savedAt": "2026-10-21T12:55:31.012Z"
 }
