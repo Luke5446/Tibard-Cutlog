@@ -6163,7 +6163,10 @@
    "k": "WO-1502|OHAPP078606|PC2X13306",
    "fabric": "PC2X13306",
    "fabName": "BURGUNDY POLY/COTTON 200G (X133 COLOUR 133)",
-   "std": 6.72
+   "std": 6.72,
+   "cutAt": "2026-10-21",
+   "at": "2026-10-21T12:13:03.473Z",
+   "metres": 6.72
   },
   {
    "ref": "WO-1503",
@@ -8014,5 +8017,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T10:57:28.498Z"
+ "savedAt": "2026-10-21T12:13:03.473Z"
 }
