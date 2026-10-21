@@ -6791,7 +6791,7 @@
    "ref": "WO-1523",
    "code": "WAGHTM016007",
    "desc": "RED/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
-   "qty": 28,
+   "qty": 60,
    "due": "2026-10-27",
    "created": "2026-10-13",
    "printedAt": "2026-10-14",
@@ -6799,13 +6799,13 @@
    "k": "WO-1523|WAGHTM016007|PC2X13307",
    "fabric": "PC2X13307",
    "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
-   "std": 4.2
+   "std": 9
   },
   {
    "ref": "WO-1523",
    "code": "WAGHTM016007",
    "desc": "RED/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
-   "qty": 28,
+   "qty": 60,
    "due": "2026-10-27",
    "created": "2026-10-13",
    "printedAt": "2026-10-14",
@@ -6813,7 +6813,7 @@
    "k": "WO-1523|WAGHTM016007|MESHPW31407",
    "fabric": "MESHPW31407",
    "fabName": "Red 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m",
-   "std": 1.12,
+   "std": 2.4,
    "extra": true
   },
   {
@@ -8018,5 +8018,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T14:42:28.709Z"
+ "savedAt": "2026-10-21T14:49:38.411Z"
 }
