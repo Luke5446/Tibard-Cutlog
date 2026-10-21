@@ -7512,7 +7512,7 @@
    "ref": "WO-1575",
    "code": "OHAPP059703/153DEN",
    "desc": "BLACK DENIM-KHAKI CONTRAST BIB APRON + 2 HIP POCKETS",
-   "qty": 20,
+   "qty": 30,
    "due": "2026-11-13",
    "created": "2026-10-19",
    "printedAt": "2026-10-19",
@@ -7520,7 +7520,7 @@
    "k": "WO-1575|OHAPP059703/153DEN|CO5153",
    "fabric": "CO5153",
    "fabName": "Khaki 3110 100% cotton (for neck and waist ties) — contrast marker 0597A (neck tie + ties)",
-   "std": 3.45,
+   "std": 5.15,
    "extra": true
   },
   {
@@ -7597,7 +7597,7 @@
    "ref": "WO-1575",
    "code": "OHAPP059703/153DEN",
    "desc": "BLACK DENIM-KHAKI CONTRAST BIB APRON + 2 HIP POCKETS",
-   "qty": 20,
+   "qty": 30,
    "due": "2026-11-13",
    "created": "2026-10-19",
    "printedAt": "2026-10-19",
@@ -7605,7 +7605,7 @@
    "k": "WO-1575|OHAPP059703/153DEN|CO5153ECO",
    "fabric": "CO5153ECO",
    "fabName": "KHAKI 100% SUSTAINABLE COTTON (X149 - AM306)",
-   "std": 13
+   "std": 19.51
   },
   {
    "ref": "WO-1581",
@@ -8018,5 +8018,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T15:20:23.506Z"
+ "savedAt": "2026-10-21T15:26:04.913Z"
 }
