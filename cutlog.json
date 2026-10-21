@@ -7740,7 +7740,13 @@
    "k": "WO-1596|OHSTRAP222WAIST|CO5222ECO",
    "fabric": "CO5222ECO",
    "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
-   "std": 2.8
+   "std": 2.8,
+   "cutAt": "2026-10-21",
+   "at": "2026-10-21T07:21:49.863Z",
+   "metres": 2.26,
+   "qtyCut": 22,
+   "note": "Garment Rating = 0.1027m",
+   "adjustedAt": "2026-10-21T07:21:49.863Z"
   },
   {
    "ref": "WO-1595",
@@ -7974,5 +7980,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T07:14:57.139Z"
+ "savedAt": "2026-10-21T07:21:49.864Z"
 }
