@@ -2456,7 +2456,11 @@
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
    "std": 9.9,
-   "created": "2026-09-24"
+   "created": "2026-09-24",
+   "cutAt": "2026-10-22",
+   "at": "2026-10-22T09:53:27.767Z",
+   "metres": 9.9,
+   "qtyCut": 8
   },
   {
    "ref": "WO-1336",
@@ -8568,5 +8572,5 @@
    "std": 42
   }
  ],
- "savedAt": "2026-10-22T09:51:58.327Z"
+ "savedAt": "2026-10-22T09:53:27.767Z"
 }
