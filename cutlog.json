@@ -8121,7 +8121,8 @@
    "k": "S-OH116939-Pt3|OHCJ0001M|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 289.5
+   "std": 289.5,
+   "cancelledAt": "2026-10-22"
   },
   {
    "ref": "S-OH116939-Pt3",
@@ -8136,7 +8137,8 @@
    "fabric": "FUS1256",
    "fabName": "WHITE SEMI INTERLINING QUALITY 6616",
    "std": 6.05,
-   "extra": true
+   "extra": true,
+   "cancelledAt": "2026-10-22"
   },
   {
    "ref": "S-OH116939-Pt4",
@@ -8890,5 +8892,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-22T13:44:13.478Z"
+ "savedAt": "2026-10-22T14:40:28.821Z"
 }
