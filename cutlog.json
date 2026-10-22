@@ -8045,7 +8045,21 @@
    "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
    "std": 6.87,
    "extra": true
+  },
+  {
+   "ref": "WO-1598",
+   "code": "SHAAPP054203",
+   "desc": "BLACK 100% POLYESTER BIB APRON",
+   "qty": 80,
+   "due": "2026-10-28",
+   "created": "2026-10-20",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1598|SHAAPP054203|POPLAZA03",
+   "fabric": "POPLAZA03",
+   "fabName": "BLACK PLAZA 100% POLYESTER 200gms 1.5M WIDTH",
+   "std": 38.4
   }
  ],
- "savedAt": "2026-10-22T06:51:46.096Z"
+ "savedAt": "2026-10-22T06:52:02.521Z"
 }
