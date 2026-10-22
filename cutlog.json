@@ -8708,7 +8708,36 @@
    "fabName": "Black Coolmax mesh quality 22909 (Clockwork), as the OH black hat — oval crown, rating 0.04 m as the red; Sage has no black Philip Whitfield mesh",
    "std": 2.4,
    "extra": true
+  },
+  {
+   "ref": "WO-1643",
+   "code": "WAGHTM016024",
+   "desc": "BOTTLE/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 100,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1643|WAGHTM016024|PC2024",
+   "fabric": "PC2024",
+   "fabName": "BOTTLE GREEN P/COTTON 195GSM 150CM",
+   "std": 15
+  },
+  {
+   "ref": "WO-1643",
+   "code": "WAGHTM016024",
+   "desc": "BOTTLE/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 100,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1643|WAGHTM016024|MESHPW31424",
+   "fabric": "MESHPW31424",
+   "fabName": "Bottle green 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m as the red",
+   "std": 4,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-22T12:43:32.145Z"
+ "savedAt": "2026-10-22T12:43:37.214Z"
 }
