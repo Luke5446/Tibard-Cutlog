@@ -7578,7 +7578,10 @@
    "k": "WO-1579|OHTAB82|CMP-WEB-PU-25-82",
    "fabric": "CMP-WEB-PU-25-82",
    "fabName": "BROWN 25MM POLYURETHENE WEBBING",
-   "std": 4
+   "std": 4,
+   "cutAt": "2026-10-22",
+   "at": "2026-10-22T10:02:15.611Z",
+   "metres": 4
   },
   {
    "ref": "S-OH117087-Pt2",
@@ -8575,5 +8578,5 @@
    "std": 42
   }
  ],
- "savedAt": "2026-10-22T09:55:29.659Z"
+ "savedAt": "2026-10-22T10:02:15.611Z"
 }
