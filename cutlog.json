@@ -8175,7 +8175,36 @@
    "fabName": "WHITE SEMI INTERLINING QUALITY 6616",
    "std": 6.15,
    "extra": true
+  },
+  {
+   "ref": "S-OH116939-Pt5",
+   "code": "OHCJ0001XL",
+   "desc": "WHITE L/S WAITERS JACKET W/ BUTTON FASTENED POCKETS SZ XL",
+   "qty": 10,
+   "due": "2026-11-10",
+   "created": "2026-10-21",
+   "printedAt": "2026-10-22",
+   "customer": "SR1375  Granger & Co",
+   "k": "S-OH116939-Pt5|OHCJ0001XL|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 17.7
+  },
+  {
+   "ref": "S-OH116939-Pt5",
+   "code": "OHCJ0001XL",
+   "desc": "WHITE L/S WAITERS JACKET W/ BUTTON FASTENED POCKETS SZ XL",
+   "qty": 10,
+   "due": "2026-11-10",
+   "created": "2026-10-21",
+   "printedAt": "2026-10-22",
+   "customer": "SR1375  Granger & Co",
+   "k": "S-OH116939-Pt5|OHCJ0001XL|FUS1256",
+   "fabric": "FUS1256",
+   "fabName": "WHITE SEMI INTERLINING QUALITY 6616",
+   "std": 2.52,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-22T06:52:30.463Z"
+ "savedAt": "2026-10-22T06:52:43.815Z"
 }
