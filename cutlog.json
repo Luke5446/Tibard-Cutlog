@@ -7935,7 +7935,7 @@
    "ref": "WO-1600",
    "code": "CT01964626",
    "desc": "BLUE/WHITE GINGHAM CHECK CHEF TROUSER SZ 46\"",
-   "qty": 6,
+   "qty": 12,
    "due": "2026-11-10",
    "created": "2026-10-20",
    "printedAt": "2026-10-20",
@@ -7943,7 +7943,7 @@
    "k": "WO-1600|CT01964626|PC2026",
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
-   "std": 7.68
+   "std": 15.36
   },
   {
    "ref": "WO-1601",
@@ -8220,5 +8220,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-22T06:55:59.299Z"
+ "savedAt": "2026-10-22T08:06:12.393Z"
 }
