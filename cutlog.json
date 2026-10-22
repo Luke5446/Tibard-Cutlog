@@ -5888,7 +5888,7 @@
    "k": "WO-1486|OHHTM016015|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 5.04
+   "std": 7.67
   },
   {
    "ref": "WO-1487",
@@ -7512,7 +7512,7 @@
    "ref": "WO-1575",
    "code": "OHAPP059703/153DEN",
    "desc": "BLACK DENIM-KHAKI CONTRAST BIB APRON + 2 HIP POCKETS",
-   "qty": 20,
+   "qty": 30,
    "due": "2026-11-13",
    "created": "2026-10-19",
    "printedAt": "2026-10-19",
@@ -7520,7 +7520,7 @@
    "k": "WO-1575|OHAPP059703/153DEN|CO5153",
    "fabric": "CO5153",
    "fabName": "Khaki 3110 100% cotton (for neck and waist ties) — contrast marker 0597A (neck tie + ties)",
-   "std": 3.45,
+   "std": 5.15,
    "extra": true
   },
   {
@@ -7597,7 +7597,7 @@
    "ref": "WO-1575",
    "code": "OHAPP059703/153DEN",
    "desc": "BLACK DENIM-KHAKI CONTRAST BIB APRON + 2 HIP POCKETS",
-   "qty": 20,
+   "qty": 30,
    "due": "2026-11-13",
    "created": "2026-10-19",
    "printedAt": "2026-10-19",
@@ -7605,7 +7605,7 @@
    "k": "WO-1575|OHAPP059703/153DEN|CO5153ECO",
    "fabric": "CO5153ECO",
    "fabName": "KHAKI 100% SUSTAINABLE COTTON (X149 - AM306)",
-   "std": 13
+   "std": 19.51
   },
   {
    "ref": "WO-1581",
@@ -8018,21 +8018,6 @@
    "extra": true
   },
   {
-   "ref": "WO-1486",
-   "code": "OHHTM016015",
-   "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
-   "qty": 59,
-   "due": "2026-10-28",
-   "created": "2026-10-09",
-   "printedAt": "2026-10-09",
-   "customer": "",
-   "k": "WO-1486|OHHTM016015|MESHPW31415",
-   "fabric": "MESHPW31415",
-   "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
-   "std": 2.04,
-   "extra": true
-  },
-  {
    "ref": "WO-1611",
    "code": "OHHTM016015",
    "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
@@ -8062,5 +8047,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-21T20:20:32.742Z"
+ "savedAt": "2026-10-22T06:51:46.096Z"
 }
