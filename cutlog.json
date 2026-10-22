@@ -8302,7 +8302,21 @@
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
    "std": 22
+  },
+  {
+   "ref": "WO-1622",
+   "code": "OHAPP0631110DS",
+   "desc": "PUTTY CUSTOM WAIST APRON BASE + 2 HIP POCKETS",
+   "qty": 20,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1622|OHAPP0631110DS|CO5364ECO",
+   "fabric": "CO5364ECO",
+   "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
+   "std": 8.1
   }
  ],
- "savedAt": "2026-10-22T09:22:31.751Z"
+ "savedAt": "2026-10-22T09:22:37.894Z"
 }
