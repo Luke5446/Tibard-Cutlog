@@ -8576,7 +8576,36 @@
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
    "std": 42
+  },
+  {
+   "ref": "S-TIB873477-Pt1",
+   "code": "CICJM01936001",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 60\"",
+   "qty": 11,
+   "due": "2026-11-05",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "Clean Linen Services Ltd",
+   "k": "S-TIB873477-Pt1|CICJM01936001|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 11.88
+  },
+  {
+   "ref": "S-TIB873477-Pt1",
+   "code": "CICJM01936001",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 60\"",
+   "qty": 11,
+   "due": "2026-11-05",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "Clean Linen Services Ltd",
+   "k": "S-TIB873477-Pt1|CICJM01936001|MESHPW31401",
+   "fabric": "MESHPW31401",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "std": 2.75,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-22T10:02:15.611Z"
+ "savedAt": "2026-10-22T10:19:12.755Z"
 }
