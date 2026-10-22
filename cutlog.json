@@ -5853,12 +5853,7 @@
    "k": "WO-1484|OHCJSSUFFOLK4401|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 33.81,
-   "cutAt": "2026-10-13",
-   "at": "2026-10-13T14:59:42.913Z",
-   "metres": 36.64,
-   "note": "Double Marker Used. Garment Rating = 1.485m. Cut 1 extra Garment. +1m Damages",
-   "adjustedAt": "2026-10-13T14:59:42.913Z"
+   "std": 33.81
   },
   {
    "ref": "WO-1485",
@@ -8650,5 +8645,5 @@
    "std": 10.9
   }
  ],
- "savedAt": "2026-10-22T10:48:28.338Z"
+ "savedAt": "2026-10-22T12:26:06.007Z"
 }
