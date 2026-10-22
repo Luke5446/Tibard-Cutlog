@@ -17897,7 +17897,17 @@
    "qty": 1,
    "desc": "BLACK S/S DETACH BUTTON OXFORD CHEF JACKET SZ 40\"",
    "bookedAt": "2026-10-22T16:24:25.671Z"
+  },
+  {
+   "k": "book|WO-1606|OHCJSSUFFOLK4601|2026-10-21|2",
+   "kind": "book",
+   "ref": "WO-1606",
+   "code": "OHCJSSUFFOLK4601",
+   "completed": "2026-10-21",
+   "qty": 2,
+   "desc": "WHITE S/S SUFFOLK CONCEALED STUD CHEF JACKET SZ 46\"",
+   "bookedAt": "2026-10-22T16:24:33.942Z"
   }
  ],
- "savedAt": "2026-10-22T16:24:26.111Z"
+ "savedAt": "2026-10-22T16:24:34.273Z"
 }
