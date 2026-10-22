@@ -8838,7 +8838,21 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 20.4
+  },
+  {
+   "ref": "WO-1648",
+   "code": "OHTAB131",
+   "desc": "SAND WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 45,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1648|OHTAB131|CMP-WEB-PU-25-131",
+   "fabric": "CMP-WEB-PU-25-131",
+   "fabName": "SAND 25MM POLYURETHENE WEBBING",
+   "std": 9
   }
  ],
- "savedAt": "2026-10-22T12:49:02.733Z"
+ "savedAt": "2026-10-22T12:49:11.505Z"
 }
