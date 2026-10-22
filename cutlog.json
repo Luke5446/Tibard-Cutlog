@@ -8737,7 +8737,36 @@
    "fabName": "Bottle green 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m as the red",
    "std": 4,
    "extra": true
+  },
+  {
+   "ref": "WO-1644",
+   "code": "WAGHTM016064",
+   "desc": "GREY/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 40,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1644|WAGHTM016064|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 6
+  },
+  {
+   "ref": "WO-1644",
+   "code": "WAGHTM016064",
+   "desc": "GREY/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 40,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1644|WAGHTM016064|MESHPW314286",
+   "fabric": "MESHPW314286",
+   "fabName": "Silver grey 100% polyester mesh (Philip Whitfield & Sons), as the OH storm grey hat — oval crown, rating 0.04 m as the red",
+   "std": 1.6,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-22T12:43:37.214Z"
+ "savedAt": "2026-10-22T12:43:43.140Z"
 }
