@@ -8218,7 +8218,21 @@
    "fabName": "WHITE SEMI INTERLINING QUALITY 6616",
    "std": 1.27,
    "extra": true
+  },
+  {
+   "ref": "WO-1614",
+   "code": "OHAPP065115",
+   "desc": "NAVY LADIES ADJUSTABLE BIB APRON, S/F TIES + POCKET",
+   "qty": 20,
+   "due": "2026-10-29",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1614|OHAPP065115|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 13.25
   }
  ],
- "savedAt": "2026-10-22T08:06:12.393Z"
+ "savedAt": "2026-10-22T08:32:31.221Z"
 }
