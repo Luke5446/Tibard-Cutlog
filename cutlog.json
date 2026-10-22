@@ -8679,7 +8679,36 @@
    "fabName": "White 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m as the red",
    "std": 3.2,
    "extra": true
+  },
+  {
+   "ref": "WO-1642",
+   "code": "WAGHTM016003",
+   "desc": "BLACK/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 60,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1642|WAGHTM016003|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 9
+  },
+  {
+   "ref": "WO-1642",
+   "code": "WAGHTM016003",
+   "desc": "BLACK/MESH VELCRO FASTEN ONE SIZE SKULL CAP + WAGAMAMA LOGO",
+   "qty": 60,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1642|WAGHTM016003|MESH2290903",
+   "fabric": "MESH2290903",
+   "fabName": "Black Coolmax mesh quality 22909 (Clockwork), as the OH black hat — oval crown, rating 0.04 m as the red; Sage has no black Philip Whitfield mesh",
+   "std": 2.4,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-22T12:43:26.190Z"
+ "savedAt": "2026-10-22T12:43:32.145Z"
 }
