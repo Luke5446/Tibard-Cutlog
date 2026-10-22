@@ -8446,7 +8446,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 1.8,
    "extra": true
+  },
+  {
+   "ref": "WO-1628",
+   "code": "OHCJSSUFFOLK4801",
+   "desc": "WHITE S/S SUFFOLK CONCEALED STUD CHEF JACKET SZ 48\"",
+   "qty": 30,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1628|OHCJSSUFFOLK4801|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 46.5
   }
  ],
- "savedAt": "2026-10-22T09:23:03.939Z"
+ "savedAt": "2026-10-22T09:23:12.016Z"
 }
