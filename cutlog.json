@@ -8232,7 +8232,21 @@
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
    "std": 13.25
+  },
+  {
+   "ref": "WO-1617",
+   "code": "CT01964826",
+   "desc": "BLUE/WHITE GINGHAM CHECK CHEF TROUSER SZ 48\"",
+   "qty": 7,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1617|CT01964826|PC2026",
+   "fabric": "PC2026",
+   "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
+   "std": 8.96
   }
  ],
- "savedAt": "2026-10-22T08:32:31.221Z"
+ "savedAt": "2026-10-22T09:21:57.659Z"
 }
