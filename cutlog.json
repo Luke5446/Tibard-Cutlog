@@ -8246,7 +8246,21 @@
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
    "std": 8.96
+  },
+  {
+   "ref": "WO-1618",
+   "code": "OHAPP0535110/DSSHT",
+   "desc": "PUTTY SHORT CROSSOVER BIB APRON BASE + 2 PKTS",
+   "qty": 20,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1618|OHAPP0535110/DSSHT|CO5364ECO",
+   "fabric": "CO5364ECO",
+   "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
+   "std": 10.6
   }
  ],
- "savedAt": "2026-10-22T09:21:57.659Z"
+ "savedAt": "2026-10-22T09:22:09.530Z"
 }
