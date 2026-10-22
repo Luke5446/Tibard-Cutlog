@@ -8766,7 +8766,36 @@
    "fabName": "Silver grey 100% polyester mesh (Philip Whitfield & Sons), as the OH storm grey hat — oval crown, rating 0.04 m as the red",
    "std": 1.6,
    "extra": true
+  },
+  {
+   "ref": "WO-1645",
+   "code": "OHCJSMCHESHIRE4601",
+   "desc": "WHITE S/S CHESHIRE PRESS STUD CHEF JACKET SZ 46''",
+   "qty": 20,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1645|OHCJSMCHESHIRE4601|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 24.8
+  },
+  {
+   "ref": "WO-1645",
+   "code": "OHCJSMCHESHIRE4601",
+   "desc": "WHITE S/S CHESHIRE PRESS STUD CHEF JACKET SZ 46''",
+   "qty": 20,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1645|OHCJSMCHESHIRE4601|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric, qual 22909, white",
+   "std": 2.2,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-22T12:43:43.140Z"
+ "savedAt": "2026-10-22T12:48:51.940Z"
 }
