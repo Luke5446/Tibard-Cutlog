@@ -8274,7 +8274,21 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 27.52
+  },
+  {
+   "ref": "WO-1620",
+   "code": "OHAPP0535241",
+   "desc": "SLATE ADJUSTABLE BIB APRON WITH ANTIQUE BUCKLE + 2 PKTS",
+   "qty": 50,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1620|OHAPP0535241|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 28.39
   }
  ],
- "savedAt": "2026-10-22T09:22:15.352Z"
+ "savedAt": "2026-10-22T09:22:21.283Z"
 }
