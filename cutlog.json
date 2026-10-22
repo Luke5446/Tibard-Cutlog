@@ -8022,29 +8022,14 @@
    "code": "OHHTM016015",
    "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
    "qty": 200,
-   "due": "2026-10-30",
-   "created": "2026-10-21",
+   "due": "2026-11-02",
+   "created": "2026-10-22",
    "printedAt": "2026-10-21",
    "customer": "",
    "k": "WO-1611|OHHTM016015|PC2015ECO",
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
-   "std": 17.01
-  },
-  {
-   "ref": "WO-1611",
-   "code": "OHHTM016015",
-   "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
-   "qty": 200,
-   "due": "2026-10-30",
-   "created": "2026-10-21",
-   "printedAt": "2026-10-21",
-   "customer": "",
-   "k": "WO-1611|OHHTM016015|MESHPW31415",
-   "fabric": "MESHPW31415",
-   "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
-   "std": 6.87,
-   "extra": true
+   "std": 26
   },
   {
    "ref": "WO-1598",
@@ -8235,5 +8220,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-22T06:52:50.092Z"
+ "savedAt": "2026-10-22T06:55:59.299Z"
 }
