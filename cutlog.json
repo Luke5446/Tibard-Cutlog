@@ -6831,7 +6831,13 @@
    "k": "WO-1524|WCL222203|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 19.6
+   "std": 19.6,
+   "cutAt": "2026-10-22",
+   "at": "2026-10-22T15:43:15.068Z",
+   "metres": 20.16,
+   "qtyCut": 72,
+   "note": "cut for 72 of 70",
+   "adjustedAt": "2026-10-22T15:43:15.068Z"
   },
   {
    "ref": "WO-1536",
@@ -8921,5 +8927,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-22T14:52:28.320Z"
+ "savedAt": "2026-10-22T15:43:15.068Z"
 }
