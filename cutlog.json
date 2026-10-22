@@ -8288,7 +8288,21 @@
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
    "std": 28.39
+  },
+  {
+   "ref": "WO-1621",
+   "code": "OHAPP0535241/DS",
+   "desc": "SLATE GREY CROSSOVER BIB APRON BASE + 2 HIP POCKETS",
+   "qty": 40,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1621|OHAPP0535241/DS|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 22
   }
  ],
- "savedAt": "2026-10-22T09:22:21.283Z"
+ "savedAt": "2026-10-22T09:22:31.751Z"
 }
