@@ -8330,7 +8330,36 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 51.84
+  },
+  {
+   "ref": "WO-1624",
+   "code": "OHCJSMDEVON4401",
+   "desc": "WHITE S/S RING STUD MESH BACK DEVON CHEF JACKET SZ 44\"",
+   "qty": 10,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1624|OHCJSMDEVON4401|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 10.05
+  },
+  {
+   "ref": "WO-1624",
+   "code": "OHCJSMDEVON4401",
+   "desc": "WHITE S/S RING STUD MESH BACK DEVON CHEF JACKET SZ 44\"",
+   "qty": 10,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1624|OHCJSMDEVON4401|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white",
+   "std": 2.6,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-22T09:22:43.074Z"
+ "savedAt": "2026-10-22T09:22:47.737Z"
 }
