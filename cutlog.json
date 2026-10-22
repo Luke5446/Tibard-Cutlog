@@ -8544,7 +8544,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 2.9
+  },
+  {
+   "ref": "WO-1635",
+   "code": "OHLCTSURREY1403",
+   "desc": "BLACK LADIES ADJUSTABLE SURREY SLIM FIT CHEF TROUSER SZ 14",
+   "qty": 2,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-22",
+   "customer": "",
+   "k": "WO-1635|OHLCTSURREY1403|PC4003ELAST",
+   "fabric": "PC4003ELAST",
+   "fabName": "BLACK 210GSM 35% COTTON/35% POLYESTER/30% T400 (9326 0190/S)",
+   "std": 2.76
   }
  ],
- "savedAt": "2026-10-22T09:23:42.178Z"
+ "savedAt": "2026-10-22T09:23:47.808Z"
 }
