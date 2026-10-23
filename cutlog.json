@@ -9001,7 +9001,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 136
+  },
+  {
+   "ref": "WO-1616",
+   "code": "AP300501",
+   "desc": "WHITE 100% COTTON BIB APRON 28\" WIDE",
+   "qty": 30,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-23",
+   "customer": "",
+   "k": "WO-1616|AP300501|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 15.9
   }
  ],
- "savedAt": "2026-10-23T07:29:57.559Z"
+ "savedAt": "2026-10-23T07:30:08.534Z"
 }
