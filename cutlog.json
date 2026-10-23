@@ -8987,7 +8987,21 @@
    "fabric": "PC2X13307",
    "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
    "std": 13.32
+  },
+  {
+   "ref": "WO-1615",
+   "code": "ASKAP056364",
+   "desc": "501596 ASK STORM GREY BIB APRON (MAP PRINT)",
+   "qty": 200,
+   "due": "2026-11-03",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-23",
+   "customer": "",
+   "k": "WO-1615|ASKAP056364|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 136
   }
  ],
- "savedAt": "2026-10-23T07:29:31.169Z"
+ "savedAt": "2026-10-23T07:29:57.559Z"
 }
