@@ -9255,7 +9255,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 9.48
+  },
+  {
+   "ref": "S-OH117254-Pt3",
+   "code": "OHCJSCUMBRIA44248",
+   "desc": "STORM GREY S/S CUMBRIA PRESS STUD POLY/COTTON CHEF JACKET SZ 44\"",
+   "qty": 3,
+   "due": "2026-11-06",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "Rocksalt",
+   "k": "S-OH117254-Pt3|OHCJSCUMBRIA44248|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 4.74
   }
  ],
- "savedAt": "2026-10-26T15:09:18.123Z"
+ "savedAt": "2026-10-26T15:09:23.881Z"
 }
