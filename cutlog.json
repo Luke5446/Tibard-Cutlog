@@ -7476,7 +7476,11 @@
    "fabric": "CO5222",
    "fabName": "Cocoa 3110 100% cotton (P and R) — waist ties, rating 0.10 m",
    "std": 0.1,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-21",
+   "at": "2026-10-26T20:43:18.000Z",
+   "backdated": "2026-10-26",
+   "metres": 0.1
   },
   {
    "ref": "WO-1556",
@@ -7620,7 +7624,11 @@
    "k": "S-OH117087-Pt2|OHAP300531/222CTDR|CO5222ECO",
    "fabric": "CO5222ECO",
    "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
-   "std": 1.03
+   "std": 1.03,
+   "cutAt": "2026-10-21",
+   "at": "2026-10-26T20:43:18.000Z",
+   "backdated": "2026-10-26",
+   "metres": 1.03
   },
   {
    "ref": "WO-1575",
@@ -9539,5 +9547,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-26T16:59:42.523Z"
+ "savedAt": "2026-10-26T20:43:18.000Z"
 }
