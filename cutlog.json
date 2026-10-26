@@ -9269,7 +9269,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 4.74
+  },
+  {
+   "ref": "WO-1656",
+   "code": "BEAPPCS300501",
+   "desc": "BETTY COOKERY SCHOOL BIB APRON WITH LOGO & PKT (S/F TIES)",
+   "qty": 200,
+   "due": "2026-11-16",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1656|BEAPPCS300501|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 106
   }
  ],
- "savedAt": "2026-10-26T15:09:23.881Z"
+ "savedAt": "2026-10-26T15:09:33.654Z"
 }
