@@ -9283,7 +9283,21 @@
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
    "std": 106
+  },
+  {
+   "ref": "WO-1669",
+   "code": "OHTAB15",
+   "desc": "NAVY WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 30,
+   "due": "2026-11-02",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1669|OHTAB15|CMP-WEB-PU-25-15",
+   "fabric": "CMP-WEB-PU-25-15",
+   "fabName": "NAVY 25MM POLYURETHENE WEBBING",
+   "std": 6
   }
  ],
- "savedAt": "2026-10-26T15:09:33.654Z"
+ "savedAt": "2026-10-26T15:58:38.922Z"
 }
