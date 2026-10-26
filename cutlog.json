@@ -6415,7 +6415,10 @@
    "k": "WO-1513|BEAPP047801C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 19.92
+   "std": 19.92,
+   "cutAt": "2026-10-26",
+   "at": "2026-10-26T12:51:00.700Z",
+   "metres": 19.92
   },
   {
    "ref": "S-TIB872554-Pt1",
@@ -9198,5 +9201,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-26T11:34:04.259Z"
+ "savedAt": "2026-10-26T12:51:00.700Z"
 }
