@@ -9167,7 +9167,36 @@
    "fabName": "Mesh quality 22909 black (Clarkson Knitting) — back centre panel",
    "std": 18.75,
    "extra": true
+  },
+  {
+   "ref": "WO-1661",
+   "code": "CJM0193LL03",
+   "desc": "BLACK L/S MESH BACK P/COTTON CHEFS JACKET SZ LARGE",
+   "qty": 15,
+   "due": "2026-10-28",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1661|CJM0193LL03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 19.2
+  },
+  {
+   "ref": "WO-1661",
+   "code": "CJM0193LL03",
+   "desc": "BLACK L/S MESH BACK P/COTTON CHEFS JACKET SZ LARGE",
+   "qty": 15,
+   "due": "2026-10-28",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1661|CJM0193LL03|MESH2290903",
+   "fabric": "MESH2290903",
+   "fabName": "Mesh quality 22909 black (Clarkson Knitting) — back centre panel",
+   "std": 3.75,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-26T11:33:55.864Z"
+ "savedAt": "2026-10-26T11:34:04.259Z"
 }
