@@ -8915,7 +8915,10 @@
    "fabric": "MESHPW31415",
    "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
    "std": 6.87,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-26",
+   "at": "2026-10-26T16:59:42.523Z",
+   "metres": 6.87
   },
   {
    "ref": "S-OH116939-Pt7",
@@ -9536,5 +9539,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-26T16:59:38.480Z"
+ "savedAt": "2026-10-26T16:59:42.523Z"
 }
