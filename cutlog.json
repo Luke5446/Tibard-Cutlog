@@ -9199,7 +9199,21 @@
    "fabName": "Mesh quality 22909 black (Clarkson Knitting) — back centre panel",
    "std": 3.75,
    "extra": true
+  },
+  {
+   "ref": "WO-1663",
+   "code": "CT3082XL03",
+   "desc": "BLACK CHEFS ELASTICATED DRAWSTRING TROUSERS SZ XL (38-40\")",
+   "qty": 14,
+   "due": "2026-10-28",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1663|CT3082XL03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 22.82
   }
  ],
- "savedAt": "2026-10-26T12:51:00.700Z"
+ "savedAt": "2026-10-26T13:14:52.580Z"
 }
