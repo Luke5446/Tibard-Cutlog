@@ -9080,7 +9080,36 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 11.44
+  },
+  {
+   "ref": "WO-1658",
+   "code": "OHCJMOXFORD5001L",
+   "desc": "WHITE L/S DETACH BUTTON OXFORD CHEF JACKET SZ 50\" - LONG",
+   "qty": 2,
+   "due": "2026-11-16",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1658|OHCJMOXFORD5001L|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 3.52
+  },
+  {
+   "ref": "WO-1658",
+   "code": "OHCJMOXFORD5001L",
+   "desc": "WHITE L/S DETACH BUTTON OXFORD CHEF JACKET SZ 50\" - LONG",
+   "qty": 2,
+   "due": "2026-11-16",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1658|OHCJMOXFORD5001L|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric, qual 22909, white",
+   "std": 0.08,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-26T09:02:05.675Z"
+ "savedAt": "2026-10-26T09:02:11.956Z"
 }
