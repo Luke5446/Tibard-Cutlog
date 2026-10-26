@@ -9357,7 +9357,36 @@
    "fabric": "CMP-WEB-PU-25-01",
    "fabName": "WHITE 25MM POLYURETHENE WEBBING",
    "std": 2
+  },
+  {
+   "ref": "WO-1671",
+   "code": "OHCJMCHESHIRE3801",
+   "desc": "WHITE L/S CHESHIRE PRESS STUD CHEF JACKET SZ 38''",
+   "qty": 5,
+   "due": "2026-11-19",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1671|OHCJMCHESHIRE3801|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 7.25
+  },
+  {
+   "ref": "WO-1671",
+   "code": "OHCJMCHESHIRE3801",
+   "desc": "WHITE L/S CHESHIRE PRESS STUD CHEF JACKET SZ 38''",
+   "qty": 5,
+   "due": "2026-11-19",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1671|OHCJMCHESHIRE3801|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric, qual 22909, white",
+   "std": 0.55,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-26T16:06:53.749Z"
+ "savedAt": "2026-10-26T16:24:50.098Z"
 }
