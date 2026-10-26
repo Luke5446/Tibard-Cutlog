@@ -9138,7 +9138,36 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.48,
    "extra": true
+  },
+  {
+   "ref": "WO-1662",
+   "code": "CJM0193MM03",
+   "desc": "BLACK L/S MESH BACK P/COTTON CHEFS JACKET SZ MEDIUM",
+   "qty": 75,
+   "due": "2026-10-28",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1662|CJM0193MM03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 96
+  },
+  {
+   "ref": "WO-1662",
+   "code": "CJM0193MM03",
+   "desc": "BLACK L/S MESH BACK P/COTTON CHEFS JACKET SZ MEDIUM",
+   "qty": 75,
+   "due": "2026-10-28",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "",
+   "k": "WO-1662|CJM0193MM03|MESH2290903",
+   "fabric": "MESH2290903",
+   "fabName": "Mesh quality 22909 black (Clarkson Knitting) — back centre panel",
+   "std": 18.75,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-26T09:02:19.289Z"
+ "savedAt": "2026-10-26T11:33:55.864Z"
 }
