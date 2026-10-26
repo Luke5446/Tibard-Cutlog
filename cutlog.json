@@ -9052,7 +9052,21 @@
    "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
    "std": 0.42,
    "extra": true
+  },
+  {
+   "ref": "S-OH117253-Pt1",
+   "code": "OHCJSCUMBRIA5801",
+   "desc": "WHITE S/S CUMBRIA PRESS STUD POLY/COTTON CHEF JACKET SZ 58''",
+   "qty": 3,
+   "due": "2026-11-06",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-26",
+   "customer": "Three Chimneys",
+   "k": "S-OH117253-Pt1|OHCJSCUMBRIA5801|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 4.71
   }
  ],
- "savedAt": "2026-10-26T08:34:32.292Z"
+ "savedAt": "2026-10-26T08:44:02.895Z"
 }
