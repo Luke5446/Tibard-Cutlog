@@ -9230,7 +9230,10 @@
    "fabric": "MESH2290903",
    "fabName": "Mesh quality 22909 black (Clarkson Knitting) — back centre panel",
    "std": 3.75,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-27",
+   "at": "2026-10-27T09:40:45.585Z",
+   "metres": 3.75
   },
   {
    "ref": "WO-1663",
@@ -9586,5 +9589,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-27T09:40:42.425Z"
+ "savedAt": "2026-10-27T09:40:45.585Z"
 }
