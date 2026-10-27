@@ -9545,7 +9545,36 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 3.3,
    "extra": true
+  },
+  {
+   "ref": "S-TIB873811-Pt1",
+   "code": "CICJM01935801",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 58\"",
+   "qty": 8,
+   "due": "2026-11-06",
+   "created": "2026-10-27",
+   "printedAt": "2026-10-27",
+   "customer": "Alliance Disposables Ltd",
+   "k": "S-TIB873811-Pt1|CICJM01935801|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 8.64
+  },
+  {
+   "ref": "S-TIB873811-Pt1",
+   "code": "CICJM01935801",
+   "desc": "WHITE S/S MESH BACK P/COTTON CHEFS JACKET SZ 58\"",
+   "qty": 8,
+   "due": "2026-11-06",
+   "created": "2026-10-27",
+   "printedAt": "2026-10-27",
+   "customer": "Alliance Disposables Ltd",
+   "k": "S-TIB873811-Pt1|CICJM01935801|MESHPW31401",
+   "fabric": "MESHPW31401",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "std": 2,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-26T20:43:18.000Z"
+ "savedAt": "2026-10-27T09:16:05.686Z"
 }
