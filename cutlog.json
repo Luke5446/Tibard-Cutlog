@@ -8028,7 +8028,10 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 3.6,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-10-27",
+   "at": "2026-10-27T13:02:27.307Z",
+   "metres": 3.6
   },
   {
    "ref": "S-TIB873320-Pt1",
@@ -9628,5 +9631,5 @@
    "std": 36.5
   }
  ],
- "savedAt": "2026-10-27T11:11:44.858Z"
+ "savedAt": "2026-10-27T13:02:27.307Z"
 }
