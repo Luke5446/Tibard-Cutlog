@@ -373,7 +373,23 @@
    "closedHow": "writeoff",
    "exportedAt": "2026-10-26T20:20:36.620Z",
    "exportFile": "StockTake_WriteOff_2026-10-26_2020.csv"
+  },
+  {
+   "k": "pick|2026-10-27|CO5TEXAS912",
+   "kind": "pick",
+   "day": "2026-10-27",
+   "code": "CO5TEXAS912",
+   "abc": "B",
+   "at": "2026-10-27T09:45:17.619Z"
+  },
+  {
+   "k": "pick|2026-10-27|PC14001",
+   "kind": "pick",
+   "day": "2026-10-27",
+   "code": "PC14001",
+   "abc": "A",
+   "at": "2026-10-27T09:45:17.619Z"
   }
  ],
- "savedAt": "2026-10-26T20:20:37.076Z"
+ "savedAt": "2026-10-27T09:45:17.619Z"
 }
