@@ -9629,7 +9629,21 @@
    "fabric": "CO5014DEN",
    "fabName": "MURRAY LT GREY DENIM 100% COTTON 315GM",
    "std": 36.5
+  },
+  {
+   "ref": "WO-1678",
+   "code": "OHAPP054415",
+   "desc": "NAVY 100% COTTON ADJ BIB APRON, SELF FABRIC TIES + POCKET",
+   "qty": 100,
+   "due": "2026-11-09",
+   "created": "2026-10-27",
+   "printedAt": "2026-10-27",
+   "customer": "",
+   "k": "WO-1678|OHAPP054415|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 103
   }
  ],
- "savedAt": "2026-10-27T13:02:27.307Z"
+ "savedAt": "2026-10-27T13:26:21.007Z"
 }
