@@ -9601,7 +9601,21 @@
    "fabric": "CO5014DEN",
    "fabName": "MURRAY LT GREY DENIM 100% COTTON 315GM",
    "std": 36.5
+  },
+  {
+   "ref": "S-TIB873778-Pt1",
+   "code": "FENAPP059914DEN",
+   "desc": "GREY DENIM WAIST APRON WITH CENTRE POCKET & TWO STITCH PEN POCKETS + FUEGO BY FENWICK LOGO",
+   "qty": 50,
+   "due": "2026-11-09",
+   "created": "2026-10-26",
+   "printedAt": "2026-10-27",
+   "customer": "Fenwick Ltd",
+   "k": "S-TIB873778-Pt1|FENAPP059914DEN|CO5014DEN",
+   "fabric": "CO5014DEN",
+   "fabName": "MURRAY LT GREY DENIM 100% COTTON 315GM",
+   "std": 36.5
   }
  ],
- "savedAt": "2026-10-27T11:09:28.243Z"
+ "savedAt": "2026-10-27T11:10:50.419Z"
 }
