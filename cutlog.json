@@ -9657,7 +9657,36 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 27.54
+  },
+  {
+   "ref": "WO-1682",
+   "code": "OHCJSMDORSET4401L",
+   "desc": "WHITE S/S 100% COTTON DORSET CHEF JACKET SZ 44\" - LONG",
+   "qty": 2,
+   "due": "2026-10-30",
+   "created": "2026-10-27",
+   "printedAt": "2026-10-27",
+   "customer": "",
+   "k": "WO-1682|OHCJSMDORSET4401L|CO4001NH3",
+   "fabric": "CO4001NH3",
+   "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
+   "std": 3.06
+  },
+  {
+   "ref": "WO-1682",
+   "code": "OHCJSMDORSET4401L",
+   "desc": "WHITE S/S 100% COTTON DORSET CHEF JACKET SZ 44\" - LONG",
+   "qty": 2,
+   "due": "2026-10-30",
+   "created": "2026-10-27",
+   "printedAt": "2026-10-27",
+   "customer": "",
+   "k": "WO-1682|OHCJSMDORSET4401L|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white",
+   "std": 0.08,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-27T14:17:25.617Z"
+ "savedAt": "2026-10-27T14:19:47.875Z"
 }
