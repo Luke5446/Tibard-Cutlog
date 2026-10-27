@@ -9698,7 +9698,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.08,
    "extra": true
+  },
+  {
+   "ref": "WO-1684",
+   "code": "OHAPP352883",
+   "desc": "OLIVE POLY/COTTON WAIST APRON WITH POCKET",
+   "qty": 50,
+   "due": "2026-11-02",
+   "created": "2026-10-27",
+   "printedAt": "2026-10-27",
+   "customer": "",
+   "k": "WO-1684|OHAPP352883|PC2083ECO",
+   "fabric": "PC2083ECO",
+   "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
+   "std": 25.94
   }
  ],
- "savedAt": "2026-10-27T15:21:40.494Z"
+ "savedAt": "2026-10-27T15:56:56.728Z"
 }
