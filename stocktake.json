@@ -380,7 +380,8 @@
    "day": "2026-10-27",
    "code": "CO5TEXAS912",
    "abc": "B",
-   "at": "2026-10-27T09:45:17.619Z"
+   "at": "2026-10-27T09:45:17.619Z",
+   "countedK": "count|CO5TEXAS912|2026-10-27T11:23:33.921Z"
   },
   {
    "k": "pick|2026-10-27|PC14001",
@@ -389,7 +390,30 @@
    "code": "PC14001",
    "abc": "A",
    "at": "2026-10-27T09:45:17.619Z"
+  },
+  {
+   "k": "count|CO5TEXAS912|2026-10-27T11:23:33.921Z",
+   "kind": "count",
+   "code": "CO5TEXAS912",
+   "name": "TEXAS GREEN DENIM 100% COTTON TWILL 330GSM (GE62)",
+   "supName": "Tiajo Comercio De Texteis LDA",
+   "day": "2026-10-27",
+   "at": "2026-10-27T11:23:33.921Z",
+   "counted": 173,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-27",
+   "abc": "B",
+   "expected": {
+    "inSage": 155.4,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 155.4,
+    "sageAt": "2026-10-27"
+   },
+   "diff": 17.6
   }
  ],
- "savedAt": "2026-10-27T09:45:17.619Z"
+ "savedAt": "2026-10-27T11:23:34.204Z"
 }
