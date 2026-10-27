@@ -9253,7 +9253,13 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 32.6,
-   "qtyCut": 16
+   "qtyCut": 16,
+   "cutAt": "2026-10-26",
+   "at": "2026-10-27T09:27:58.511Z",
+   "backdated": "2026-10-27",
+   "metres": 26.08,
+   "note": "cut for 16 of 20",
+   "adjustedAt": "2026-10-27T09:27:58.511Z"
   },
   {
    "ref": "S-OH117254-Pt1",
@@ -9571,5 +9577,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-27T09:27:26.553Z"
+ "savedAt": "2026-10-27T09:27:58.511Z"
 }
