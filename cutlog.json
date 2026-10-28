@@ -10068,7 +10068,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 1.8,
    "extra": true
+  },
+  {
+   "ref": "S-TIB873357-Pt1",
+   "code": "TI003109",
+   "desc": "CORAL COSY CLUB TIE",
+   "qty": 118,
+   "due": "2026-11-18",
+   "created": "2026-10-21",
+   "printedAt": "2026-10-21",
+   "customer": "United-UK LLP",
+   "k": "S-TIB873357-Pt1|TI003109|PC2109",
+   "fabric": "PC2109",
+   "fabName": "CORAL POLY/COTTON 200G (X133 COLOUR 161)",
+   "std": 24.6
   }
  ],
- "savedAt": "2026-10-28T19:02:22.151Z"
+ "savedAt": "2026-10-28T19:24:41.542Z"
 }
