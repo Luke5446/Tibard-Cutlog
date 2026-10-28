@@ -9794,7 +9794,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.56,
    "extra": true
+  },
+  {
+   "ref": "S-TIB873858-Pt1",
+   "code": "CTT3082XXL03",
+   "desc": "BLACK ELASTICATED/DRAWSTRING CHEF TROUSERS WITH SIDE SEAM POCKETS SZ XXL (42\"-44\") TALL LEG",
+   "qty": 11,
+   "due": "2026-11-17",
+   "created": "2026-10-27",
+   "printedAt": "2026-10-28",
+   "customer": "Clean Linen Services Ltd",
+   "k": "S-TIB873858-Pt1|CTT3082XXL03|PC2028",
+   "fabric": "PC2028",
+   "fabName": "BLACK/WHITE CHECK GINGHAM P/C 190GSM 150CM",
+   "std": 18.48
   }
  ],
- "savedAt": "2026-10-27T17:29:28.358Z"
+ "savedAt": "2026-10-28T08:48:35.334Z"
 }
