@@ -452,8 +452,32 @@
    "day": "2026-10-28",
    "code": "CMP-WEB-PU-25-11",
    "abc": "C",
-   "at": "2026-10-28T14:47:59.110Z"
+   "at": "2026-10-28T14:47:59.110Z",
+   "countedK": "count|CMP-WEB-PU-25-11|2026-10-28T14:48:34.924Z"
+  },
+  {
+   "k": "count|CMP-WEB-PU-25-11|2026-10-28T14:48:34.924Z",
+   "kind": "count",
+   "code": "CMP-WEB-PU-25-11",
+   "name": "YELLOW 25MM POLYURETHENE WEBBING",
+   "supName": "Newlace Ltd",
+   "day": "2026-10-28",
+   "at": "2026-10-28T14:48:34.924Z",
+   "counted": 98.8,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-28",
+   "abc": "C",
+   "expected": {
+    "inSage": 98.8,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 98.8,
+    "sageAt": "2026-10-28"
+   },
+   "diff": 0
   }
  ],
- "savedAt": "2026-10-28T14:47:59.110Z"
+ "savedAt": "2026-10-28T14:48:35.234Z"
 }
