@@ -441,7 +441,11 @@
    "diff": -90.24,
    "pmNote": "Stock take",
    "pmAt": "2026-10-28T19:26:01.886Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-28T19:26:10.936Z",
+   "closedHow": "writeoff",
+   "exportedAt": "2026-10-28T19:26:10.936Z",
+   "exportFile": "StockTake_WriteOff_2026-10-28_1926.csv"
   },
   {
    "k": "pick|2026-10-28|PC6093",
@@ -485,7 +489,9 @@
    "diff": 0,
    "pmNote": "Stock Take",
    "pmAt": "2026-10-28T19:26:04.881Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-28T19:26:10.936Z",
+   "closedHow": "matched"
   },
   {
    "k": "count|PC6093|2026-10-28T16:39:07.897Z",
@@ -511,8 +517,12 @@
    "diff": -1,
    "pmNote": "Stock take",
    "pmAt": "2026-10-28T19:26:08.532Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-28T19:26:10.936Z",
+   "closedHow": "writeoff",
+   "exportedAt": "2026-10-28T19:26:10.936Z",
+   "exportFile": "StockTake_WriteOff_2026-10-28_1926.csv"
   }
  ],
- "savedAt": "2026-10-28T19:26:08.532Z"
+ "savedAt": "2026-10-28T19:26:12.077Z"
 }
