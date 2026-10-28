@@ -416,7 +416,11 @@
    "diff": 17.6,
    "pmNote": "Stock take",
    "pmAt": "2026-10-28T19:26:40.813Z",
-   "pmOk": true
+   "pmOk": true,
+   "closedAt": "2026-10-28T19:26:59.899Z",
+   "closedHow": "addstock",
+   "exportedAt": "2026-10-28T19:26:59.899Z",
+   "exportFile": "StockTake_AddStock_2026-10-28_1926.csv"
   },
   {
    "k": "count|PC14001|2026-10-27T11:36:56.565Z",
@@ -525,5 +529,5 @@
    "exportFile": "StockTake_WriteOff_2026-10-28_1926.csv"
   }
  ],
- "savedAt": "2026-10-28T19:26:40.813Z"
+ "savedAt": "2026-10-28T19:27:00.314Z"
 }
