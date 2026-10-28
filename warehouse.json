@@ -18567,7 +18567,17 @@
    "qty": 55,
    "desc": "BROWN POLY/COTTON BIB APRON + POCKET",
    "bookedAt": "2026-10-28T16:26:49.794Z"
+  },
+  {
+   "k": "book|WO-1696|OHCJSMDORSET3801|2026-10-28|1",
+   "kind": "book",
+   "ref": "WO-1696",
+   "code": "OHCJSMDORSET3801",
+   "completed": "2026-10-28",
+   "qty": 1,
+   "desc": "WHITE S/S 100% COTTON DORSET CHEF JACKET SZ 38\"",
+   "bookedAt": "2026-10-28T16:27:16.881Z"
   }
  ],
- "savedAt": "2026-10-28T16:26:50.243Z"
+ "savedAt": "2026-10-28T16:27:17.387Z"
 }
