@@ -9087,7 +9087,7 @@
    "ref": "WO-1616",
    "code": "AP300501",
    "desc": "WHITE 100% COTTON BIB APRON 28\" WIDE",
-   "qty": 30,
+   "qty": 40,
    "due": "2026-11-19",
    "created": "2026-10-22",
    "printedAt": "2026-10-23",
@@ -9095,7 +9095,7 @@
    "k": "WO-1616|AP300501|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 15.9
+   "std": 21.2
   },
   {
    "ref": "WO-1655",
@@ -10010,5 +10010,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-28T13:39:56.153Z"
+ "savedAt": "2026-10-28T13:42:20.520Z"
 }
