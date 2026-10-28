@@ -5181,10 +5181,7 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.2,
-   "extra": true,
-   "cutAt": "2026-10-12",
-   "at": "2026-10-12T13:47:32.626Z",
-   "metres": 0.2
+   "extra": true
   },
   {
    "ref": "WO-1459",
@@ -9980,5 +9977,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-28T10:30:51.398Z"
+ "savedAt": "2026-10-28T10:30:57.090Z"
 }
