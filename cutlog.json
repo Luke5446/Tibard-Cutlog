@@ -9808,7 +9808,21 @@
    "fabric": "PC2028",
    "fabName": "BLACK/WHITE CHECK GINGHAM P/C 190GSM 150CM",
    "std": 18.48
+  },
+  {
+   "ref": "S-TIB873940-Pt1",
+   "code": "COB0001108",
+   "desc": "DARK GREY GENTS STUD LAB COAT SZ 108CM + MTC LOGOS",
+   "qty": 2,
+   "due": "2026-11-10",
+   "created": "2026-10-28",
+   "printedAt": "2026-10-28",
+   "customer": "MTC Operations Limited",
+   "k": "S-TIB873940-Pt1|COB0001108|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 3.74
   }
  ],
- "savedAt": "2026-10-28T08:48:35.334Z"
+ "savedAt": "2026-10-28T08:48:43.297Z"
 }
