@@ -10223,7 +10223,10 @@
    "k": "WO-1709|OHTAB131|CMP-WEB-PU-25-131",
    "fabric": "CMP-WEB-PU-25-131",
    "fabName": "SAND 25MM POLYURETHENE WEBBING",
-   "std": 2
+   "std": 2,
+   "cutAt": "2026-10-29",
+   "at": "2026-10-29T14:45:37.051Z",
+   "metres": 2
   },
   {
    "ref": "WO-1708",
@@ -10277,5 +10280,5 @@
    "metres": 4
   }
  ],
- "savedAt": "2026-10-29T14:45:26.010Z"
+ "savedAt": "2026-10-29T14:45:37.051Z"
 }
