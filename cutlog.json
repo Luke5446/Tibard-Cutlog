@@ -10210,7 +10210,21 @@
    "fabric": "CMP-WEB-PU-25-15",
    "fabName": "NAVY 25MM POLYURETHENE WEBBING",
    "std": 4
+  },
+  {
+   "ref": "WO-1709",
+   "code": "OHTAB131",
+   "desc": "SAND WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 10,
+   "due": "2026-11-06",
+   "created": "2026-10-29",
+   "printedAt": "2026-10-29",
+   "customer": "",
+   "k": "WO-1709|OHTAB131|CMP-WEB-PU-25-131",
+   "fabric": "CMP-WEB-PU-25-131",
+   "fabName": "SAND 25MM POLYURETHENE WEBBING",
+   "std": 2
   }
  ],
- "savedAt": "2026-10-29T14:38:12.069Z"
+ "savedAt": "2026-10-29T14:38:18.750Z"
 }
