@@ -10133,7 +10133,21 @@
    "fabName": "Black 3110 100% cotton (P and R) for the neck strap and waist ties — rating 0.17 m; the sheet gives the location as A6, Sage holds the cloth at A4",
    "std": 8.5,
    "extra": true
+  },
+  {
+   "ref": "WO-1702",
+   "code": "OHCTTLANCASHIRELL03",
+   "desc": "BLACK LANCASHIRE TROUSERS SZ LARGE - TALL LEG",
+   "qty": 1,
+   "due": "2026-11-19",
+   "created": "2026-10-22",
+   "printedAt": "2026-10-29",
+   "customer": "",
+   "k": "WO-1702|OHCTTLANCASHIRELL03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 1.78
   }
  ],
- "savedAt": "2026-10-29T12:07:49.565Z"
+ "savedAt": "2026-10-29T12:07:55.429Z"
 }
