@@ -10182,7 +10182,21 @@
    "fabric": "CMP-WEB-PU-25-83",
    "fabName": "OLIVE 25MM POLYURETHENE WEBBING",
    "std": 6
+  },
+  {
+   "ref": "WO-1711",
+   "code": "OHTAB82",
+   "desc": "BROWN WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 10,
+   "due": "2026-11-06",
+   "created": "2026-10-29",
+   "printedAt": "2026-10-29",
+   "customer": "",
+   "k": "WO-1711|OHTAB82|CMP-WEB-PU-25-82",
+   "fabric": "CMP-WEB-PU-25-82",
+   "fabName": "BROWN 25MM POLYURETHENE WEBBING",
+   "std": 2
   }
  ],
- "savedAt": "2026-10-29T14:37:58.799Z"
+ "savedAt": "2026-10-29T14:38:04.586Z"
 }
