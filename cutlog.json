@@ -8112,7 +8112,14 @@
    "k": "WO-1598|SHAAPP054203|POPLAZA03",
    "fabric": "POPLAZA03",
    "fabName": "BLACK PLAZA 100% POLYESTER 200gms 1.5M WIDTH",
-   "std": 38.4
+   "std": 38.4,
+   "cutAt": "2026-10-28",
+   "at": "2026-10-29T14:17:34.852Z",
+   "backdated": "2026-10-29",
+   "metres": 34.56,
+   "qtyCut": 72,
+   "note": "cut for 72 of 80",
+   "adjustedAt": "2026-10-29T14:17:34.852Z"
   },
   {
    "ref": "S-OH116939-Pt1",
@@ -10149,5 +10156,5 @@
    "std": 1.78
   }
  ],
- "savedAt": "2026-10-29T14:16:58.052Z"
+ "savedAt": "2026-10-29T14:17:34.852Z"
 }
