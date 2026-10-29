@@ -10238,7 +10238,21 @@
    "fabric": "CMP-WEB-PU-25-06",
    "fabName": "BURGUNDY 25MM POLYURETHENE WEBBING",
    "std": 2
+  },
+  {
+   "ref": "WO-1707",
+   "code": "OHTAB04",
+   "desc": "PINK WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 10,
+   "due": "2026-11-06",
+   "created": "2026-10-29",
+   "printedAt": "2026-10-29",
+   "customer": "",
+   "k": "WO-1707|OHTAB04|CMP-WEB-PU-25-04",
+   "fabric": "CMP-WEB-PU-25-04",
+   "fabName": "PINK 25MM POLYURETHENE WEBBING",
+   "std": 2
   }
  ],
- "savedAt": "2026-10-29T14:38:24.625Z"
+ "savedAt": "2026-10-29T14:38:29.931Z"
 }
