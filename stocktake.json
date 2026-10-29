@@ -534,7 +534,8 @@
    "day": "2026-10-29",
    "code": "PC2X133276",
    "abc": "C",
-   "at": "2026-10-29T08:10:01.122Z"
+   "at": "2026-10-29T08:10:01.122Z",
+   "countedK": "count|PC2X133276|2026-10-29T08:44:34.070Z"
   },
   {
    "k": "pick|2026-10-29|PC999K382",
@@ -543,7 +544,30 @@
    "code": "PC999K382",
    "abc": "C",
    "at": "2026-10-29T08:10:01.122Z"
+  },
+  {
+   "k": "count|PC2X133276|2026-10-29T08:44:34.070Z",
+   "kind": "count",
+   "code": "PC2X133276",
+   "name": "LATTE POLY/COTTON 200G (X133 COLOUR 143)",
+   "supName": "Tiajo Comercio De Texteis LDA",
+   "day": "2026-10-29",
+   "at": "2026-10-29T08:44:34.070Z",
+   "counted": 178,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-29",
+   "abc": "C",
+   "expected": {
+    "inSage": 178,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 178,
+    "sageAt": "2026-10-29"
+   },
+   "diff": 0
   }
  ],
- "savedAt": "2026-10-29T08:10:01.122Z"
+ "savedAt": "2026-10-29T08:44:34.498Z"
 }
