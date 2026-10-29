@@ -10081,7 +10081,36 @@
    "fabric": "PC2109",
    "fabName": "CORAL POLY/COTTON 200G (X133 COLOUR 161)",
    "std": 24.6
+  },
+  {
+   "ref": "S-OH117134-Pt1",
+   "code": "OHAPP059703/DEN",
+   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES + PKTS",
+   "qty": 50,
+   "due": "2026-11-10",
+   "created": "2026-10-29",
+   "printedAt": "2026-10-29",
+   "customer": "Wright Brothers Oyster House Ltd",
+   "k": "S-OH117134-Pt1|OHAPP059703/DEN|CO5003DEN",
+   "fabric": "CO5003DEN",
+   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
+   "std": 34
+  },
+  {
+   "ref": "S-OH117134-Pt1",
+   "code": "OHAPP059703/DEN",
+   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES + PKTS",
+   "qty": 50,
+   "due": "2026-11-10",
+   "created": "2026-10-29",
+   "printedAt": "2026-10-29",
+   "customer": "Wright Brothers Oyster House Ltd",
+   "k": "S-OH117134-Pt1|OHAPP059703/DEN|CO5003",
+   "fabric": "CO5003",
+   "fabName": "Black 3110 100% cotton (P and R) for the neck strap and waist ties — rating 0.17 m; the sheet gives the location as A6, Sage holds the cloth at A4",
+   "std": 8.5,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-29T07:52:34.663Z"
+ "savedAt": "2026-10-29T08:03:03.741Z"
 }
