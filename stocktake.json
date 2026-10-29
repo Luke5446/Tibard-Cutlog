@@ -543,7 +543,8 @@
    "day": "2026-10-29",
    "code": "PC999K382",
    "abc": "C",
-   "at": "2026-10-29T08:10:01.122Z"
+   "at": "2026-10-29T08:10:01.122Z",
+   "countedK": "count|PC999K382|2026-10-29T08:45:10.383Z"
   },
   {
    "k": "count|PC2X133276|2026-10-29T08:44:34.070Z",
@@ -567,7 +568,30 @@
     "sageAt": "2026-10-29"
    },
    "diff": 0
+  },
+  {
+   "k": "count|PC999K382|2026-10-29T08:45:10.383Z",
+   "kind": "count",
+   "code": "PC999K382",
+   "name": "BROWN 67/33 POLY/COTTON 300GM (ART 2886 VT / 99K3)",
+   "supName": "Utexbel",
+   "day": "2026-10-29",
+   "at": "2026-10-29T08:45:10.383Z",
+   "counted": 425.3,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-10-29",
+   "abc": "C",
+   "expected": {
+    "inSage": 431,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 431,
+    "sageAt": "2026-10-29"
+   },
+   "diff": -5.7
   }
  ],
- "savedAt": "2026-10-29T08:44:34.498Z"
+ "savedAt": "2026-10-29T08:45:10.740Z"
 }
