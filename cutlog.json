@@ -9083,7 +9083,12 @@
    "k": "WO-1615|ASKAP056364|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 136
+   "std": 136,
+   "cutAt": "2026-10-29",
+   "at": "2026-10-29T12:52:51.168Z",
+   "metres": 102.25,
+   "note": "marker length was 4.09",
+   "adjustedAt": "2026-10-29T12:52:51.168Z"
   },
   {
    "ref": "WO-1616",
@@ -10149,5 +10154,5 @@
    "std": 1.78
   }
  ],
- "savedAt": "2026-10-29T12:07:55.429Z"
+ "savedAt": "2026-10-29T12:52:51.168Z"
 }
