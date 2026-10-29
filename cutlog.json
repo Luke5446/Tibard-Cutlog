@@ -10181,7 +10181,10 @@
    "k": "WO-1712|OHTAB83|CMP-WEB-PU-25-83",
    "fabric": "CMP-WEB-PU-25-83",
    "fabName": "OLIVE 25MM POLYURETHENE WEBBING",
-   "std": 6
+   "std": 6,
+   "cutAt": "2026-10-29",
+   "at": "2026-10-29T14:46:01.499Z",
+   "metres": 6
   },
   {
    "ref": "WO-1711",
@@ -10286,5 +10289,5 @@
    "metres": 4
   }
  ],
- "savedAt": "2026-10-29T14:45:55.446Z"
+ "savedAt": "2026-10-29T14:46:01.499Z"
 }
