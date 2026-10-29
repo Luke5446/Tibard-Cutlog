@@ -10085,7 +10085,7 @@
   {
    "ref": "S-OH117134-Pt1",
    "code": "OHAPP059703/DEN",
-   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES + PKTS",
+   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES & NECK STRAP + 2 BLACK DENIM HIP POCKETS",
    "qty": 50,
    "due": "2026-11-10",
    "created": "2026-10-29",
@@ -10099,7 +10099,7 @@
   {
    "ref": "S-OH117134-Pt1",
    "code": "OHAPP059703/DEN",
-   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES + PKTS",
+   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES & NECK STRAP + 2 BLACK DENIM HIP POCKETS",
    "qty": 50,
    "due": "2026-11-10",
    "created": "2026-10-29",
@@ -10112,5 +10112,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-29T08:03:03.741Z"
+ "savedAt": "2026-10-29T08:07:53.518Z"
 }
