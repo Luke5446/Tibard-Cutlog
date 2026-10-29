@@ -18578,7 +18578,20 @@
    "qty": 1,
    "desc": "WHITE S/S 100% COTTON DORSET CHEF JACKET SZ 38\"",
    "bookedAt": "2026-10-28T16:27:16.881Z"
+  },
+  {
+   "k": "embbook|WO-1450|GIRHT016003",
+   "kind": "embbook",
+   "ref": "WO-1450",
+   "code": "GIRHT016003",
+   "baseCode": "HT016003",
+   "qty": 24,
+   "bookedAt": "2026-10-29T15:01:33.562Z",
+   "files": [
+    "EMB_WriteOff_WO-1450_2026-10-29.csv",
+    "EMB_BookIn_WO-1450_2026-10-29.csv"
+   ]
   }
  ],
- "savedAt": "2026-10-29T15:00:10.992Z"
+ "savedAt": "2026-10-29T15:01:33.563Z"
 }
