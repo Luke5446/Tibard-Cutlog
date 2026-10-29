@@ -10316,7 +10316,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.24,
    "extra": true
+  },
+  {
+   "ref": "S-OH117400-Pt1",
+   "code": "OHKNAPP0630241/222HP2",
+   "desc": "SLATE GREY/COCOA ADJUSTABLE BIB APRON WITH CONTRAST STRAP & SELF FABRIC TIES, 2 HIP POCKETS + KNOOPS LOGO",
+   "qty": 50,
+   "due": "2026-11-18",
+   "created": "2026-10-29",
+   "printedAt": "2026-10-29",
+   "customer": "Knoops Procurement",
+   "k": "S-OH117400-Pt1|OHKNAPP0630241/222HP2|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 35.52
   }
  ],
- "savedAt": "2026-10-29T15:45:57.797Z"
+ "savedAt": "2026-10-29T15:46:14.777Z"
 }
