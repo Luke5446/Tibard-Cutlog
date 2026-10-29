@@ -10196,7 +10196,21 @@
    "fabric": "CMP-WEB-PU-25-82",
    "fabName": "BROWN 25MM POLYURETHENE WEBBING",
    "std": 2
+  },
+  {
+   "ref": "WO-1710",
+   "code": "OHTAB15",
+   "desc": "NAVY WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 20,
+   "due": "2026-11-06",
+   "created": "2026-10-29",
+   "printedAt": "2026-10-29",
+   "customer": "",
+   "k": "WO-1710|OHTAB15|CMP-WEB-PU-25-15",
+   "fabric": "CMP-WEB-PU-25-15",
+   "fabName": "NAVY 25MM POLYURETHENE WEBBING",
+   "std": 4
   }
  ],
- "savedAt": "2026-10-29T14:38:04.586Z"
+ "savedAt": "2026-10-29T14:38:12.069Z"
 }
