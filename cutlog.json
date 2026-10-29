@@ -8580,7 +8580,7 @@
    "ref": "WO-1631",
    "code": "OHCTTLANCASHIRELL03",
    "desc": "BLACK LANCASHIRE TROUSERS SZ LARGE - TALL LEG",
-   "qty": 9,
+   "qty": 10,
    "due": "2026-11-19",
    "created": "2026-10-22",
    "printedAt": "2026-10-22",
@@ -8588,7 +8588,7 @@
    "k": "WO-1631|OHCTTLANCASHIRELL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 16.02
+   "std": 17.8
   },
   {
    "ref": "WO-1632",
@@ -10170,5 +10170,5 @@
    "std": 38.4
   }
  ],
- "savedAt": "2026-10-29T14:19:58.116Z"
+ "savedAt": "2026-10-29T14:23:27.721Z"
 }
