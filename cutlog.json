@@ -10251,7 +10251,10 @@
    "k": "WO-1707|OHTAB04|CMP-WEB-PU-25-04",
    "fabric": "CMP-WEB-PU-25-04",
    "fabName": "PINK 25MM POLYURETHENE WEBBING",
-   "std": 2
+   "std": 2,
+   "cutAt": "2026-10-29",
+   "at": "2026-10-29T14:45:16.405Z",
+   "metres": 2
   },
   {
    "ref": "WO-1706",
@@ -10271,5 +10274,5 @@
    "metres": 4
   }
  ],
- "savedAt": "2026-10-29T14:45:06.425Z"
+ "savedAt": "2026-10-29T14:45:16.405Z"
 }
