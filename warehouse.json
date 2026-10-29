@@ -18591,7 +18591,37 @@
     "EMB_WriteOff_WO-1450_2026-10-29.csv",
     "EMB_BookIn_WO-1450_2026-10-29.csv"
    ]
+  },
+  {
+   "k": "book|WO-1598|SHAAPP054203|2026-10-29|72",
+   "kind": "book",
+   "ref": "WO-1598",
+   "code": "SHAAPP054203",
+   "completed": "2026-10-29",
+   "qty": 72,
+   "desc": "BLACK 100% POLYESTER BIB APRON",
+   "bookedAt": "2026-10-29T17:01:14.068Z"
+  },
+  {
+   "k": "book|WO-1662|CJM0193MM03|2026-10-28|76",
+   "kind": "book",
+   "ref": "WO-1662",
+   "code": "CJM0193MM03",
+   "completed": "2026-10-28",
+   "qty": 76,
+   "desc": "BLACK L/S MESH BACK P/COTTON CHEFS JACKET SZ MEDIUM",
+   "bookedAt": "2026-10-29T17:01:14.068Z"
+  },
+  {
+   "k": "book|WO-1661|CJM0193LL03|2026-10-28|16",
+   "kind": "book",
+   "ref": "WO-1661",
+   "code": "CJM0193LL03",
+   "completed": "2026-10-28",
+   "qty": 16,
+   "desc": "BLACK L/S MESH BACK P/COTTON CHEFS JACKET SZ LARGE",
+   "bookedAt": "2026-10-29T17:01:14.068Z"
   }
  ],
- "savedAt": "2026-10-29T15:01:33.563Z"
+ "savedAt": "2026-10-29T17:01:14.605Z"
 }
