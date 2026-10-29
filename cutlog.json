@@ -3360,7 +3360,7 @@
    "code": "OHCJSMSTRATFORD4601",
    "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 46\"",
    "qty": 30,
-   "due": "2026-10-27",
+   "due": "2026-11-10",
    "printedAt": "2026-09-29",
    "customer": "",
    "k": "WO-1390|OHCJSMSTRATFORD4601|PC14001",
@@ -3374,7 +3374,7 @@
    "code": "OHCJSMSTRATFORD4601",
    "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 46\"",
    "qty": 30,
-   "due": "2026-10-27",
+   "due": "2026-11-10",
    "printedAt": "2026-09-29",
    "customer": "",
    "k": "WO-1390|OHCJSMSTRATFORD4601|MESH2290901",
@@ -7657,7 +7657,7 @@
    "k": "WO-1575|OHAPP059703/153DEN|CO5153ECO",
    "fabric": "CO5153ECO",
    "fabName": "KHAKI 100% SUSTAINABLE COTTON (X149 - AM306)",
-   "std": 5.15
+   "std": 19.51
   },
   {
    "ref": "WO-1581",
@@ -10055,20 +10055,6 @@
    "extra": true
   },
   {
-   "ref": "S-TIB873357-Pt1",
-   "code": "TI003109",
-   "desc": "CORAL COSY CLUB TIE",
-   "qty": 118,
-   "due": "2026-11-18",
-   "created": "2026-10-21",
-   "printedAt": "2026-10-21",
-   "customer": "United-UK LLP",
-   "k": "S-TIB873357-Pt1|TI003109|PC2109",
-   "fabric": "PC2109",
-   "fabName": "CORAL POLY/COTTON 200G (X133 COLOUR 161)",
-   "std": 24.6
-  },
-  {
    "ref": "WO-1575",
    "code": "OHAPP059703/153DEN",
    "desc": "BLACK DENIM-KHAKI CONTRAST BIB APRON + 2 HIP POCKETS",
@@ -10077,11 +10063,12 @@
    "created": "2026-10-19",
    "printedAt": "2026-10-19",
    "customer": "",
-   "k": "WO-1575|OHAPP059703/153DEN|CO5003DEN",
-   "fabric": "CO5003DEN",
-   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
-   "std": 19.51
+   "k": "WO-1575|OHAPP059703/153DEN|CO5153",
+   "fabric": "CO5153",
+   "fabName": "Khaki 3110 100% cotton (for neck and waist ties) — contrast marker 0597A (neck tie + ties)",
+   "std": 5.15,
+   "extra": true
   }
  ],
- "savedAt": "2026-10-28T20:20:15.914Z"
+ "savedAt": "2026-10-29T07:51:33.358Z"
 }
