@@ -8580,7 +8580,7 @@
    "ref": "WO-1631",
    "code": "OHCTTLANCASHIRELL03",
    "desc": "BLACK LANCASHIRE TROUSERS SZ LARGE - TALL LEG",
-   "qty": 9,
+   "qty": 10,
    "due": "2026-11-19",
    "created": "2026-10-22",
    "printedAt": "2026-10-22",
@@ -8588,7 +8588,7 @@
    "k": "WO-1631|OHCTTLANCASHIRELL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 16.02
+   "std": 17.8
   },
   {
    "ref": "WO-1632",
@@ -9702,7 +9702,7 @@
    "code": "FENAPP059914DEN",
    "desc": "GREY DENIM WAIST APRON WITH CENTRE POCKET & TWO STITCH PEN POCKETS + FUEGO BY FENWICK LOGO",
    "qty": 50,
-   "due": "2026-11-12",
+   "due": "2026-11-09",
    "created": "2026-10-27",
    "printedAt": "2026-10-27",
    "customer": "Fenwick Ltd",
@@ -9716,7 +9716,7 @@
    "code": "FENAPP059914DEN",
    "desc": "GREY DENIM WAIST APRON WITH CENTRE POCKET & TWO STITCH PEN POCKETS + FUEGO BY FENWICK LOGO",
    "qty": 50,
-   "due": "2026-11-11",
+   "due": "2026-11-09",
    "created": "2026-10-26",
    "printedAt": "2026-10-27",
    "customer": "Fenwick Ltd",
@@ -10332,5 +10332,5 @@
    "std": 35.52
   }
  ],
- "savedAt": "2026-10-29T15:46:14.777Z"
+ "savedAt": "2026-10-29T20:42:35.569Z"
 }
