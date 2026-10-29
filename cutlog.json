@@ -9085,7 +9085,12 @@
    "k": "WO-1616|AP300501|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 21.2
+   "std": 21.2,
+   "cutAt": "2026-10-29",
+   "at": "2026-10-29T09:47:07.459Z",
+   "metres": 20,
+   "note": "1.97 marker",
+   "adjustedAt": "2026-10-29T09:47:07.459Z"
   },
   {
    "ref": "WO-1655",
@@ -10112,5 +10117,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-29T08:07:53.518Z"
+ "savedAt": "2026-10-29T09:47:07.459Z"
 }
