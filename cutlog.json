@@ -8169,7 +8169,10 @@
    "k": "S-OH116939-Pt2|OHCJ0001S|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 38.25
+   "std": 38.25,
+   "cutAt": "2026-10-30",
+   "at": "2026-10-30T12:43:01.363Z",
+   "metres": 38.25
   },
   {
    "ref": "S-OH116939-Pt2",
@@ -10467,5 +10470,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-10-30T12:42:53.980Z"
+ "savedAt": "2026-10-30T12:43:01.363Z"
 }
