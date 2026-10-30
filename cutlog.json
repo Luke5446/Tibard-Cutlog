@@ -10387,7 +10387,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 6.12
+  },
+  {
+   "ref": "WO-1716",
+   "code": "OHCJSCUMBRIA5601",
+   "desc": "WHITE S/S PRESS STUD CUMBRIA CHEF JACKET SZ 56\"",
+   "qty": 18,
+   "due": "2026-11-20",
+   "created": "2026-10-30",
+   "printedAt": "2026-10-30",
+   "customer": "",
+   "k": "WO-1716|OHCJSCUMBRIA5601|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 27.72
   }
  ],
- "savedAt": "2026-10-30T08:37:31.468Z"
+ "savedAt": "2026-10-30T08:37:38.081Z"
 }
