@@ -10373,7 +10373,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 5.34
+  },
+  {
+   "ref": "WO-1717",
+   "code": "OHCTTDURHAM4203",
+   "desc": "BLACK DURHAM EXECUTIVE TROUSERS SZ 42\" - TALL LEG",
+   "qty": 4,
+   "due": "2026-11-20",
+   "created": "2026-10-30",
+   "printedAt": "2026-10-30",
+   "customer": "",
+   "k": "WO-1717|OHCTTDURHAM4203|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 6.12
   }
  ],
- "savedAt": "2026-10-30T08:37:19.323Z"
+ "savedAt": "2026-10-30T08:37:31.468Z"
 }
