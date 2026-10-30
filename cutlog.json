@@ -10415,7 +10415,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 16.5
+  },
+  {
+   "ref": "WO-1714",
+   "code": "OHCJMSTRATFORD3601",
+   "desc": "WHITE L/S STRATFORD FLY FRONT CHEF JACKET SZ 36\"",
+   "qty": 3,
+   "due": "2026-11-20",
+   "created": "2026-10-30",
+   "printedAt": "2026-10-30",
+   "customer": "",
+   "k": "WO-1714|OHCJMSTRATFORD3601|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 3.36
   }
  ],
- "savedAt": "2026-10-30T08:37:44.656Z"
+ "savedAt": "2026-10-30T08:37:51.088Z"
 }
