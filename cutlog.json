@@ -8571,7 +8571,7 @@
    "ref": "WO-1629",
    "code": "OHCTLANCASHIREXL03",
    "desc": "BLACK LANCASHIRE TROUSERS SZ X-LARGE",
-   "qty": 20,
+   "qty": 50,
    "due": "2026-11-19",
    "created": "2026-10-22",
    "printedAt": "2026-10-22",
@@ -8579,7 +8579,7 @@
    "k": "WO-1629|OHCTLANCASHIREXL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 35.6
+   "std": 89
   },
   {
    "ref": "WO-1630",
@@ -10518,5 +10518,5 @@
    "metres": 0.48
   }
  ],
- "savedAt": "2026-10-30T15:48:19.061Z"
+ "savedAt": "2026-11-02T08:22:31.880Z"
 }
