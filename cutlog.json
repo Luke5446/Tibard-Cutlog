@@ -10461,7 +10461,13 @@
    "k": "WO-1718|OHCTTLANCASHIREXXL03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 5.34
+   "std": 5.34,
+   "cutAt": "2026-11-02",
+   "at": "2026-11-02T16:07:49.410Z",
+   "metres": 7.12,
+   "qtyCut": 4,
+   "note": "cut for 4 of 3",
+   "adjustedAt": "2026-11-02T16:07:49.410Z"
   },
   {
    "ref": "WO-1717",
@@ -10643,5 +10649,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-02T15:59:21.197Z"
+ "savedAt": "2026-11-02T16:07:49.410Z"
 }
