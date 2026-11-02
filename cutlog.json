@@ -10516,7 +10516,21 @@
    "cutAt": "2026-10-30",
    "at": "2026-10-30T14:54:02.301Z",
    "metres": 0.48
+  },
+  {
+   "ref": "WO-1723",
+   "code": "OHCTLANCASHIRESS03",
+   "desc": "BLACK LANCASHIRE TROUSERS SZ SMALL",
+   "qty": 24,
+   "due": "2026-11-05",
+   "created": "2026-11-02",
+   "printedAt": "2026-11-02",
+   "customer": "",
+   "k": "WO-1723|OHCTLANCASHIRESS03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 42.72
   }
  ],
- "savedAt": "2026-11-02T08:22:31.880Z"
+ "savedAt": "2026-11-02T08:23:22.781Z"
 }
