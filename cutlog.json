@@ -10544,7 +10544,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 178
+  },
+  {
+   "ref": "WO-1721",
+   "code": "OHCTLANCASHIRELL03",
+   "desc": "BLACK LANCASHIRE TROUSERS SZ LARGE",
+   "qty": 100,
+   "due": "2026-11-05",
+   "created": "2026-11-02",
+   "printedAt": "2026-11-02",
+   "customer": "",
+   "k": "WO-1721|OHCTLANCASHIRELL03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 178
   }
  ],
- "savedAt": "2026-11-02T08:23:30.072Z"
+ "savedAt": "2026-11-02T08:23:37.922Z"
 }
