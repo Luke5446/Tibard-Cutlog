@@ -10586,7 +10586,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 178
+  },
+  {
+   "ref": "S-OH117465-Pt1",
+   "code": "OHAP3005248ST",
+   "desc": "STORM GREY POLY/COTTON BIB APRON, SELF FABRIC TIES",
+   "qty": 60,
+   "due": "2026-11-20",
+   "created": "2026-11-02",
+   "printedAt": "2026-11-02",
+   "customer": "Soho House Group",
+   "k": "S-OH117465-Pt1|OHAP3005248ST|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 61.8
   }
  ],
- "savedAt": "2026-11-02T14:48:37.758Z"
+ "savedAt": "2026-11-02T14:56:23.073Z"
 }
