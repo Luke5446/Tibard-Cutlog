@@ -10785,7 +10785,21 @@
    "fabric": "PC14001",
    "fabName": "White Cooltex 1 poly-cotton 50% / 50%",
    "std": 6.18
+  },
+  {
+   "ref": "S-OH117571-Pt1",
+   "code": "OHAPP300583",
+   "desc": "OLIVE POLY/COTTON BIB APRON + POCKET",
+   "qty": 50,
+   "due": "2026-11-17",
+   "created": "2026-11-03",
+   "printedAt": "2026-11-03",
+   "customer": "Stalbridge Linen Services Ltd",
+   "k": "S-OH117571-Pt1|OHAPP300583|PC2083ECO",
+   "fabric": "PC2083ECO",
+   "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
+   "std": 51.5
   }
  ],
- "savedAt": "2026-11-03T15:37:21.985Z"
+ "savedAt": "2026-11-03T15:40:32.356Z"
 }
