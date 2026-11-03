@@ -10676,7 +10676,13 @@
    "k": "WO-1729|OHSTRAP153WAIST|CO5153ECO",
    "fabric": "CO5153ECO",
    "fabName": "KHAKI 100% SUSTAINABLE COTTON (X149 - AM306)",
-   "std": 1.4
+   "std": 1.4,
+   "cutAt": "2026-11-03",
+   "at": "2026-11-03T12:34:15.085Z",
+   "metres": 1.54,
+   "qtyCut": 11,
+   "note": "cut for 11 of 10",
+   "adjustedAt": "2026-11-03T12:34:15.085Z"
   },
   {
    "ref": "WO-1730",
@@ -10708,5 +10714,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-03T12:03:45.372Z"
+ "savedAt": "2026-11-03T12:34:15.085Z"
 }
