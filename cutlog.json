@@ -10828,7 +10828,36 @@
    "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
    "std": 3.28,
    "extra": true
+  },
+  {
+   "ref": "WO-1736",
+   "code": "OHHTM016015",
+   "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
+   "qty": 312,
+   "due": "2026-11-17",
+   "created": "2026-11-03",
+   "printedAt": "2026-11-03",
+   "customer": "",
+   "k": "WO-1736|OHHTM016015|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 26.54
+  },
+  {
+   "ref": "WO-1736",
+   "code": "OHHTM016015",
+   "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
+   "qty": 312,
+   "due": "2026-11-17",
+   "created": "2026-11-03",
+   "printedAt": "2026-11-03",
+   "customer": "",
+   "k": "WO-1736|OHHTM016015|MESHPW31415",
+   "fabric": "MESHPW31415",
+   "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
+   "std": 10.71,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-03T15:41:01.341Z"
+ "savedAt": "2026-11-03T16:12:15.358Z"
 }
