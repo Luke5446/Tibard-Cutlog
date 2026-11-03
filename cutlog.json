@@ -10799,7 +10799,36 @@
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
    "std": 51.5
+  },
+  {
+   "ref": "S-TIB873798-Pt1",
+   "code": "CICJM0193LL01L4",
+   "desc": "WHITE S/S MESH BACK P/COTTON 4\" LONGER LENGTH CHEFS JACKET SZ LARGE",
+   "qty": 11,
+   "due": "2026-11-18",
+   "created": "2026-11-03",
+   "printedAt": "2026-11-03",
+   "customer": "Clean Linen Services Ltd",
+   "k": "S-TIB873798-Pt1|CICJM0193LL01L4|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "White 65% polyester / 35% cotton 195 gsm (P and R)",
+   "std": 13.31
+  },
+  {
+   "ref": "S-TIB873798-Pt1",
+   "code": "CICJM0193LL01L4",
+   "desc": "WHITE S/S MESH BACK P/COTTON 4\" LONGER LENGTH CHEFS JACKET SZ LARGE",
+   "qty": 11,
+   "due": "2026-11-18",
+   "created": "2026-11-03",
+   "printedAt": "2026-11-03",
+   "customer": "Clean Linen Services Ltd",
+   "k": "S-TIB873798-Pt1|CICJM0193LL01L4|MESHPW31401",
+   "fabric": "MESHPW31401",
+   "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
+   "std": 3.28,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-03T15:40:32.356Z"
+ "savedAt": "2026-11-03T15:41:01.341Z"
 }
