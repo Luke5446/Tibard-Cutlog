@@ -9837,7 +9837,10 @@
    "k": "WO-1682|OHCJSMDORSET4401L|CO4001NH3",
    "fabric": "CO4001NH3",
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
-   "std": 3.06
+   "std": 3.06,
+   "cutAt": "2026-11-03",
+   "at": "2026-11-03T14:51:36.236Z",
+   "metres": 3.06
   },
   {
    "ref": "WO-1682",
@@ -10726,5 +10729,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-03T13:47:03.065Z"
+ "savedAt": "2026-11-03T14:51:36.236Z"
 }
