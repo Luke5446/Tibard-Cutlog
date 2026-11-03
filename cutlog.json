@@ -10771,7 +10771,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.11,
    "extra": true
+  },
+  {
+   "ref": "S-OH117557-Pt1",
+   "code": "OHCJMOXFORD6001",
+   "desc": "WHITE L/S OXFORD DETACH BUTTON POLY/COTTON CHEF JACKET SZ 60\"",
+   "qty": 3,
+   "due": "2026-11-16",
+   "created": "2026-11-03",
+   "printedAt": "2026-11-03",
+   "customer": "First Corporate Clothing Ltd",
+   "k": "S-OH117557-Pt1|OHCJMOXFORD6001|PC14001",
+   "fabric": "PC14001",
+   "fabName": "White Cooltex 1 poly-cotton 50% / 50%",
+   "std": 6.18
   }
  ],
- "savedAt": "2026-11-03T15:24:27.497Z"
+ "savedAt": "2026-11-03T15:37:21.985Z"
 }
