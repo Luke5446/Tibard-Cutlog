@@ -11099,7 +11099,21 @@
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
    "std": 48.5
+  },
+  {
+   "ref": "WO-1751",
+   "code": "OHAPP0535110/DS",
+   "desc": "PUTTY CROSSOVER BIB APRON BASE + 2 HIP POCKETS",
+   "qty": 30,
+   "due": "2026-11-10",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1751|OHAPP0535110/DS|CO5364ECO",
+   "fabric": "CO5364ECO",
+   "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
+   "std": 16.51
   }
  ],
- "savedAt": "2026-11-04T14:26:12.034Z"
+ "savedAt": "2026-11-04T15:08:13.915Z"
 }
