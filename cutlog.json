@@ -11076,7 +11076,21 @@
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
    "std": 224.54
+  },
+  {
+   "ref": "WO-1750",
+   "code": "OHAP300515L",
+   "desc": "NAVY POLY/COTTON 6\" LONGER BIB APRON",
+   "qty": 50,
+   "due": "2026-11-18",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1750|OHAP300515L|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 48.5
   }
  ],
- "savedAt": "2026-11-04T13:30:16.215Z"
+ "savedAt": "2026-11-04T13:30:21.484Z"
 }
