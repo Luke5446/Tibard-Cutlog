@@ -11000,7 +11000,21 @@
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 2.2
+  },
+  {
+   "ref": "WO-1744",
+   "code": "WAGSB077403",
+   "desc": "BLACK RECYCLED POLYESTER PVC STAFF BAG + WAGAMAMA LOGO",
+   "qty": 180,
+   "due": "2026-11-17",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1744|WAGSB077403|PVC600D03",
+   "fabric": "PVC600D03",
+   "fabName": "BLACK RECYCLED TEXTURED POLYESTER 430GSM",
+   "std": 41.4
   }
  ],
- "savedAt": "2026-11-04T08:28:04.700Z"
+ "savedAt": "2026-11-04T08:29:07.250Z"
 }
