@@ -11141,7 +11141,36 @@
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
    "std": 12.44
+  },
+  {
+   "ref": "S-OH117596-Pt1",
+   "code": "OHAPP0534110/222CTS",
+   "desc": "PUTTY ADJUSTABLE CONTRAST NECK BIB APRON, COCOA TIES + CENTRE FRONT POCKET - Special",
+   "qty": 20,
+   "due": "2026-11-18",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "Venue Catering & Events Ltd",
+   "k": "S-OH117596-Pt1|OHAPP0534110/222CTS|CO5364ECO",
+   "fabric": "CO5364ECO",
+   "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
+   "std": 11.1
+  },
+  {
+   "ref": "S-OH117596-Pt1",
+   "code": "OHAPP0534110/222CTS",
+   "desc": "PUTTY ADJUSTABLE CONTRAST NECK BIB APRON, COCOA TIES + CENTRE FRONT POCKET - Special",
+   "qty": 20,
+   "due": "2026-11-18",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "Venue Catering & Events Ltd",
+   "k": "S-OH117596-Pt1|OHAPP0534110/222CTS|CO5222ECO",
+   "fabric": "CO5222ECO",
+   "fabName": "Cocoa 100% organic cotton 260gsm X149ECO-AM307 (Tiajo) — contrast for neck strap and waist ties — rating 0.17M",
+   "std": 3.4,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-04T15:09:31.837Z"
+ "savedAt": "2026-11-04T15:26:18.323Z"
 }
