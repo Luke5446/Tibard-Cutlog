@@ -11014,7 +11014,21 @@
    "fabric": "PVC600D03",
    "fabName": "BLACK RECYCLED TEXTURED POLYESTER 430GSM",
    "std": 41.4
+  },
+  {
+   "ref": "WO-1745",
+   "code": "GBKAPP064464",
+   "desc": "STORM GREY P/COTTON WAIST APRON WITH CENTRE DIVIDE POCKET",
+   "qty": 10,
+   "due": "2026-11-16",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1745|GBKAPP064464|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 5.3
   }
  ],
- "savedAt": "2026-11-04T08:29:07.250Z"
+ "savedAt": "2026-11-04T08:30:26.334Z"
 }
