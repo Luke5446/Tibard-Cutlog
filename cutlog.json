@@ -9444,7 +9444,10 @@
    "k": "S-OH117254-Pt2|OHCJSCUMBRIA42248|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 9.48
+   "std": 9.48,
+   "cutAt": "2026-11-04",
+   "at": "2026-11-04T13:40:36.116Z",
+   "metres": 9.48
   },
   {
    "ref": "S-OH117254-Pt3",
@@ -11092,5 +11095,5 @@
    "std": 48.5
   }
  ],
- "savedAt": "2026-11-04T13:30:21.484Z"
+ "savedAt": "2026-11-04T13:40:36.116Z"
 }
