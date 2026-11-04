@@ -10871,7 +10871,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 4.59
+  },
+  {
+   "ref": "WO-1738",
+   "code": "OHAPP0535241",
+   "desc": "SLATE ADJUSTABLE BIB APRON WITH ANTIQUE BUCKLE + 2 PKTS",
+   "qty": 50,
+   "due": "2026-11-25",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1738|OHAPP0535241|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 28.39
   }
  ],
- "savedAt": "2026-11-04T08:15:40.978Z"
+ "savedAt": "2026-11-04T08:17:34.702Z"
 }
