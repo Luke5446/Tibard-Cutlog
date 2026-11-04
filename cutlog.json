@@ -11062,7 +11062,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 5.3
+  },
+  {
+   "ref": "WO-1749",
+   "code": "OHAP300501C",
+   "desc": "WHITE 100% COTTON BIB APRON",
+   "qty": 218,
+   "due": "2026-11-18",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1749|OHAP300501C|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 224.54
   }
  ],
- "savedAt": "2026-11-04T13:04:46.395Z"
+ "savedAt": "2026-11-04T13:30:16.215Z"
 }
