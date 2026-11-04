@@ -10857,7 +10857,21 @@
    "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
    "std": 10.71,
    "extra": true
+  },
+  {
+   "ref": "WO-1737",
+   "code": "OHCTTDURHAM4603",
+   "desc": "BLACK DURHAM EXECUTIVE TROUSERS SZ 46\" - TALL LEG",
+   "qty": 3,
+   "due": "2026-11-16",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1737|OHCTTDURHAM4603|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 4.59
   }
  ],
- "savedAt": "2026-11-03T16:12:15.358Z"
+ "savedAt": "2026-11-04T08:15:40.978Z"
 }
