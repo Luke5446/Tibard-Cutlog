@@ -9776,7 +9776,10 @@
    "k": "S-TIB873811-Pt1|CICJM01935801|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 8.64
+   "std": 8.64,
+   "cutAt": "2026-11-04",
+   "at": "2026-11-04T13:04:43.605Z",
+   "metres": 8.64
   },
   {
    "ref": "S-TIB873811-Pt1",
@@ -11058,5 +11061,5 @@
    "std": 5.3
   }
  ],
- "savedAt": "2026-11-04T12:57:57.433Z"
+ "savedAt": "2026-11-04T13:04:43.605Z"
 }
