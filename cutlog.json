@@ -10986,7 +10986,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 13.2
+  },
+  {
+   "ref": "WO-1743",
+   "code": "OHAPP053503DEN/DS",
+   "desc": "BLACK DENIM CROSSOVER BIB APRON BASE + 2 HIP POCKETS",
+   "qty": 4,
+   "due": "2026-11-13",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1743|OHAPP053503DEN/DS|CO5003DEN",
+   "fabric": "CO5003DEN",
+   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
+   "std": 2.2
   }
  ],
- "savedAt": "2026-11-04T08:26:17.541Z"
+ "savedAt": "2026-11-04T08:28:04.700Z"
 }
