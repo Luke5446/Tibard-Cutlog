@@ -10972,7 +10972,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.76,
    "extra": true
+  },
+  {
+   "ref": "WO-1742",
+   "code": "OHLCJSDERBYSHIRE1001",
+   "desc": "WHITE LADIES S/S DERBYSHIRE CONCEALED STUD CHEF JACKET SZ 10",
+   "qty": 12,
+   "due": "2026-11-10",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1742|OHLCJSDERBYSHIRE1001|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 13.2
   }
  ],
- "savedAt": "2026-11-04T08:24:38.561Z"
+ "savedAt": "2026-11-04T08:26:17.541Z"
 }
