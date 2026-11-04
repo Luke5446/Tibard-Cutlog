@@ -11127,7 +11127,21 @@
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
    "std": 27.52
+  },
+  {
+   "ref": "WO-1753",
+   "code": "OHAPP352883",
+   "desc": "OLIVE POLY/COTTON WAIST APRON WITH POCKET",
+   "qty": 24,
+   "due": "2026-11-18",
+   "created": "2026-11-04",
+   "printedAt": "2026-11-04",
+   "customer": "",
+   "k": "WO-1753|OHAPP352883|PC2083ECO",
+   "fabric": "PC2083ECO",
+   "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
+   "std": 12.44
   }
  ],
- "savedAt": "2026-11-04T15:09:26.660Z"
+ "savedAt": "2026-11-04T15:09:31.837Z"
 }
