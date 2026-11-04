@@ -9483,7 +9483,13 @@
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
    "std": 106,
-   "qtyCut": 210
+   "qtyCut": 195,
+   "cutAt": "2026-10-29",
+   "at": "2026-11-04T16:24:21.454Z",
+   "backdated": "2026-11-04",
+   "metres": 103.35,
+   "note": "cut for 195 of 200",
+   "adjustedAt": "2026-11-04T16:24:21.454Z"
   },
   {
    "ref": "WO-1669",
@@ -11172,5 +11178,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-04T16:23:58.569Z"
+ "savedAt": "2026-11-04T16:24:21.454Z"
 }
