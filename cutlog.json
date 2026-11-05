@@ -11225,7 +11225,21 @@
    "std": 0.03,
    "extra": true,
    "cancelledAt": "2026-11-05"
+  },
+  {
+   "ref": "WO-1757",
+   "code": "OHLCJSDERBYSHIRE1401",
+   "desc": "WHITE LADIES S/S DERBYSHIRE CONCEALED STUD CHEF JACKET SZ 14",
+   "qty": 12,
+   "due": "2026-11-09",
+   "created": "2026-11-05",
+   "printedAt": "2026-11-05",
+   "customer": "",
+   "k": "WO-1757|OHLCJSDERBYSHIRE1401|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 14.46
   }
  ],
- "savedAt": "2026-11-05T11:24:36.960Z"
+ "savedAt": "2026-11-05T11:53:33.283Z"
 }
