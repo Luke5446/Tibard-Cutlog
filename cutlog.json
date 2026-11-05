@@ -11108,7 +11108,13 @@
    "k": "WO-1749|OHAP300501C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 224.54
+   "std": 224.54,
+   "cutAt": "2026-11-05",
+   "at": "2026-11-05T13:48:11.207Z",
+   "metres": 123,
+   "qtyCut": 150,
+   "note": "Not enough fabric for full 218. Garment rating = 0.82m",
+   "adjustedAt": "2026-11-05T13:48:11.207Z"
   },
   {
    "ref": "WO-1750",
@@ -11242,5 +11248,5 @@
    "cancelledAt": "2026-11-05"
   }
  ],
- "savedAt": "2026-11-05T11:53:57.799Z"
+ "savedAt": "2026-11-05T13:48:11.207Z"
 }
