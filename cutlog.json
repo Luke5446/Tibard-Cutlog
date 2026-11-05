@@ -11151,7 +11151,12 @@
    "k": "WO-1751|OHAPP0535110/DS|CO5364ECO",
    "fabric": "CO5364ECO",
    "fabName": "PUTTY 100% SUSTAINABLE COTTON (X149 - AM305)",
-   "std": 16.51
+   "std": 16.51,
+   "cutAt": "2026-11-05",
+   "at": "2026-11-05T15:48:48.416Z",
+   "metres": 18,
+   "note": "Run part roll out. 18m on ticket.",
+   "adjustedAt": "2026-11-05T15:48:48.416Z"
   },
   {
    "ref": "WO-1752",
@@ -11257,5 +11262,5 @@
    "cancelledAt": "2026-11-05"
   }
  ],
- "savedAt": "2026-11-05T14:37:39.859Z"
+ "savedAt": "2026-11-05T15:48:48.416Z"
 }
