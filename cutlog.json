@@ -9859,7 +9859,13 @@
    "k": "WO-1678|OHAPP054415|CO5015ECO",
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
-   "std": 103
+   "std": 103,
+   "cutAt": "2026-11-05",
+   "at": "2026-11-05T14:37:39.859Z",
+   "metres": 92,
+   "qtyCut": 110,
+   "note": "Garment Rating = 0.835m. Run out 92m roll.",
+   "adjustedAt": "2026-11-05T14:37:39.859Z"
   },
   {
    "ref": "WO-1681",
@@ -11251,5 +11257,5 @@
    "cancelledAt": "2026-11-05"
   }
  ],
- "savedAt": "2026-11-05T14:04:36.985Z"
+ "savedAt": "2026-11-05T14:37:39.859Z"
 }
