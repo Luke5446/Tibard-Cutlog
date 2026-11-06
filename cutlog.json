@@ -11288,7 +11288,21 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 10.88
+  },
+  {
+   "ref": "WO-1762",
+   "code": "OHLCJDERBYSHIRE1801",
+   "desc": "WHITE LADIES L/S DERBYSHIRE CONCEALED STUD CHEF JACKET SZ 18",
+   "qty": 3,
+   "due": "2026-11-09",
+   "created": "2026-11-05",
+   "printedAt": "2026-11-06",
+   "customer": "",
+   "k": "WO-1762|OHLCJDERBYSHIRE1801|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 4.71
   }
  ],
- "savedAt": "2026-11-06T08:21:12.593Z"
+ "savedAt": "2026-11-06T08:21:23.354Z"
 }
