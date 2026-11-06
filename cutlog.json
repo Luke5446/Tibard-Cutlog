@@ -8390,7 +8390,11 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 27.52,
-   "qtyCut": 68
+   "qtyCut": 67,
+   "cutAt": "2026-10-29",
+   "at": "2026-11-06T10:36:48.598Z",
+   "backdated": "2026-11-06",
+   "metres": 27.52
   },
   {
    "ref": "WO-1620",
@@ -11302,5 +11306,5 @@
    "std": 4.71
   }
  ],
- "savedAt": "2026-11-06T10:36:04.574Z"
+ "savedAt": "2026-11-06T10:36:48.598Z"
 }
