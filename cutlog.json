@@ -11075,7 +11075,10 @@
    "k": "WO-1743|OHAPP053503DEN/DS|CO5003DEN",
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
-   "std": 2.2
+   "std": 2.2,
+   "cutAt": "2026-11-06",
+   "at": "2026-11-06T09:40:30.054Z",
+   "metres": 2.2
   },
   {
    "ref": "WO-1744",
@@ -11304,5 +11307,5 @@
    "std": 4.71
   }
  ],
- "savedAt": "2026-11-06T08:21:52.142Z"
+ "savedAt": "2026-11-06T09:40:30.055Z"
 }
