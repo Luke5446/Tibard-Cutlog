@@ -11398,7 +11398,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 81.5
+  },
+  {
+   "ref": "WO-1776",
+   "code": "CJ0193SS03",
+   "desc": "BLACK L/S P/COTTON STUD FASTEN CHEFS JACKET SZ SMALL",
+   "qty": 12,
+   "due": "2026-11-13",
+   "created": "2026-11-06",
+   "printedAt": "2026-11-06",
+   "customer": "",
+   "k": "WO-1776|CJ0193SS03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 18.36
   }
  ],
- "savedAt": "2026-11-06T12:01:59.025Z"
+ "savedAt": "2026-11-06T12:04:28.084Z"
 }
