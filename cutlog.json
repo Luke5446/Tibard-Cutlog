@@ -9830,7 +9830,12 @@
    "k": "S-TIB873848-Pt1|FENAPP059914DEN|CO5014DEN",
    "fabric": "CO5014DEN",
    "fabName": "MURRAY LT GREY DENIM 100% COTTON 315GM",
-   "std": 36.5
+   "std": 36.5,
+   "cutAt": "2026-11-06",
+   "at": "2026-11-06T11:48:47.563Z",
+   "metres": 33,
+   "note": "Garment Rating = 0.675m.",
+   "adjustedAt": "2026-11-06T11:48:47.563Z"
   },
   {
    "ref": "S-TIB873778-Pt1",
@@ -11325,5 +11330,5 @@
    "std": 7.12
   }
  ],
- "savedAt": "2026-11-06T11:48:00.919Z"
+ "savedAt": "2026-11-06T11:48:47.563Z"
 }
