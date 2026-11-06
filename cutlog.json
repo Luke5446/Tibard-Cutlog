@@ -11342,7 +11342,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 81.5
+  },
+  {
+   "ref": "WO-1771",
+   "code": "CT3082MM03",
+   "desc": "BLACK CHEFS ELASTICATED DRAWSTRING TROUSERS SZ MED (30-32\")",
+   "qty": 50,
+   "due": "2026-11-11",
+   "created": "2026-11-06",
+   "printedAt": "2026-11-06",
+   "customer": "",
+   "k": "WO-1771|CT3082MM03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 81.5
   }
  ],
- "savedAt": "2026-11-06T12:00:19.148Z"
+ "savedAt": "2026-11-06T12:00:38.345Z"
 }
