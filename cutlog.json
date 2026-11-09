@@ -11693,7 +11693,21 @@
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
    "std": 1.06
+  },
+  {
+   "ref": "S-TIB874922-Pt1",
+   "code": "OHAPP3005248",
+   "desc": "STORM GREY POLY/COTTON BIB APRON + POCKET",
+   "qty": 1,
+   "due": "2026-11-11",
+   "created": "2026-11-09",
+   "printedAt": "2026-11-09",
+   "customer": "Clean Linen Services Ltd",
+   "k": "S-TIB874922-Pt1|OHAPP3005248|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 1.03
   }
  ],
- "savedAt": "2026-11-09T16:04:53.428Z"
+ "savedAt": "2026-11-09T16:05:01.279Z"
 }
