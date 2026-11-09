@@ -11698,7 +11698,8 @@
    "k": "S-OH117733-Pt1|OHAP352801C|CO5001ECO",
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
-   "std": 1.06
+   "std": 1.06,
+   "cancelledAt": "2026-11-09"
   },
   {
    "ref": "S-TIB874922-Pt1",
@@ -11715,5 +11716,5 @@
    "std": 1.03
   }
  ],
- "savedAt": "2026-11-09T16:27:11.338Z"
+ "savedAt": "2026-11-09T16:43:43.013Z"
 }
