@@ -11628,7 +11628,10 @@
    "k": "WO-1783|OHCJSCUMBRIA3601|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 11.7
+   "std": 11.7,
+   "cutAt": "2026-11-09",
+   "at": "2026-11-09T15:51:27.972Z",
+   "metres": 11.7
   },
   {
    "ref": "WO-1769",
@@ -11677,5 +11680,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-09T15:46:13.001Z"
+ "savedAt": "2026-11-09T15:51:27.972Z"
 }
