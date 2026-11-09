@@ -11450,7 +11450,21 @@
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
    "std": 6.52
+  },
+  {
+   "ref": "S-TIB874811-Pt1",
+   "code": "CTT3082MM03",
+   "desc": "BLACK ELASTICATED/DRAWSTRING CHEF TROUSERS WITH SIDE SEAM POCKETS SZ MEDIUM (30\"-32\") - TALL LEG",
+   "qty": 3,
+   "due": "2026-11-19",
+   "created": "2026-11-09",
+   "printedAt": "2026-11-09",
+   "customer": "Alliance Disposables Ltd",
+   "k": "S-TIB874811-Pt1|CTT3082MM03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 5.04
   }
  ],
- "savedAt": "2026-11-09T08:44:03.456Z"
+ "savedAt": "2026-11-09T08:44:11.760Z"
 }
