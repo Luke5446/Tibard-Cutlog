@@ -11679,7 +11679,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 1.12,
    "extra": true
+  },
+  {
+   "ref": "S-OH117733-Pt1",
+   "code": "OHAP352801C",
+   "desc": "WHITE 100% COTTON WAIST APRON",
+   "qty": 2,
+   "due": "2026-11-16",
+   "created": "2026-11-09",
+   "printedAt": "2026-11-09",
+   "customer": "Cookbookstore.gr",
+   "k": "S-OH117733-Pt1|OHAP352801C|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 1.06
   }
  ],
- "savedAt": "2026-11-09T16:02:24.204Z"
+ "savedAt": "2026-11-09T16:04:53.428Z"
 }
