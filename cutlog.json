@@ -7992,7 +7992,7 @@
    "ref": "WO-1599",
    "code": "CBHT016064PG",
    "desc": "STORM GREY VELCRO FASTEN SKULL CAP + CIAO BELLA",
-   "qty": 30,
+   "qty": 60,
    "due": "2026-11-10",
    "created": "2026-10-20",
    "printedAt": "2026-10-20",
@@ -8000,7 +8000,7 @@
    "k": "WO-1599|CBHT016064PG|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "Storm grey 65% recycled polyester / 35% BCI cotton 200 gsm X133ECO AM299 (Tiajo) — rating 0.12 m",
-   "std": 4.5
+   "std": 9
   },
   {
    "ref": "WO-1600",
@@ -11716,5 +11716,5 @@
    "std": 1.03
   }
  ],
- "savedAt": "2026-11-09T16:43:43.013Z"
+ "savedAt": "2026-11-09T16:44:25.775Z"
 }
