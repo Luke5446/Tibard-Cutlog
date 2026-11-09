@@ -11464,7 +11464,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 5.04
+  },
+  {
+   "ref": "S-TIB874902-Pt1",
+   "code": "BEAP300601",
+   "desc": "WHITE COTTON LONG WAIST WITH POCKET + BETTYS LOGO",
+   "qty": 10,
+   "due": "2026-11-20",
+   "created": "2026-11-09",
+   "printedAt": "2026-11-09",
+   "customer": "Bettys & Taylors of Harrogate Ltd",
+   "k": "S-TIB874902-Pt1|BEAP300601|CO5001ECO",
+   "fabric": "CO5001ECO",
+   "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
+   "std": 10.3
   }
  ],
- "savedAt": "2026-11-09T08:44:11.760Z"
+ "savedAt": "2026-11-09T08:44:17.662Z"
 }
