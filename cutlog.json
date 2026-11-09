@@ -11341,7 +11341,13 @@
    "k": "WO-1770|CT3082MM03|PC2003ECO",
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
-   "std": 81.5
+   "std": 81.5,
+   "cutAt": "2026-11-06",
+   "at": "2026-11-09T08:27:19.856Z",
+   "backdated": "2026-11-09",
+   "metres": 69.75,
+   "note": "Double Marker Used. Garment Rating = 1.395m",
+   "adjustedAt": "2026-11-09T08:27:19.856Z"
   },
   {
    "ref": "WO-1771",
@@ -11432,5 +11438,5 @@
    "std": 18.36
   }
  ],
- "savedAt": "2026-11-09T08:27:02.463Z"
+ "savedAt": "2026-11-09T08:27:19.856Z"
 }
