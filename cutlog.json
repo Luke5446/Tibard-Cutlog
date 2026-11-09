@@ -11478,7 +11478,21 @@
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
    "std": 10.3
+  },
+  {
+   "ref": "S-TIB874906-Pt1",
+   "code": "CICJ01935803",
+   "desc": "BLACK S/S P/COTTON STUD FASTEN CHEFS JACKET SZ 58\"",
+   "qty": 1,
+   "due": "2026-11-20",
+   "created": "2026-11-09",
+   "printedAt": "2026-11-09",
+   "customer": "Stonegate Pub Co Ltd",
+   "k": "S-TIB874906-Pt1|CICJ01935803|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 1.28
   }
  ],
- "savedAt": "2026-11-09T08:44:17.662Z"
+ "savedAt": "2026-11-09T08:44:26.668Z"
 }
