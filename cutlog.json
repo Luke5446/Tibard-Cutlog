@@ -11943,7 +11943,36 @@
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
    "std": 21.19
+  },
+  {
+   "ref": "WO-1806",
+   "code": "OHCJSMOXFORD3401",
+   "desc": "WHITE S/S DETACH BUTTON OXFORD CHEF JACKET SZ 34\"",
+   "qty": 4,
+   "due": "2026-11-12",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-10",
+   "customer": "",
+   "k": "WO-1806|OHCJSMOXFORD3401|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 4.64
+  },
+  {
+   "ref": "WO-1806",
+   "code": "OHCJSMOXFORD3401",
+   "desc": "WHITE S/S DETACH BUTTON OXFORD CHEF JACKET SZ 34\"",
+   "qty": 4,
+   "due": "2026-11-12",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-10",
+   "customer": "",
+   "k": "WO-1806|OHCJSMOXFORD3401|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric, qual 22909, white",
+   "std": 0.16,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-10T13:26:50.507Z"
+ "savedAt": "2026-11-10T13:32:57.885Z"
 }
