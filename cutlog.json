@@ -12038,7 +12038,21 @@
    "cutAt": "2026-11-10",
    "at": "2026-11-10T14:59:49.704Z",
    "metres": 42.4
+  },
+  {
+   "ref": "WO-1812",
+   "code": "OHLCTSURREY1803",
+   "desc": "BLACK LADIES ADJUSTABLE SURREY SLIM FIT CHEF TROUSER SZ 18",
+   "qty": 3,
+   "due": "2026-11-16",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-10",
+   "customer": "",
+   "k": "WO-1812|OHLCTSURREY1803|PC4003ELAST",
+   "fabric": "PC4003ELAST",
+   "fabName": "BLACK 210GSM 35% COTTON/35% POLYESTER/30% T400 (9326 0190/S)",
+   "std": 4.14
   }
  ],
- "savedAt": "2026-11-10T16:42:47.886Z"
+ "savedAt": "2026-11-10T16:52:32.155Z"
 }
