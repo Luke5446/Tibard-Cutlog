@@ -11134,7 +11134,13 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 13.2,
-   "qtyCut": 7
+   "qtyCut": 10,
+   "cutAt": "2026-11-04",
+   "at": "2026-11-10T13:14:28.747Z",
+   "backdated": "2026-11-10",
+   "metres": 11,
+   "note": "cut for 10 of 12",
+   "adjustedAt": "2026-11-10T13:14:28.747Z"
   },
   {
    "ref": "WO-1743",
@@ -11911,5 +11917,5 @@
    "std": 7.82
   }
  ],
- "savedAt": "2026-11-10T13:13:59.473Z"
+ "savedAt": "2026-11-10T13:14:28.747Z"
 }
