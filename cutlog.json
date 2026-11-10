@@ -11530,7 +11530,13 @@
    "k": "WO-1775|CT30824826|PC2026",
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
-   "std": 6.52
+   "std": 6.52,
+   "cutAt": "2026-11-10",
+   "at": "2026-11-10T08:31:46.685Z",
+   "metres": 11,
+   "qtyCut": 6,
+   "note": "Run 11m part roll out. Garment Rating = 1.89m",
+   "adjustedAt": "2026-11-10T08:31:46.685Z"
   },
   {
    "ref": "S-TIB874811-Pt1",
@@ -11716,5 +11722,5 @@
    "std": 1.03
   }
  ],
- "savedAt": "2026-11-09T16:44:40.359Z"
+ "savedAt": "2026-11-10T08:31:46.685Z"
 }
