@@ -11820,7 +11820,10 @@
    "k": "WO-1796|OHCJSMDORSET5001|CO4001NH3",
    "fabric": "CO4001NH3",
    "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
-   "std": 7.35
+   "std": 7.35,
+   "cutAt": "2026-11-10",
+   "at": "2026-11-10T16:14:28.392Z",
+   "metres": 7.35
   },
   {
    "ref": "WO-1796",
@@ -11835,7 +11838,10 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.2,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-10",
+   "at": "2026-11-10T16:14:28.392Z",
+   "metres": 0.2
   },
   {
    "ref": "WO-1797",
@@ -12019,5 +12025,5 @@
    "metres": 42.4
   }
  ],
- "savedAt": "2026-11-10T14:59:49.704Z"
+ "savedAt": "2026-11-10T16:14:28.392Z"
 }
