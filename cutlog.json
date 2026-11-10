@@ -11972,7 +11972,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.16,
    "extra": true
+  },
+  {
+   "ref": "WO-1807",
+   "code": "CBAPP054964PG",
+   "desc": "STORM GREY WAIST APRON WITH POCKET + CIAO BELLA LOGO",
+   "qty": 80,
+   "due": "2026-11-13",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-10",
+   "customer": "",
+   "k": "WO-1807|CBAPP054964PG|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 42.4
   }
  ],
- "savedAt": "2026-11-10T13:32:57.885Z"
+ "savedAt": "2026-11-10T13:37:31.697Z"
 }
