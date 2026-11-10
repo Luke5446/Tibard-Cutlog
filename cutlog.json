@@ -8189,7 +8189,10 @@
    "fabric": "FUS1256",
    "fabName": "WHITE SEMI INTERLINING QUALITY 6616",
    "std": 2.06,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-10",
+   "at": "2026-11-10T14:17:12.727Z",
+   "metres": 2.06
   },
   {
    "ref": "S-OH116939-Pt2",
@@ -11988,5 +11991,5 @@
    "std": 42.4
   }
  ],
- "savedAt": "2026-11-10T13:37:31.697Z"
+ "savedAt": "2026-11-10T14:17:12.727Z"
 }
