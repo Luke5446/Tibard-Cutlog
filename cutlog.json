@@ -11901,7 +11901,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 2.52,
    "extra": true
+  },
+  {
+   "ref": "WO-1804",
+   "code": "OHSTRAP05",
+   "desc": "MAROON DETACHABLE LONG BIB STRAP",
+   "qty": 34,
+   "due": "2026-11-16",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-10",
+   "customer": "",
+   "k": "WO-1804|OHSTRAP05|CO5005",
+   "fabric": "CO5005",
+   "fabName": "MAROON 3110 TRACKER COTTON 255GSM 150CM",
+   "std": 7.82
   }
  ],
- "savedAt": "2026-11-10T11:56:50.391Z"
+ "savedAt": "2026-11-10T11:59:11.473Z"
 }
