@@ -11720,7 +11720,36 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 1.03
+  },
+  {
+   "ref": "WO-1795",
+   "code": "OHCJMDORSET4201",
+   "desc": "WHITE L/S 100% COTTON DORSET CHEF JACKET SZ 42\"",
+   "qty": 10,
+   "due": "2026-11-19",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-10",
+   "customer": "",
+   "k": "WO-1795|OHCJMDORSET4201|CO4001NH3",
+   "fabric": "CO4001NH3",
+   "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
+   "std": 15.6
+  },
+  {
+   "ref": "WO-1795",
+   "code": "OHCJMDORSET4201",
+   "desc": "WHITE L/S 100% COTTON DORSET CHEF JACKET SZ 42\"",
+   "qty": 10,
+   "due": "2026-11-19",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-10",
+   "customer": "",
+   "k": "WO-1795|OHCJMDORSET4201|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white",
+   "std": 0.4,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-10T08:31:46.685Z"
+ "savedAt": "2026-11-10T09:04:52.906Z"
 }
