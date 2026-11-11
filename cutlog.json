@@ -12052,7 +12052,21 @@
    "fabric": "PC4003ELAST",
    "fabName": "BLACK 210GSM 35% COTTON/35% POLYESTER/30% T400 (9326 0190/S)",
    "std": 4.14
+  },
+  {
+   "ref": "S-TIB875079-Pt1",
+   "code": "CTT3082MM26",
+   "desc": "BLUE/WHITE GINGHAM ELASTICATED/DRAWSTRING CHEF TROUSERS WITH SIDE SEAM POCKETS SZ MEDIUM (30\"-32\") - TALL LEG",
+   "qty": 39,
+   "due": "2026-11-24",
+   "created": "2026-11-10",
+   "printedAt": "2026-11-11",
+   "customer": "Clean Linen Services Ltd",
+   "k": "S-TIB875079-Pt1|CTT3082MM26|PC2026",
+   "fabric": "PC2026",
+   "fabName": "Blue and white chef check gingham 65% polyester / 35% cotton 190 gsm (P and R) — the sheet gives no rating; 1.65 m from All Costings (the regular length is 1.60). The sheet puts PC2026 at C4; Sage has it at D3",
+   "std": 65.52
   }
  ],
- "savedAt": "2026-11-10T16:58:32.842Z"
+ "savedAt": "2026-11-11T08:17:58.854Z"
 }
