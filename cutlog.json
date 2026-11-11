@@ -12216,7 +12216,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 2.12
+  },
+  {
+   "ref": "S-TIB874667-Pt1",
+   "code": "TRGAP300547BSSHARP",
+   "desc": "Black/White Butchers Stripe Bib Apron + Sharp Chef Transfer",
+   "qty": 10,
+   "due": "2026-11-18",
+   "created": "2026-11-11",
+   "printedAt": "2026-11-11",
+   "customer": "Areas UK F&B Concessions Ltd -  Direct Sale",
+   "k": "S-TIB874667-Pt1|TRGAP300547BSSHARP|CO3047",
+   "fabric": "CO3047",
+   "fabName": "BLACK/WHITE BUTCHERS STRIPE 150CMS (255GSM 100% COT) DISCHAR",
+   "std": 5.3
   }
  ],
- "savedAt": "2026-11-11T14:54:23.137Z"
+ "savedAt": "2026-11-11T14:54:28.303Z"
 }
