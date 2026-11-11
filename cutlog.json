@@ -11794,7 +11794,12 @@
    "k": "S-TIB874922-Pt1|OHAPP3005248|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 1.03
+   "std": 1.03,
+   "cutAt": "2026-11-11",
+   "at": "2026-11-11T11:11:39.573Z",
+   "metres": 0,
+   "note": "Cut 1 Pocket.",
+   "adjustedAt": "2026-11-11T11:11:39.573Z"
   },
   {
    "ref": "WO-1795",
@@ -12144,5 +12149,5 @@
    "adjustedAt": "2026-11-11T11:01:30.477Z"
   }
  ],
- "savedAt": "2026-11-11T11:01:30.477Z"
+ "savedAt": "2026-11-11T11:11:39.573Z"
 }
