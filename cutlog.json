@@ -7248,13 +7248,7 @@
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 21.2,
-   "cutAt": "2026-10-19",
-   "at": "2026-11-11T10:09:26.562Z",
-   "backdated": "2026-11-11",
-   "metres": 10.6,
-   "qtyCut": 16,
-   "note": "cut for 16 of 32",
-   "adjustedAt": "2026-11-11T10:09:26.562Z"
+   "qtyCut": 16
   },
   {
    "ref": "WO-1553",
@@ -12149,5 +12143,5 @@
    "adjustedAt": "2026-11-11T11:01:30.477Z"
   }
  ],
- "savedAt": "2026-11-11T11:11:39.573Z"
+ "savedAt": "2026-11-11T11:32:50.837Z"
 }
