@@ -11365,7 +11365,13 @@
    "fabric": "CO5222ECO",
    "fabName": "Cocoa 100% organic cotton 260gsm X149ECO-AM307 (Tiajo) — contrast for neck strap and waist ties — rating 0.17M",
    "std": 3.4,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-11",
+   "at": "2026-11-11T16:28:58.774Z",
+   "metres": 4.08,
+   "qtyCut": 24,
+   "note": "Cut in multiples of 6",
+   "adjustedAt": "2026-11-11T16:28:58.774Z"
   },
   {
    "ref": "WO-1754",
@@ -12509,5 +12515,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-11T16:27:50.891Z"
+ "savedAt": "2026-11-11T16:28:58.774Z"
 }
