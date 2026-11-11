@@ -12124,7 +12124,10 @@
    "k": "WO-1816|OHLCJSDERBYSHIRE0601|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 8.54
+   "std": 8.54,
+   "cutAt": "2026-11-11",
+   "at": "2026-11-11T11:39:03.327Z",
+   "metres": 8.54
   },
   {
    "ref": "WO-1817",
@@ -12147,5 +12150,5 @@
    "adjustedAt": "2026-11-11T11:01:30.477Z"
   }
  ],
- "savedAt": "2026-11-11T11:35:30.453Z"
+ "savedAt": "2026-11-11T11:39:03.327Z"
 }
