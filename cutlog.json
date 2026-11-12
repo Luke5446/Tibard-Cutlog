@@ -11010,7 +11010,10 @@
    "k": "S-TIB873798-Pt1|CICJM0193LL01L4|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "White 65% polyester / 35% cotton 195 gsm (P and R)",
-   "std": 13.31
+   "std": 13.31,
+   "cutAt": "2026-11-12",
+   "at": "2026-11-12T12:48:12.885Z",
+   "metres": 13.31
   },
   {
    "ref": "S-TIB873798-Pt1",
@@ -12564,5 +12567,5 @@
    "std": 3.46
   }
  ],
- "savedAt": "2026-11-12T12:48:08.242Z"
+ "savedAt": "2026-11-12T12:48:12.885Z"
 }
