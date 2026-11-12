@@ -20120,7 +20120,15 @@
    "qty": 25,
    "desc": "NAVY POLY/COTTON 6\" LONGER BIB APRON",
    "bookedAt": "2026-11-12T16:09:25.678Z"
+  },
+  {
+   "k": "emb|WO-1811|SLCICJ0193SS03",
+   "kind": "emb",
+   "ref": "WO-1811",
+   "code": "SLCICJ0193SS03",
+   "machine": "1",
+   "allocatedAt": "2026-11-12T16:14:46.598Z"
   }
  ],
- "savedAt": "2026-11-12T16:09:26.339Z"
+ "savedAt": "2026-11-12T16:14:46.598Z"
 }
