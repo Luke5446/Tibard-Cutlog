@@ -12052,7 +12052,13 @@
    "k": "WO-1804|OHSTRAP05|CO5005",
    "fabric": "CO5005",
    "fabName": "MAROON 3110 TRACKER COTTON 255GSM 150CM",
-   "std": 7.82
+   "std": 7.82,
+   "cutAt": "2026-11-12",
+   "at": "2026-11-12T11:53:40.419Z",
+   "metres": 7.8,
+   "qtyCut": 42,
+   "note": "Garment Rating = 0.1857m",
+   "adjustedAt": "2026-11-12T11:53:40.419Z"
   },
   {
    "ref": "S-TIB875079-Pt2",
@@ -12552,5 +12558,5 @@
    "std": 3.46
   }
  ],
- "savedAt": "2026-11-12T11:17:07.445Z"
+ "savedAt": "2026-11-12T11:53:40.419Z"
 }
