@@ -10429,7 +10429,12 @@
    "k": "WO-1705|SHAAPP054203|POPLAZA03",
    "fabric": "POPLAZA03",
    "fabName": "BLACK PLAZA 100% POLYESTER 200gms 1.5M WIDTH",
-   "std": 38.4
+   "std": 38.4,
+   "cutAt": "2026-11-12",
+   "at": "2026-11-12T08:25:24.350Z",
+   "metres": 36.6,
+   "note": "Garment Rating = 0.4575m",
+   "adjustedAt": "2026-11-12T08:25:24.350Z"
   },
   {
    "ref": "WO-1712",
@@ -12531,5 +12536,5 @@
    "std": 3.46
   }
  ],
- "savedAt": "2026-11-12T08:02:46.854Z"
+ "savedAt": "2026-11-12T08:25:24.350Z"
 }
