@@ -12630,7 +12630,21 @@
    "fabName": "Leather for the neck strap — cut 62 cm x 2.5 cm (0.021 of a hide, All Costings)",
    "std": 0.17,
    "extra": true
+  },
+  {
+   "ref": "S-TIB875302-Pt1",
+   "code": "HT016064",
+   "desc": "Storm Grey Velcro Fasten Skull Cap + Amalfi Logo",
+   "qty": 4,
+   "due": "2026-11-23",
+   "created": "2026-11-12",
+   "printedAt": "2026-11-12",
+   "customer": "Big Table Group - Head Office",
+   "k": "S-TIB875302-Pt1|HT016064|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 0.92
   }
  ],
- "savedAt": "2026-11-12T16:22:27.522Z"
+ "savedAt": "2026-11-12T16:42:12.585Z"
 }
