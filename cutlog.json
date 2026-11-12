@@ -10602,7 +10602,13 @@
    "k": "S-OH117400-Pt1|OHKNAPP0630241/222HP2|CO5241ECO",
    "fabric": "CO5241ECO",
    "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
-   "std": 35.52
+   "std": 35.52,
+   "cutAt": "2026-11-12",
+   "at": "2026-11-12T10:00:27.977Z",
+   "metres": 36.94,
+   "qtyCut": 52,
+   "note": "Cut in Multiples of 4",
+   "adjustedAt": "2026-11-12T10:00:27.977Z"
   },
   {
    "ref": "WO-1719",
@@ -12536,5 +12542,5 @@
    "std": 3.46
   }
  ],
- "savedAt": "2026-11-12T08:25:24.350Z"
+ "savedAt": "2026-11-12T10:00:27.977Z"
 }
