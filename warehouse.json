@@ -19940,7 +19940,16 @@
    "qty": 29,
    "desc": "BLACK CHEFS ELASTICATED DRAWSTRING TROUSERS SZ MED (30-32\")",
    "bookedAt": "2026-11-11T16:24:55.246Z"
+  },
+  {
+   "k": "print|WO-1811",
+   "kind": "print",
+   "ref": "WO-1811",
+   "code": "SLCICJ0193SS03",
+   "pickCode": "CICJ0193SS03",
+   "qty": 7,
+   "printedAt": "2026-11-12T11:03:42.714Z"
   }
  ],
- "savedAt": "2026-11-11T16:24:55.626Z"
+ "savedAt": "2026-11-12T11:03:42.714Z"
 }
