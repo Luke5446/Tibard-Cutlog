@@ -20110,7 +20110,17 @@
    "qty": 92,
    "desc": "WHITE 100% COTTON BIB APRON",
    "bookedAt": "2026-11-12T15:27:22.864Z"
+  },
+  {
+   "k": "book|WO-1832|OHAP300515L|2026-11-12|25",
+   "kind": "book",
+   "ref": "WO-1832",
+   "code": "OHAP300515L",
+   "completed": "2026-11-12",
+   "qty": 25,
+   "desc": "NAVY POLY/COTTON 6\" LONGER BIB APRON",
+   "bookedAt": "2026-11-12T16:09:25.678Z"
   }
  ],
- "savedAt": "2026-11-12T15:27:23.646Z"
+ "savedAt": "2026-11-12T16:09:26.339Z"
 }
