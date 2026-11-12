@@ -11025,7 +11025,13 @@
    "fabric": "MESHPW31401",
    "fabName": "White 100% polyester mesh 160 cm, 150 g (PW314, Q2102) — back panel",
    "std": 3.28,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-12",
+   "at": "2026-11-12T12:48:08.242Z",
+   "metres": 3.58,
+   "qtyCut": 12,
+   "note": "cut for 12 of 11",
+   "adjustedAt": "2026-11-12T12:48:08.242Z"
   },
   {
    "ref": "WO-1736",
@@ -12558,5 +12564,5 @@
    "std": 3.46
   }
  ],
- "savedAt": "2026-11-12T11:53:40.419Z"
+ "savedAt": "2026-11-12T12:48:08.242Z"
 }
