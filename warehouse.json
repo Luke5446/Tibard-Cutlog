@@ -19949,7 +19949,18 @@
    "pickCode": "CICJ0193SS03",
    "qty": 7,
    "printedAt": "2026-11-12T11:03:42.714Z"
+  },
+  {
+   "k": "pick|WO-1811|SLCICJ0193SS03",
+   "kind": "pick",
+   "ref": "WO-1811",
+   "code": "SLCICJ0193SS03",
+   "pickCode": "CICJ0193SS03",
+   "qty": 7,
+   "due": "2026-11-16",
+   "customer": "",
+   "pickedAt": "2026-11-12T11:04:18.352Z"
   }
  ],
- "savedAt": "2026-11-12T11:03:42.714Z"
+ "savedAt": "2026-11-12T11:04:18.352Z"
 }
