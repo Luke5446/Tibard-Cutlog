@@ -12774,7 +12774,36 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.4,
    "extra": true
+  },
+  {
+   "ref": "WO-1845",
+   "code": "OHCJSMDORSET4601",
+   "desc": "WHITE S/S 100% COTTON DORSET CHEF JACKET SZ 46\"",
+   "qty": 4,
+   "due": "2026-12-15",
+   "created": "2026-11-13",
+   "printedAt": "2026-11-13",
+   "customer": "",
+   "k": "WO-1845|OHCJSMDORSET4601|CO4001NH3",
+   "fabric": "CO4001NH3",
+   "fabName": "WHITE 100% COTTON (QUAL 2302) FINISH NH3 SHADE 2001",
+   "std": 5.72
+  },
+  {
+   "ref": "WO-1845",
+   "code": "OHCJSMDORSET4601",
+   "desc": "WHITE S/S 100% COTTON DORSET CHEF JACKET SZ 46\"",
+   "qty": 4,
+   "due": "2026-12-15",
+   "created": "2026-11-13",
+   "printedAt": "2026-11-13",
+   "customer": "",
+   "k": "WO-1845|OHCJSMDORSET4601|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white",
+   "std": 0.16,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-13T08:39:41.433Z"
+ "savedAt": "2026-11-13T08:39:48.838Z"
 }
