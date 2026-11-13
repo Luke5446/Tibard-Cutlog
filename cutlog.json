@@ -12602,7 +12602,13 @@
    "fabric": "LEATHERHIDE",
    "fabName": "Leather for the neck strap — cut 62 cm x 2.5 cm (0.021 of a hide, All Costings)",
    "std": 0.17,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-13",
+   "at": "2026-11-13T10:25:15.702Z",
+   "metres": 0.65,
+   "qtyCut": 10,
+   "note": "Garment Rating = 0.065m",
+   "adjustedAt": "2026-11-13T10:25:15.702Z"
   },
   {
    "ref": "S-TIB875302-Pt1",
@@ -12933,5 +12939,5 @@
    "adjustedAt": "2026-11-13T10:24:29.841Z"
   }
  ],
- "savedAt": "2026-11-13T10:24:29.841Z"
+ "savedAt": "2026-11-13T10:25:15.702Z"
 }
