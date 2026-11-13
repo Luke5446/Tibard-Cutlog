@@ -13043,7 +13043,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.04,
    "extra": true
+  },
+  {
+   "ref": "WO-1859",
+   "code": "AP0777128",
+   "desc": "CHARCOAL RECYCLED WAIST APRON WITH EYELETS, SELF FABRIC TIES",
+   "qty": 48,
+   "due": "2026-11-16",
+   "created": "2026-11-13",
+   "printedAt": "2026-11-13",
+   "customer": "",
+   "k": "WO-1859|AP0777128|PCECO520128",
+   "fabric": "PCECO520128",
+   "fabName": "CHARCOAL 63/35 RECYCLED ORGANIC P/COTTON 260GM (RP-OC520)",
+   "std": 20.64
   }
  ],
- "savedAt": "2026-11-13T12:56:53.287Z"
+ "savedAt": "2026-11-13T12:59:11.854Z"
 }
