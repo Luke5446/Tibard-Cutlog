@@ -10382,31 +10382,16 @@
   {
    "ref": "S-OH117134-Pt1",
    "code": "OHAPP059703/DEN",
-   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES & NECK STRAP + 2 BLACK DENIM HIP POCKETS",
+   "desc": "",
    "qty": 50,
    "due": "2026-11-10",
    "created": "2026-10-29",
    "printedAt": "2026-10-29",
-   "customer": "Wright Brothers Oyster House Ltd",
+   "customer": "",
    "k": "S-OH117134-Pt1|OHAPP059703/DEN|CO5003DEN",
    "fabric": "CO5003DEN",
    "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
    "std": 34
-  },
-  {
-   "ref": "S-OH117134-Pt1",
-   "code": "OHAPP059703/DEN",
-   "desc": "BLACK DENIM CONTRAST BIB APRON WITH PLAIN BLACK TIES & NECK STRAP + 2 BLACK DENIM HIP POCKETS",
-   "qty": 50,
-   "due": "2026-11-10",
-   "created": "2026-10-29",
-   "printedAt": "2026-10-29",
-   "customer": "Wright Brothers Oyster House Ltd",
-   "k": "S-OH117134-Pt1|OHAPP059703/DEN|CO5003",
-   "fabric": "CO5003",
-   "fabName": "Black 3110 100% cotton (P and R) for the neck strap and waist ties — rating 0.17 m; the sheet gives the location as A6, Sage holds the cloth at A4",
-   "std": 8.5,
-   "extra": true
   },
   {
    "ref": "WO-1702",
@@ -12919,7 +12904,22 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 0.9,
    "extra": true
+  },
+  {
+   "ref": "S-OH117134-Pt1",
+   "code": "OHAPP059703/DEN",
+   "desc": "",
+   "qty": 50,
+   "due": "2026-11-10",
+   "created": "2026-10-29",
+   "printedAt": "2026-11-13",
+   "customer": "",
+   "k": "S-OH117134-Pt1|OHAPP059703/DEN|CO5003ECO",
+   "fabric": "CO5003ECO",
+   "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
+   "std": 8.5,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-13T10:06:27.032Z"
+ "savedAt": "2026-11-13T10:16:46.905Z"
 }
