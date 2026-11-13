@@ -12605,7 +12605,13 @@
    "k": "WO-1840|OHAP300531/222CTLC|CO6030",
    "fabric": "CO6030",
    "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
-   "std": 8.24
+   "std": 8.24,
+   "cutAt": "2026-11-13",
+   "at": "2026-11-13T11:40:56.481Z",
+   "metres": 8.2,
+   "qtyCut": 10,
+   "note": "Garment Rating = 0.82m",
+   "adjustedAt": "2026-11-13T11:40:56.481Z"
   },
   {
    "ref": "WO-1840",
@@ -12985,5 +12991,5 @@
    "std": 39.2
   }
  ],
- "savedAt": "2026-11-13T11:39:56.877Z"
+ "savedAt": "2026-11-13T11:40:56.481Z"
 }
