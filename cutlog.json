@@ -9192,7 +9192,12 @@
    "k": "S-TIB873439-Pt1|OHCJSNORFOLK4007S|PC2X13307",
    "fabric": "PC2X13307",
    "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
-   "std": 5.92
+   "std": 5.92,
+   "cutAt": "2026-11-13",
+   "at": "2026-11-13T11:24:53.962Z",
+   "metres": 5.6,
+   "note": "Garment Rating = 1.40m",
+   "adjustedAt": "2026-11-13T11:24:53.962Z"
   },
   {
    "ref": "S-TIB873439-Pt2",
@@ -12969,5 +12974,5 @@
    "std": 7.65
   }
  ],
- "savedAt": "2026-11-13T11:19:59.861Z"
+ "savedAt": "2026-11-13T11:24:53.962Z"
 }
