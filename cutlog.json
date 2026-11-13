@@ -12918,8 +12918,11 @@
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 8.5,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-13",
+   "at": "2026-11-13T10:17:36.265Z",
+   "metres": 8.5
   }
  ],
- "savedAt": "2026-11-13T10:16:46.905Z"
+ "savedAt": "2026-11-13T10:17:36.265Z"
 }
