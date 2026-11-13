@@ -12994,7 +12994,21 @@
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 39.2
+  },
+  {
+   "ref": "WO-1856",
+   "code": "OHEGOAPP065003",
+   "desc": "BLACK 100% COTTON LONG NARROW WIDTH BIB APRON + LOGO",
+   "qty": 18,
+   "due": "2026-11-27",
+   "created": "2026-11-13",
+   "printedAt": "2026-11-13",
+   "customer": "",
+   "k": "WO-1856|OHEGOAPP065003|CO5003ECO",
+   "fabric": "CO5003ECO",
+   "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
+   "std": 14.94
   }
  ],
- "savedAt": "2026-11-13T11:48:20.176Z"
+ "savedAt": "2026-11-13T12:06:43.252Z"
 }
