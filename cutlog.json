@@ -12598,21 +12598,6 @@
    "created": "2026-11-12",
    "printedAt": "2026-11-12",
    "customer": "",
-   "k": "WO-1840|OHAP300531/222CTLC|CO5222",
-   "fabric": "CO5222",
-   "fabName": "Cocoa 3110 100% cotton (P and R) — waist ties, rating 0.10 m",
-   "std": 0.8,
-   "extra": true
-  },
-  {
-   "ref": "WO-1840",
-   "code": "OHAP300531/222CTLC",
-   "desc": "NAVY/WHITE LEATHER ADJ NECK STRAP WITH CLASPS, COCOA TIES",
-   "qty": 8,
-   "due": "2026-11-16",
-   "created": "2026-11-12",
-   "printedAt": "2026-11-12",
-   "customer": "",
    "k": "WO-1840|OHAP300531/222CTLC|LEATHERHIDE",
    "fabric": "LEATHERHIDE",
    "fabName": "Leather for the neck strap — cut 62 cm x 2.5 cm (0.021 of a hide, All Costings)",
@@ -12925,7 +12910,22 @@
    "cutAt": "2026-11-13",
    "at": "2026-11-13T10:17:36.265Z",
    "metres": 8.5
+  },
+  {
+   "ref": "WO-1840",
+   "code": "OHAP300531/222CTLC",
+   "desc": "NAVY/WHITE LEATHER ADJ NECK STRAP WITH CLASPS, COCOA TIES",
+   "qty": 8,
+   "due": "2026-11-16",
+   "created": "2026-11-12",
+   "printedAt": "2026-11-12",
+   "customer": "",
+   "k": "WO-1840|OHAP300531/222CTLC|CO5222ECO",
+   "fabric": "CO5222ECO",
+   "fabName": "COCOA BROWN 100% SUSTAINABLE COTTON (X149 - AMN307)",
+   "std": 0.8,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-13T10:17:38.907Z"
+ "savedAt": "2026-11-13T10:19:00.473Z"
 }
