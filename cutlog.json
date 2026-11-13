@@ -13014,7 +13014,36 @@
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 14.94
+  },
+  {
+   "ref": "WO-1858",
+   "code": "OHCJMOXFORD5601L",
+   "desc": "WHITE L/S DETACH BUTTON OXFORD CHEF JACKET SZ 56\" - LONG",
+   "qty": 1,
+   "due": "2026-11-17",
+   "created": "2026-11-13",
+   "printedAt": "2026-11-13",
+   "customer": "",
+   "k": "WO-1858|OHCJMOXFORD5601L|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 1.91
+  },
+  {
+   "ref": "WO-1858",
+   "code": "OHCJMOXFORD5601L",
+   "desc": "WHITE L/S DETACH BUTTON OXFORD CHEF JACKET SZ 56\" - LONG",
+   "qty": 1,
+   "due": "2026-11-17",
+   "created": "2026-11-13",
+   "printedAt": "2026-11-13",
+   "customer": "",
+   "k": "WO-1858|OHCJMOXFORD5601L|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric, qual 22909, white",
+   "std": 0.04,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-13T12:26:34.593Z"
+ "savedAt": "2026-11-13T12:56:53.287Z"
 }
