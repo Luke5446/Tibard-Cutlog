@@ -8600,7 +8600,7 @@
    "code": "OHCJSMOXFORD4601L",
    "desc": "WHITE S/S DETACH BUTTON OXFORD CHEF JACKET SZ 46\" - LONG",
    "qty": 10,
-   "due": "2026-11-19",
+   "due": "2026-11-16",
    "created": "2026-10-22",
    "printedAt": "2026-10-22",
    "customer": "",
@@ -8614,7 +8614,7 @@
    "code": "OHCJSMOXFORD4601L",
    "desc": "WHITE S/S DETACH BUTTON OXFORD CHEF JACKET SZ 46\" - LONG",
    "qty": 10,
-   "due": "2026-11-19",
+   "due": "2026-11-16",
    "created": "2026-10-22",
    "printedAt": "2026-10-22",
    "customer": "",
@@ -12921,5 +12921,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-13T09:41:47.402Z"
+ "savedAt": "2026-11-13T10:06:27.032Z"
 }
