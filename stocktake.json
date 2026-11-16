@@ -711,7 +711,8 @@
    "day": "2026-11-16",
    "code": "PC2X133153",
    "abc": "A",
-   "at": "2026-11-16T08:18:45.716Z"
+   "at": "2026-11-16T08:18:45.716Z",
+   "countedK": "count|PC2X133153|2026-11-16T08:50:39.558Z"
   },
   {
    "k": "pick|2026-11-16|CO5153",
@@ -951,7 +952,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": 4
+  },
+  {
+   "k": "count|PC2X133153|2026-11-16T08:50:39.558Z",
+   "kind": "count",
+   "code": "PC2X133153",
+   "name": "KHAKI POLY/COTTON 200G (X133 COLOUR 124)",
+   "supName": "Tiajo Comercio De Texteis LDA",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:50:39.558Z",
+   "counted": 465,
+   "note": "8 rolls",
+   "why": "pick",
+   "listedOn": "2026-11-16",
+   "abc": "A",
+   "expected": {
+    "inSage": 466.75,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 466.75,
+    "sageAt": "2026-11-13"
+   },
+   "diff": -1.75
   }
  ],
- "savedAt": "2026-11-16T08:50:16.634Z"
+ "savedAt": "2026-11-16T08:50:39.892Z"
 }
