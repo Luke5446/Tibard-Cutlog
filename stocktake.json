@@ -598,7 +598,8 @@
    "day": "2026-11-02",
    "code": "PC2105",
    "abc": "C",
-   "at": "2026-11-02T14:24:06.770Z"
+   "at": "2026-11-02T14:24:06.770Z",
+   "countedK": "count|PC2105|2026-11-16T08:20:56.534Z"
   },
   {
    "k": "pick|2026-11-02|PODIAZ15",
@@ -711,7 +712,30 @@
    "code": "CO5153",
    "abc": "C",
    "at": "2026-11-16T08:18:45.717Z"
+  },
+  {
+   "k": "count|PC2105|2026-11-16T08:20:56.534Z",
+   "kind": "count",
+   "code": "PC2105",
+   "name": "MUSTARD POLY/COTTON 200G (X133 COLOUR 158)",
+   "supName": "Tiajo Comercio De Texteis LDA",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:20:56.534Z",
+   "counted": 0,
+   "note": "Eric has taken.",
+   "why": "pick",
+   "listedOn": "2026-11-02",
+   "abc": "C",
+   "expected": {
+    "inSage": 91,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 91,
+    "sageAt": "2026-11-13"
+   },
+   "diff": -91
   }
  ],
- "savedAt": "2026-11-16T08:18:45.717Z"
+ "savedAt": "2026-11-16T08:20:56.853Z"
 }
