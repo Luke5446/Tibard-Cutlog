@@ -8911,12 +8911,7 @@
    "k": "WO-1641|WAGHTM016001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 12,
-   "cutAt": "2026-11-16",
-   "at": "2026-11-16T11:32:54.364Z",
-   "metres": 8,
-   "note": "GARMENT RATING  0.90",
-   "adjustedAt": "2026-11-16T11:32:54.364Z"
+   "std": 12
   },
   {
    "ref": "WO-1641",
@@ -13187,5 +13182,5 @@
    "std": 43.52
   }
  ],
- "savedAt": "2026-11-16T11:55:21.059Z"
+ "savedAt": "2026-11-16T11:55:42.265Z"
 }
