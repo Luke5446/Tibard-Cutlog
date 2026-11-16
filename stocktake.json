@@ -672,7 +672,8 @@
    "day": "2026-11-09",
    "code": "PO7128",
    "abc": "C",
-   "at": "2026-11-09T15:37:30.477Z"
+   "at": "2026-11-09T15:37:30.477Z",
+   "countedK": "count|PO7128|2026-11-16T08:25:57.694Z"
   },
   {
    "k": "pick|2026-11-09|PC90242",
@@ -759,7 +760,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": -43
+  },
+  {
+   "k": "count|PO7128|2026-11-16T08:25:57.694Z",
+   "kind": "count",
+   "code": "PO7128",
+   "name": "CHARCOAL 4oz PU COATED POLYESTER (P910-CHARCOAL5)",
+   "supName": "",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:25:57.694Z",
+   "counted": 0,
+   "note": "Eric has taken",
+   "why": "pick",
+   "listedOn": "2026-11-09",
+   "abc": "C",
+   "expected": {
+    "inSage": 210,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 210,
+    "sageAt": "2026-11-13"
+   },
+   "diff": -210
   }
  ],
- "savedAt": "2026-11-16T08:24:14.054Z"
+ "savedAt": "2026-11-16T08:25:57.996Z"
 }
