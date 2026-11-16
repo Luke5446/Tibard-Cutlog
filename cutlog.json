@@ -6829,7 +6829,13 @@
    "k": "WO-1523|WAGHTM016007|PC2X13307",
    "fabric": "PC2X13307",
    "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
-   "std": 9
+   "std": 9,
+   "cutAt": "2026-11-16",
+   "at": "2026-11-16T11:34:17.723Z",
+   "metres": 6,
+   "qtyCut": 64,
+   "note": "Garment Rating = 0.90m",
+   "adjustedAt": "2026-11-16T11:34:17.723Z"
   },
   {
    "ref": "WO-1523",
@@ -6844,7 +6850,10 @@
    "fabric": "MESHPW31407",
    "fabName": "Red 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m",
    "std": 2.4,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-16",
+   "at": "2026-11-16T11:34:17.723Z",
+   "metres": 2.4
   },
   {
    "ref": "WO-1524",
@@ -13172,5 +13181,5 @@
    "std": 43.52
   }
  ],
- "savedAt": "2026-11-16T11:32:54.364Z"
+ "savedAt": "2026-11-16T11:34:17.723Z"
 }
