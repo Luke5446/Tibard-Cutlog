@@ -8907,7 +8907,12 @@
    "k": "WO-1641|WAGHTM016001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 12
+   "std": 12,
+   "cutAt": "2026-11-16",
+   "at": "2026-11-16T11:32:54.364Z",
+   "metres": 8,
+   "note": "GARMENT RATING  0.90",
+   "adjustedAt": "2026-11-16T11:32:54.364Z"
   },
   {
    "ref": "WO-1641",
@@ -8922,7 +8927,10 @@
    "fabric": "MESHPW31401",
    "fabName": "White 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m as the red",
    "std": 3.2,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-16",
+   "at": "2026-11-16T11:32:54.364Z",
+   "metres": 3.2
   },
   {
    "ref": "WO-1642",
@@ -13164,5 +13172,5 @@
    "std": 43.52
   }
  ],
- "savedAt": "2026-11-16T11:31:46.410Z"
+ "savedAt": "2026-11-16T11:32:54.364Z"
 }
