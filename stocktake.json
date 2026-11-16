@@ -697,7 +697,8 @@
    "day": "2026-11-11",
    "code": "PO5693",
    "abc": "C",
-   "at": "2026-11-11T10:47:21.532Z"
+   "at": "2026-11-11T10:47:21.532Z",
+   "countedK": "count|PO5693|2026-11-16T08:28:25.284Z"
   },
   {
    "k": "pick|2026-11-16|PC2X133153",
@@ -783,7 +784,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": -210
+  },
+  {
+   "k": "count|PO5693|2026-11-16T08:28:25.284Z",
+   "kind": "count",
+   "code": "PO5693",
+   "name": "GREEN/CREAM STRIPE POLYESTER (MC62272A)",
+   "supName": "Manchester Manufacturing Group Ltd",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:28:25.284Z",
+   "counted": 0,
+   "note": "Eric has taken",
+   "why": "pick",
+   "listedOn": "2026-11-11",
+   "abc": "C",
+   "expected": {
+    "inSage": 17,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 17,
+    "sageAt": "2026-11-13"
+   },
+   "diff": -17
   }
  ],
- "savedAt": "2026-11-16T08:25:57.996Z"
+ "savedAt": "2026-11-16T08:28:25.630Z"
 }
