@@ -719,7 +719,8 @@
    "day": "2026-11-16",
    "code": "CO5153",
    "abc": "C",
-   "at": "2026-11-16T08:18:45.717Z"
+   "at": "2026-11-16T08:18:45.717Z",
+   "countedK": "count|CO5153|2026-11-16T08:50:16.151Z"
   },
   {
    "k": "count|PC2105|2026-11-16T08:20:56.534Z",
@@ -927,7 +928,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": 5
+  },
+  {
+   "k": "count|CO5153|2026-11-16T08:50:16.151Z",
+   "kind": "count",
+   "code": "CO5153",
+   "name": "KHAKI TRACKER 3110 100% COTTON",
+   "supName": "P&R Fabrics Ltd",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:50:16.151Z",
+   "counted": 6,
+   "note": "1 roll",
+   "why": "pick",
+   "listedOn": "2026-11-16",
+   "abc": "C",
+   "expected": {
+    "inSage": 2,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 2,
+    "sageAt": "2026-11-13"
+   },
+   "diff": 4
   }
  ],
- "savedAt": "2026-11-16T08:50:04.195Z"
+ "savedAt": "2026-11-16T08:50:16.634Z"
 }
