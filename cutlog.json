@@ -13306,7 +13306,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 67.9
+  },
+  {
+   "ref": "WO-1876",
+   "code": "OHCTLINCOLN3803",
+   "desc": "BLACK LINCOLN SLIM FIT TROUSER SZ 38\"",
+   "qty": 7,
+   "due": "2026-11-16",
+   "created": "2026-11-16",
+   "printedAt": "2026-11-16",
+   "customer": "",
+   "k": "WO-1876|OHCTLINCOLN3803|PCFLEXI03",
+   "fabric": "PCFLEXI03",
+   "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
+   "std": 9.52
   }
  ],
- "savedAt": "2026-11-16T15:42:08.899Z"
+ "savedAt": "2026-11-16T15:43:09.249Z"
 }
