@@ -7593,7 +7593,7 @@
    "code": "OHAPP061203DEN",
    "desc": "BLACK DENIM BIB APRON, SLANT HIP PKT, LEATHER NECK STRAP",
    "qty": 10,
-   "due": "2026-11-13",
+   "due": "2026-12-15",
    "created": "2026-10-19",
    "printedAt": "2026-10-19",
    "customer": "",
@@ -13322,5 +13322,5 @@
    "std": 9.52
   }
  ],
- "savedAt": "2026-11-16T15:58:21.424Z"
+ "savedAt": "2026-11-16T15:59:12.731Z"
 }
