@@ -12917,7 +12917,7 @@
    "code": "OHCJSMSTRATFORD4401",
    "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 44\"",
    "qty": 24,
-   "due": "2026-11-09",
+   "due": "2026-12-09",
    "created": "2026-11-13",
    "printedAt": "2026-11-13",
    "customer": "",
@@ -12931,7 +12931,7 @@
    "code": "OHCJSMSTRATFORD4401",
    "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 44\"",
    "qty": 24,
-   "due": "2026-11-09",
+   "due": "2026-12-09",
    "created": "2026-11-13",
    "printedAt": "2026-11-13",
    "customer": "",
@@ -13322,5 +13322,5 @@
    "std": 9.52
   }
  ],
- "savedAt": "2026-11-16T15:49:48.294Z"
+ "savedAt": "2026-11-16T15:50:05.420Z"
 }
