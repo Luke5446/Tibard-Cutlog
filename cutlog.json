@@ -6830,7 +6830,12 @@
    "fabric": "PC2X13307",
    "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
    "std": 9,
-   "qtyCut": 64
+   "qtyCut": 64,
+   "cutAt": "2026-11-16",
+   "at": "2026-11-16T11:57:43.327Z",
+   "metres": 6,
+   "note": "Garment Rating = 0.09m",
+   "adjustedAt": "2026-11-16T11:57:43.327Z"
   },
   {
    "ref": "WO-1523",
@@ -13197,5 +13202,5 @@
    "std": 43.52
   }
  ],
- "savedAt": "2026-11-16T11:57:03.918Z"
+ "savedAt": "2026-11-16T11:57:43.327Z"
 }
