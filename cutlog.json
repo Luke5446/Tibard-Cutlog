@@ -13452,7 +13452,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 5.16
+  },
+  {
+   "ref": "WO-1893",
+   "code": "OHAPP0544241",
+   "desc": "SLATE GREY ADJ BIB APRON, SELF FABRIC TIES + POCKET",
+   "qty": 70,
+   "due": "2026-11-25",
+   "created": "2026-11-16",
+   "printedAt": "2026-11-16",
+   "customer": "",
+   "k": "WO-1893|OHAPP0544241|CO5241ECO",
+   "fabric": "CO5241ECO",
+   "fabName": "SLATE GREY 100% SUSTAINABLE COTTON (X149 - AM308)",
+   "std": 72.1
   }
  ],
- "savedAt": "2026-11-16T16:29:20.042Z"
+ "savedAt": "2026-11-16T16:30:23.448Z"
 }
