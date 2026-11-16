@@ -607,7 +607,8 @@
    "day": "2026-11-02",
    "code": "PODIAZ15",
    "abc": "C",
-   "at": "2026-11-02T14:24:06.770Z"
+   "at": "2026-11-02T14:24:06.770Z",
+   "countedK": "count|PODIAZ15|2026-11-16T08:48:36.100Z"
   },
   {
    "k": "pick|2026-11-03|PCFLEXI03",
@@ -807,7 +808,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": -17
+  },
+  {
+   "k": "count|PODIAZ15|2026-11-16T08:48:36.100Z",
+   "kind": "count",
+   "code": "PODIAZ15",
+   "name": "NAVY UNBUFFED MOLESKIN POLYESTER DIAZ  2209 220GSM",
+   "supName": "Benmar Textiles Ltd",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:48:36.100Z",
+   "counted": 39,
+   "note": "",
+   "why": "pick",
+   "listedOn": "2026-11-02",
+   "abc": "C",
+   "expected": {
+    "inSage": 39,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 39,
+    "sageAt": "2026-11-13"
+   },
+   "diff": 0
   }
  ],
- "savedAt": "2026-11-16T08:28:25.630Z"
+ "savedAt": "2026-11-16T08:48:36.596Z"
 }
