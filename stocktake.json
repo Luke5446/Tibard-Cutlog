@@ -616,7 +616,8 @@
    "day": "2026-11-03",
    "code": "PCFLEXI03",
    "abc": "A",
-   "at": "2026-11-03T09:08:01.158Z"
+   "at": "2026-11-03T09:08:01.158Z",
+   "countedK": "count|PCFLEXI03|2026-11-16T08:48:52.515Z"
   },
   {
    "k": "pick|2026-11-03|CO5003DEN",
@@ -831,7 +832,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": 0
+  },
+  {
+   "k": "count|PCFLEXI03|2026-11-16T08:48:52.515Z",
+   "kind": "count",
+   "code": "PCFLEXI03",
+   "name": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
+   "supName": "P&R Fabrics Ltd",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:48:52.515Z",
+   "counted": 476,
+   "note": "5 rolls",
+   "why": "pick",
+   "listedOn": "2026-11-03",
+   "abc": "A",
+   "expected": {
+    "inSage": 512.45,
+    "cutLive": 13,
+    "notWrittenOff": 10.4,
+    "waiting": 31.839999999999996,
+    "toHand": 489.05,
+    "sageAt": "2026-11-13"
+   },
+   "diff": -13.05
   }
  ],
- "savedAt": "2026-11-16T08:48:36.596Z"
+ "savedAt": "2026-11-16T08:48:52.862Z"
 }
