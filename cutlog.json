@@ -13086,7 +13086,21 @@
    "fabric": "CO6030",
    "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
    "std": 123.6
+  },
+  {
+   "ref": "WO-1862",
+   "code": "OHAP300531",
+   "desc": "NAVY/WHITE BUTCHERS 100% COTTON BIB APRON",
+   "qty": 124,
+   "due": "2026-11-17",
+   "created": "2026-11-16",
+   "printedAt": "2026-11-16",
+   "customer": "",
+   "k": "WO-1862|OHAP300531|CO6030",
+   "fabric": "CO6030",
+   "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
+   "std": 127.72
   }
  ],
- "savedAt": "2026-11-16T08:21:07.706Z"
+ "savedAt": "2026-11-16T08:37:17.774Z"
 }
