@@ -8982,7 +8982,13 @@
    "k": "WO-1643|WAGHTM016024|PC2024",
    "fabric": "PC2024",
    "fabName": "BOTTLE GREEN P/COTTON 195GSM 150CM",
-   "std": 15
+   "std": 15,
+   "cutAt": "2026-11-16",
+   "at": "2026-11-16T11:34:47.861Z",
+   "metres": 1015.6,
+   "qtyCut": 104,
+   "note": "Garment Rating = 0.90m",
+   "adjustedAt": "2026-11-16T11:34:47.861Z"
   },
   {
    "ref": "WO-1643",
@@ -8997,7 +9003,10 @@
    "fabric": "MESHPW31424",
    "fabName": "Bottle green 100% polyester mesh (Philip Whitfield & Sons) — oval crown, rating 0.04 m as the red",
    "std": 4,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-16",
+   "at": "2026-11-16T11:34:47.861Z",
+   "metres": 4
   },
   {
    "ref": "WO-1644",
@@ -13181,5 +13190,5 @@
    "std": 43.52
   }
  ],
- "savedAt": "2026-11-16T11:34:17.723Z"
+ "savedAt": "2026-11-16T11:34:47.861Z"
 }
