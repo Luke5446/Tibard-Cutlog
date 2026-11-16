@@ -9024,12 +9024,7 @@
    "k": "WO-1644|WAGHTM016064|PC2064ECO",
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
-   "std": 6,
-   "cutAt": "2026-11-16",
-   "at": "2026-11-16T11:35:26.500Z",
-   "metres": 4,
-   "note": "Garment Rating = 0.90m",
-   "adjustedAt": "2026-11-16T11:35:26.500Z"
+   "std": 6
   },
   {
    "ref": "WO-1644",
@@ -13202,5 +13197,5 @@
    "std": 43.52
   }
  ],
- "savedAt": "2026-11-16T11:54:25.997Z"
+ "savedAt": "2026-11-16T11:54:42.314Z"
 }
