@@ -8987,12 +8987,7 @@
    "fabric": "PC2024",
    "fabName": "BOTTLE GREEN P/COTTON 195GSM 150CM",
    "std": 15,
-   "cutAt": "2026-11-16",
-   "at": "2026-11-16T11:34:47.861Z",
-   "metres": 1015.6,
-   "qtyCut": 104,
-   "note": "Garment Rating = 0.90m",
-   "adjustedAt": "2026-11-16T11:34:47.861Z"
+   "qtyCut": 104
   },
   {
    "ref": "WO-1643",
@@ -13197,5 +13192,5 @@
    "std": 43.52
   }
  ],
- "savedAt": "2026-11-16T11:54:42.314Z"
+ "savedAt": "2026-11-16T11:55:03.095Z"
 }
