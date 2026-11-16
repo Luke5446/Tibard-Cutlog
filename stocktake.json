@@ -634,7 +634,8 @@
    "day": "2026-11-04",
    "code": "CO5007",
    "abc": "C",
-   "at": "2026-11-04T11:57:02.019Z"
+   "at": "2026-11-04T11:57:02.019Z",
+   "countedK": "count|CO5007|2026-11-16T08:49:15.880Z"
   },
   {
    "k": "pick|2026-11-04|COR4743103",
@@ -855,7 +856,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": -13.05
+  },
+  {
+   "k": "count|CO5007|2026-11-16T08:49:15.880Z",
+   "kind": "count",
+   "code": "CO5007",
+   "name": "RED 3110 COTTON 255GSM 150CM",
+   "supName": "HOWE & COATES LTD",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:49:15.880Z",
+   "counted": 41,
+   "note": "1 roll",
+   "why": "pick",
+   "listedOn": "2026-11-04",
+   "abc": "C",
+   "expected": {
+    "inSage": 41.4,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 41.4,
+    "sageAt": "2026-11-13"
+   },
+   "diff": -0.4
   }
  ],
- "savedAt": "2026-11-16T08:48:52.862Z"
+ "savedAt": "2026-11-16T08:49:16.225Z"
 }
