@@ -684,7 +684,8 @@
    "day": "2026-11-09",
    "code": "PC90242",
    "abc": "C",
-   "at": "2026-11-09T15:37:30.477Z"
+   "at": "2026-11-09T15:37:30.477Z",
+   "countedK": "count|PC90242|2026-11-16T08:49:44.363Z"
   },
   {
    "k": "pick|2026-11-11|PC6200",
@@ -879,7 +880,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": -0.4
+  },
+  {
+   "k": "count|PC90242|2026-11-16T08:49:44.363Z",
+   "kind": "count",
+   "code": "PC90242",
+   "name": "HEATHER GREY COT/POLY 55/45 300GSM(2860 VT/SK COL97BE)",
+   "supName": "Utexbel",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:49:44.363Z",
+   "counted": 23,
+   "note": "1 roll",
+   "why": "pick",
+   "listedOn": "2026-11-09",
+   "abc": "C",
+   "expected": {
+    "inSage": 23.41,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 23.41,
+    "sageAt": "2026-11-13"
+   },
+   "diff": -0.41
   }
  ],
- "savedAt": "2026-11-16T08:49:16.225Z"
+ "savedAt": "2026-11-16T08:49:44.708Z"
 }
