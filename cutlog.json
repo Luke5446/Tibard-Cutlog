@@ -12391,7 +12391,8 @@
    "k": "S-TIB874667-Pt1|TRGAP300547BSSHARP|CO3047",
    "fabric": "CO3047",
    "fabName": "BLACK/WHITE BUTCHERS STRIPE 150CMS (255GSM 100% COT) DISCHAR",
-   "std": 5.3
+   "std": 5.3,
+   "cancelledAt": "2026-11-16"
   },
   {
    "ref": "WO-1575",
@@ -13469,5 +13470,5 @@
    "std": 72.1
   }
  ],
- "savedAt": "2026-11-16T16:32:36.146Z"
+ "savedAt": "2026-11-16T16:32:40.849Z"
 }
