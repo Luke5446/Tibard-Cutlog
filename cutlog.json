@@ -13211,7 +13211,36 @@
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
    "std": 43.52
+  },
+  {
+   "ref": "WO-1875",
+   "code": "OHCJSMCHESHIRE4601",
+   "desc": "WHITE S/S CHESHIRE PRESS STUD CHEF JACKET SZ 46''",
+   "qty": 1,
+   "due": "2026-11-16",
+   "created": "2026-11-16",
+   "printedAt": "2026-11-16",
+   "customer": "",
+   "k": "WO-1875|OHCJSMCHESHIRE4601|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 1.24
+  },
+  {
+   "ref": "WO-1875",
+   "code": "OHCJSMCHESHIRE4601",
+   "desc": "WHITE S/S CHESHIRE PRESS STUD CHEF JACKET SZ 46''",
+   "qty": 1,
+   "due": "2026-11-16",
+   "created": "2026-11-16",
+   "printedAt": "2026-11-16",
+   "customer": "",
+   "k": "WO-1875|OHCJSMCHESHIRE4601|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric, qual 22909, white",
+   "std": 0.11,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-16T12:15:10.150Z"
+ "savedAt": "2026-11-16T13:18:29.658Z"
 }
