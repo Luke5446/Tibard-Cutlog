@@ -693,7 +693,8 @@
    "day": "2026-11-11",
    "code": "PC6200",
    "abc": "C",
-   "at": "2026-11-11T10:47:21.532Z"
+   "at": "2026-11-11T10:47:21.532Z",
+   "countedK": "count|PC6200|2026-11-16T08:50:03.821Z"
   },
   {
    "k": "pick|2026-11-11|PO5693",
@@ -903,7 +904,30 @@
     "sageAt": "2026-11-13"
    },
    "diff": -0.41
+  },
+  {
+   "k": "count|PC6200|2026-11-16T08:50:03.821Z",
+   "kind": "count",
+   "code": "PC6200",
+   "name": "DOVE GREY P/C 245 GSM 150 CM",
+   "supName": "P&R Fabrics Ltd",
+   "day": "2026-11-16",
+   "at": "2026-11-16T08:50:03.821Z",
+   "counted": 12,
+   "note": "3 rolls",
+   "why": "pick",
+   "listedOn": "2026-11-11",
+   "abc": "C",
+   "expected": {
+    "inSage": 7,
+    "cutLive": 0,
+    "notWrittenOff": 0,
+    "waiting": 0,
+    "toHand": 7,
+    "sageAt": "2026-11-13"
+   },
+   "diff": 5
   }
  ],
- "savedAt": "2026-11-16T08:49:44.708Z"
+ "savedAt": "2026-11-16T08:50:04.195Z"
 }
