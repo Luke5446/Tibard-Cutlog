@@ -13252,7 +13252,21 @@
    "cutAt": "2026-11-16",
    "at": "2026-11-16T13:18:49.393Z",
    "metres": 0.11
+  },
+  {
+   "ref": "WO-1877",
+   "code": "OHAPP053431",
+   "desc": "NAVY/WHITE 100% COTTON BUTCHERS ADJUST BIB APRON + PKT",
+   "qty": 4,
+   "due": "2026-11-16",
+   "created": "2026-11-16",
+   "printedAt": "2026-11-16",
+   "customer": "",
+   "k": "WO-1877|OHAPP053431|CO6030",
+   "fabric": "CO6030",
+   "fabName": "NAVY/WHITE STRIPE 3110 COTTON 255GSM 91CM WIDE - discharge",
+   "std": 2.22
   }
  ],
- "savedAt": "2026-11-16T13:21:57.772Z"
+ "savedAt": "2026-11-16T13:24:07.014Z"
 }
