@@ -20730,7 +20730,20 @@
    "qty": 4,
    "desc": "Storm Grey Velcro Fasten Skull Cap + Amalfi Logo",
    "bookedAt": "2026-11-17T17:22:18.663Z"
+  },
+  {
+   "k": "embbook|WO-1464|WAGCJM0193XS01",
+   "kind": "embbook",
+   "ref": "WO-1464",
+   "code": "WAGCJM0193XS01",
+   "baseCode": "CJM0193XS01",
+   "qty": 12,
+   "bookedAt": "2026-11-17T17:22:23.950Z",
+   "files": [
+    "EMB_WriteOff_WO-1464_2026-11-17.csv",
+    "EMB_BookIn_WO-1464_2026-11-17.csv"
+   ]
   }
  ],
- "savedAt": "2026-11-17T17:22:19.062Z"
+ "savedAt": "2026-11-17T17:22:23.950Z"
 }
