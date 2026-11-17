@@ -13496,7 +13496,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 7.2
+  },
+  {
+   "ref": "S-TIB875477-Pt1",
+   "code": "COB0002100",
+   "desc": "BLACK GENTS STUD LAB COAT SZ 100CM + MTC LOGO",
+   "qty": 6,
+   "due": "2026-11-30",
+   "created": "2026-11-17",
+   "printedAt": "2026-11-17",
+   "customer": "MTC Operations Limited",
+   "k": "S-TIB875477-Pt1|COB0002100|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 10.74
   }
  ],
- "savedAt": "2026-11-17T07:51:52.705Z"
+ "savedAt": "2026-11-17T07:51:57.783Z"
 }
