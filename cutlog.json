@@ -12262,7 +12262,10 @@
    "k": "WO-1812|OHLCTSURREY1803|PC4003ELAST",
    "fabric": "PC4003ELAST",
    "fabName": "BLACK 210GSM 35% COTTON/35% POLYESTER/30% T400 (9326 0190/S)",
-   "std": 4.14
+   "std": 4.14,
+   "cutAt": "2026-11-17",
+   "at": "2026-11-17T09:34:15.338Z",
+   "metres": 4.14
   },
   {
    "ref": "S-TIB875079-Pt1",
@@ -13639,5 +13642,5 @@
    "std": 10.08
   }
  ],
- "savedAt": "2026-11-17T08:53:35.710Z"
+ "savedAt": "2026-11-17T09:34:15.339Z"
 }
