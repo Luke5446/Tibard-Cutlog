@@ -13538,7 +13538,21 @@
    "fabric": "PC2064ECO",
    "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
    "std": 43.67
+  },
+  {
+   "ref": "WO-1895",
+   "code": "OHAPP078683",
+   "desc": "OLIVE POLY/COTTON UTILITY BIB APRON BASE",
+   "qty": 60,
+   "due": "2026-11-27",
+   "created": "2026-11-17",
+   "printedAt": "2026-11-17",
+   "customer": "",
+   "k": "WO-1895|OHAPP078683|PC2083ECO",
+   "fabric": "PC2083ECO",
+   "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
+   "std": 50.4
   }
  ],
- "savedAt": "2026-11-17T07:57:00.477Z"
+ "savedAt": "2026-11-17T08:50:14.721Z"
 }
