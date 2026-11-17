@@ -13623,7 +13623,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 15.3
+  },
+  {
+   "ref": "WO-1899",
+   "code": "OHAPP078606",
+   "desc": "BURGUNDY POLY/COTTON UTILITY BIB APRON BASE",
+   "qty": 12,
+   "due": "2026-11-23",
+   "created": "2026-11-17",
+   "printedAt": "2026-11-17",
+   "customer": "",
+   "k": "WO-1899|OHAPP078606|PC2X13306",
+   "fabric": "PC2X13306",
+   "fabName": "BURGUNDY POLY/COTTON 200G (X133 COLOUR 133)",
+   "std": 10.08
   }
  ],
- "savedAt": "2026-11-17T08:53:28.597Z"
+ "savedAt": "2026-11-17T08:53:35.710Z"
 }
