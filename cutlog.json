@@ -13524,7 +13524,21 @@
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
    "std": 49.8
+  },
+  {
+   "ref": "WO-1894",
+   "code": "OHAP3005248L",
+   "desc": "STORM GREY POLY/COTTON 6\" LONGER BIB APRON",
+   "qty": 45,
+   "due": "2026-11-17",
+   "created": "2026-11-17",
+   "printedAt": "2026-11-17",
+   "customer": "",
+   "k": "WO-1894|OHAP3005248L|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 43.67
   }
  ],
- "savedAt": "2026-11-17T07:52:46.424Z"
+ "savedAt": "2026-11-17T07:57:00.477Z"
 }
