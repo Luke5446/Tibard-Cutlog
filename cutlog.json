@@ -13162,7 +13162,10 @@
    "k": "WO-1859|AP0777128|PCECO520128",
    "fabric": "PCECO520128",
    "fabName": "CHARCOAL 63/35 RECYCLED ORGANIC P/COTTON 260GM (RP-OC520)",
-   "std": 20.64
+   "std": 20.64,
+   "cutAt": "2026-11-17",
+   "at": "2026-11-17T14:38:47.646Z",
+   "metres": 20.64
   },
   {
    "ref": "WO-0986",
@@ -13668,5 +13671,5 @@
    "std": 10.08
   }
  ],
- "savedAt": "2026-11-17T14:25:42.320Z"
+ "savedAt": "2026-11-17T14:38:47.646Z"
 }
