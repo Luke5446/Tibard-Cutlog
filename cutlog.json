@@ -13552,7 +13552,21 @@
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
    "std": 50.4
+  },
+  {
+   "ref": "WO-1896",
+   "code": "OHTAB83",
+   "desc": "OLIVE WEBBING STUDDED SHORT NECK STRAP",
+   "qty": 35,
+   "due": "2026-11-27",
+   "created": "2026-11-17",
+   "printedAt": "2026-11-17",
+   "customer": "",
+   "k": "WO-1896|OHTAB83|CMP-WEB-PU-25-83",
+   "fabric": "CMP-WEB-PU-25-83",
+   "fabName": "OLIVE 25MM POLYURETHENE WEBBING",
+   "std": 7
   }
  ],
- "savedAt": "2026-11-17T08:50:14.721Z"
+ "savedAt": "2026-11-17T08:51:01.376Z"
 }
