@@ -20752,7 +20752,20 @@
    "pickCode": "CICJ01935201",
    "qty": 6,
    "printedAt": "2026-11-18T15:49:16.747Z"
+  },
+  {
+   "k": "embbook|S-TIB874419-Pt2|TRGAP300503SHARP",
+   "kind": "embbook",
+   "ref": "S-TIB874419-Pt2",
+   "code": "TRGAP300503SHARP",
+   "baseCode": "AP300503",
+   "qty": 4,
+   "bookedAt": "2026-11-18T16:58:35.401Z",
+   "files": [
+    "EMB_WriteOff_S-TIB874419-Pt2_2026-11-18.csv",
+    "EMB_BookIn_S-TIB874419-Pt2_2026-11-18.csv"
+   ]
   }
  ],
- "savedAt": "2026-11-18T15:49:16.747Z"
+ "savedAt": "2026-11-18T16:58:35.402Z"
 }
