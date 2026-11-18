@@ -13728,7 +13728,21 @@
    "cutAt": "2026-11-17",
    "at": "2026-11-17T14:56:29.024Z",
    "metres": 1.6
+  },
+  {
+   "ref": "WO-1922",
+   "code": "OHAPP053403DEN",
+   "desc": "BLACK DENIM ADJ NECK STRAP BIB APRON + CENTRE FRONT POCKET",
+   "qty": 8,
+   "due": "2026-11-18",
+   "created": "2026-11-18",
+   "printedAt": "2026-11-18",
+   "customer": "",
+   "k": "WO-1922|OHAPP053403DEN|CO5003DEN",
+   "fabric": "CO5003DEN",
+   "fabName": "MURRAY BLACK DENIM 100% COTTON 315GM",
+   "std": 4.44
   }
  ],
- "savedAt": "2026-11-18T10:09:14.404Z"
+ "savedAt": "2026-11-18T10:29:14.106Z"
 }
