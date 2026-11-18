@@ -10945,7 +10945,10 @@
    "k": "S-OH117474-Pt1|OHAPP059668/03|PC9068",
    "fabric": "PC9068",
    "fabName": "BISCUIT COT/POLY 55/45 300GSM(2860 LAFCP300 COLF350-DES97DS)",
-   "std": 15.9
+   "std": 15.9,
+   "cutAt": "2026-11-18",
+   "at": "2026-11-18T08:13:38.548Z",
+   "metres": 15.9
   },
   {
    "ref": "S-OH117474-Pt1",
@@ -10960,7 +10963,10 @@
    "fabric": "CO5003",
    "fabName": "Black 3110 100% cotton 255 gsm (P and R) for the pocket, neck strap and waist ties — rating 0.26 m; the sheet gives the location as A5, Sage holds the cloth at A4",
    "std": 7.8,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-18",
+   "at": "2026-11-18T08:13:38.549Z",
+   "metres": 7.8
   },
   {
    "ref": "WO-1729",
@@ -13707,5 +13713,5 @@
    "metres": 1.6
   }
  ],
- "savedAt": "2026-11-17T15:43:31.879Z"
+ "savedAt": "2026-11-18T08:13:38.549Z"
 }
