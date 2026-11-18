@@ -13787,7 +13787,21 @@
    "fabric": "CO5001ECO",
    "fabName": "WHITE 100% SUSTAINABLE COTTON (X149 - AM 5)",
    "std": 20.74
+  },
+  {
+   "ref": "WO-1931",
+   "code": "OHAPP065283",
+   "desc": "OLIVE LADIES WAIST APRON WITH S/F TIES & 2 HIP POCKETS",
+   "qty": 30,
+   "due": "2026-12-16",
+   "created": "2026-11-18",
+   "printedAt": "2026-11-18",
+   "customer": "",
+   "k": "WO-1931|OHAPP065283|PC2083ECO",
+   "fabric": "PC2083ECO",
+   "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
+   "std": 16.5
   }
  ],
- "savedAt": "2026-11-18T11:49:37.846Z"
+ "savedAt": "2026-11-18T11:52:21.032Z"
 }
