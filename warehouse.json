@@ -20765,7 +20765,20 @@
     "EMB_WriteOff_S-TIB874419-Pt2_2026-11-18.csv",
     "EMB_BookIn_S-TIB874419-Pt2_2026-11-18.csv"
    ]
+  },
+  {
+   "k": "embbook|S-TIB874667-Pt2|TRGAP300547BSSHARP",
+   "kind": "embbook",
+   "ref": "S-TIB874667-Pt2",
+   "code": "TRGAP300547BSSHARP",
+   "baseCode": "AP300547BS",
+   "qty": 10,
+   "bookedAt": "2026-11-18T16:58:38.738Z",
+   "files": [
+    "EMB_WriteOff_S-TIB874667-Pt2_2026-11-18.csv",
+    "EMB_BookIn_S-TIB874667-Pt2_2026-11-18.csv"
+   ]
   }
  ],
- "savedAt": "2026-11-18T16:58:35.402Z"
+ "savedAt": "2026-11-18T16:58:38.738Z"
 }
