@@ -20743,7 +20743,16 @@
     "EMB_WriteOff_WO-1464_2026-11-17.csv",
     "EMB_BookIn_WO-1464_2026-11-17.csv"
    ]
+  },
+  {
+   "k": "print|WO-1924",
+   "kind": "print",
+   "ref": "WO-1924",
+   "code": "EGOCICJ01935201",
+   "pickCode": "CICJ01935201",
+   "qty": 6,
+   "printedAt": "2026-11-18T15:49:16.747Z"
   }
  ],
- "savedAt": "2026-11-17T17:22:23.950Z"
+ "savedAt": "2026-11-18T15:49:16.747Z"
 }
