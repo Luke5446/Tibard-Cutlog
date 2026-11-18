@@ -13756,7 +13756,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 6.72
+  },
+  {
+   "ref": "S-OH117982-Pt2",
+   "code": "OHLCJSYORK2201",
+   "desc": "WHITE LADIES S/S YORK PRESS STUD POLY/COTTON CHEF JACKET SZ 22",
+   "qty": 5,
+   "due": "2026-12-01",
+   "created": "2026-11-18",
+   "printedAt": "2026-11-18",
+   "customer": "Rosewood London",
+   "k": "S-OH117982-Pt2|OHLCJSYORK2201|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 7.85
   }
  ],
- "savedAt": "2026-11-18T11:17:18.766Z"
+ "savedAt": "2026-11-18T11:17:25.242Z"
 }
