@@ -10213,7 +10213,10 @@
    "k": "S-TIB873858-Pt1|CTT3082XXL03|PC2028",
    "fabric": "PC2028",
    "fabName": "BLACK/WHITE CHECK GINGHAM P/C 190GSM 150CM",
-   "std": 18.48
+   "std": 18.48,
+   "cutAt": "2026-11-18",
+   "at": "2026-11-18T09:12:45.577Z",
+   "metres": 18.48
   },
   {
    "ref": "S-TIB873940-Pt1",
@@ -13716,5 +13719,5 @@
    "metres": 1.6
   }
  ],
- "savedAt": "2026-11-18T09:11:52.440Z"
+ "savedAt": "2026-11-18T09:12:45.577Z"
 }
