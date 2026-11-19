@@ -13943,7 +13943,21 @@
    "fabName": "Black 3110 100% cotton 255 gsm (P and R) for the pocket, neck strap and waist ties — rating 0.26 m; the sheet gives the location as A5, Sage holds the cloth at A4",
    "std": 3.9,
    "extra": true
+  },
+  {
+   "ref": "WO-1941",
+   "code": "OHCJMSTRATFORD5201",
+   "desc": "WHITE L/S STRATFORD FLY FRONT CHEF JACKET SZ 52\"",
+   "qty": 2,
+   "due": "2026-11-19",
+   "created": "2026-11-19",
+   "printedAt": "2026-11-19",
+   "customer": "",
+   "k": "WO-1941|OHCJMSTRATFORD5201|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 3.28
   }
  ],
- "savedAt": "2026-11-19T08:03:21.030Z"
+ "savedAt": "2026-11-19T08:08:19.352Z"
 }
