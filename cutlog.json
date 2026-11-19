@@ -12625,7 +12625,7 @@
    "code": "OHCJSMOXFORD5001",
    "desc": "WHITE S/S DETACH BUTTON OXFORD CHEF JACKET SZ 50\"",
    "qty": 10,
-   "due": "2026-12-11",
+   "due": "2026-11-23",
    "created": "2026-11-11",
    "printedAt": "2026-11-11",
    "customer": "",
@@ -12639,7 +12639,7 @@
    "code": "OHCJSMOXFORD5001",
    "desc": "WHITE S/S DETACH BUTTON OXFORD CHEF JACKET SZ 50\"",
    "qty": 10,
-   "due": "2026-12-11",
+   "due": "2026-11-23",
    "created": "2026-11-11",
    "printedAt": "2026-11-11",
    "customer": "",
@@ -14009,5 +14009,5 @@
    "metres": 0.4
   }
  ],
- "savedAt": "2026-11-19T10:03:39.776Z"
+ "savedAt": "2026-11-19T10:28:06.825Z"
 }
