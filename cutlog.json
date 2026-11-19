@@ -10478,7 +10478,13 @@
    "k": "S-TIB873357-Pt1|TI003109|PC2109",
    "fabric": "PC2109",
    "fabName": "CORAL POLY/COTTON 200G (X133 COLOUR 161)",
-   "std": 24.6
+   "std": 24.6,
+   "cutAt": "2026-11-19",
+   "at": "2026-11-19T11:07:34.642Z",
+   "metres": 25.02,
+   "qtyCut": 120,
+   "note": "22.0 MTS  USED",
+   "adjustedAt": "2026-11-19T11:07:34.642Z"
   },
   {
    "ref": "S-OH117134-Pt1",
@@ -14038,5 +14044,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-19T10:35:55.472Z"
+ "savedAt": "2026-11-19T11:07:34.642Z"
 }
