@@ -14048,7 +14048,21 @@
    "cutAt": "2026-11-19",
    "at": "2026-11-19T11:53:08.577Z",
    "metres": 0.8
+  },
+  {
+   "ref": "WO-1956",
+   "code": "OHSTRAP15",
+   "desc": "NAVY DETACHABLE LONG BIB STRAP",
+   "qty": 150,
+   "due": "2026-11-26",
+   "created": "2026-11-19",
+   "printedAt": "2026-11-19",
+   "customer": "",
+   "k": "WO-1956|OHSTRAP15|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 34.5
   }
  ],
- "savedAt": "2026-11-19T11:53:08.577Z"
+ "savedAt": "2026-11-19T14:46:43.339Z"
 }
