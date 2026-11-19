@@ -21028,7 +21028,18 @@
    "qty": 9,
    "desc": "RED NORFOLK S/S PLASTIC BUTTON PLACKET 50\" - Special",
    "bookedAt": "2026-11-18T17:04:59.842Z"
+  },
+  {
+   "k": "pick|WO-1940|EGOCICJ0193LL01",
+   "kind": "pick",
+   "ref": "WO-1940",
+   "code": "EGOCICJ0193LL01",
+   "pickCode": "CICJ0193LL01",
+   "qty": 6,
+   "due": "2026-11-19",
+   "customer": "",
+   "pickedAt": "2026-11-19T10:15:46.692Z"
   }
  ],
- "savedAt": "2026-11-18T17:05:00.216Z"
+ "savedAt": "2026-11-19T10:15:46.692Z"
 }
