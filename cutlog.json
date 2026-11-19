@@ -13885,7 +13885,36 @@
    "cutAt": "2026-11-18",
    "at": "2026-11-18T12:03:33.308Z",
    "metres": 0.04
+  },
+  {
+   "ref": "S-OH117474-Pt2",
+   "code": "OHAPP059668/03",
+   "desc": "BISCUIT BIB APRON WITH BLACK CONTRAST WAIST TIES & NECK STRAP + 1 CENTRE POCKET & 2 PEN DIVIDES",
+   "qty": 15,
+   "due": "2026-11-20",
+   "created": "2026-11-19",
+   "printedAt": "2026-11-19",
+   "customer": "Mapp Developments Ltd T/A The Peacock at Barlow",
+   "k": "S-OH117474-Pt2|OHAPP059668/03|PC9068",
+   "fabric": "PC9068",
+   "fabName": "BISCUIT COT/POLY 55/45 300GSM(2860 LAFCP300 COLF350-DES97DS)",
+   "std": 7.95
+  },
+  {
+   "ref": "S-OH117474-Pt2",
+   "code": "OHAPP059668/03",
+   "desc": "BISCUIT BIB APRON WITH BLACK CONTRAST WAIST TIES & NECK STRAP + 1 CENTRE POCKET & 2 PEN DIVIDES",
+   "qty": 15,
+   "due": "2026-11-20",
+   "created": "2026-11-19",
+   "printedAt": "2026-11-19",
+   "customer": "Mapp Developments Ltd T/A The Peacock at Barlow",
+   "k": "S-OH117474-Pt2|OHAPP059668/03|CO5003",
+   "fabric": "CO5003",
+   "fabName": "Black 3110 100% cotton 255 gsm (P and R) for the pocket, neck strap and waist ties — rating 0.26 m; the sheet gives the location as A5, Sage holds the cloth at A4",
+   "std": 3.9,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-18T16:52:36.635Z"
+ "savedAt": "2026-11-19T08:03:13.093Z"
 }
