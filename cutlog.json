@@ -14160,7 +14160,21 @@
    "fabric": "PC2003ECO",
    "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
    "std": 53.4
+  },
+  {
+   "ref": "WO-1963",
+   "code": "OHCTLANCASHIREXXL03",
+   "desc": "BLACK LANCASHIRE TROUSERS SZ XXL",
+   "qty": 10,
+   "due": "2026-12-17",
+   "created": "2026-11-19",
+   "printedAt": "2026-11-19",
+   "customer": "",
+   "k": "WO-1963|OHCTLANCASHIREXXL03|PC2003ECO",
+   "fabric": "PC2003ECO",
+   "fabName": "BLACK SUSTAINABLE 65/35 POLY/COTTON (X133 - AM125)",
+   "std": 17.8
   }
  ],
- "savedAt": "2026-11-19T15:45:02.450Z"
+ "savedAt": "2026-11-19T15:45:11.575Z"
 }
