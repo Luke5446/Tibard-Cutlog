@@ -14062,7 +14062,21 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 34.5
+  },
+  {
+   "ref": "WO-1957",
+   "code": "OHAPP053515/DS",
+   "desc": "NAVY CROSSOVER BIB APRON BASE + 2 HIP POCKETS",
+   "qty": 140,
+   "due": "2026-11-26",
+   "created": "2026-11-19",
+   "printedAt": "2026-11-19",
+   "customer": "",
+   "k": "WO-1957|OHAPP053515/DS|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 77
   }
  ],
- "savedAt": "2026-11-19T14:46:43.339Z"
+ "savedAt": "2026-11-19T14:47:30.677Z"
 }
