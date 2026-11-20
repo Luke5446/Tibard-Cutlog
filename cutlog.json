@@ -12236,7 +12236,12 @@
    "k": "S-TIB875079-Pt2|CT30825626|PC2026",
    "fabric": "PC2026",
    "fabName": "BLUE/WHITE GINGHAM CHECK P/C 190GSM 150CM WIDE",
-   "std": 21.19
+   "std": 21.19,
+   "cutAt": "2026-11-20",
+   "at": "2026-11-20T11:24:18.392Z",
+   "metres": 27,
+   "note": "27.0 MTS USED",
+   "adjustedAt": "2026-11-20T11:24:18.392Z"
   },
   {
    "ref": "WO-1806",
@@ -14332,5 +14337,5 @@
    "metres": 1.17
   }
  ],
- "savedAt": "2026-11-20T11:22:59.973Z"
+ "savedAt": "2026-11-20T11:24:18.392Z"
 }
