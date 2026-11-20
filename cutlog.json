@@ -13935,7 +13935,10 @@
    "fabric": "CO5003",
    "fabName": "Black 3110 100% cotton 255 gsm (P and R) for the pocket, neck strap and waist ties — rating 0.26 m; the sheet gives the location as A5, Sage holds the cloth at A4",
    "std": 3.9,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-20",
+   "at": "2026-11-20T10:17:44.721Z",
+   "metres": 3.9
   },
   {
    "ref": "S-OH117474-Pt3",
@@ -14320,5 +14323,5 @@
    "metres": 1.17
   }
  ],
- "savedAt": "2026-11-20T10:17:37.510Z"
+ "savedAt": "2026-11-20T10:17:44.721Z"
 }
