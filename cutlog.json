@@ -12319,7 +12319,10 @@
    "k": "S-TIB875079-Pt1|CTT3082MM26|PC2026",
    "fabric": "PC2026",
    "fabName": "Blue and white chef check gingham 65% polyester / 35% cotton 190 gsm (P and R) — the sheet gives no rating; 1.65 m from All Costings (the regular length is 1.60). The sheet puts PC2026 at C4; Sage has it at D3",
-   "std": 65.52
+   "std": 65.52,
+   "cutAt": "2026-11-20",
+   "at": "2026-11-20T11:22:59.973Z",
+   "metres": 65.52
   },
   {
    "ref": "WO-1815",
@@ -14329,5 +14332,5 @@
    "metres": 1.17
   }
  ],
- "savedAt": "2026-11-20T10:17:58.207Z"
+ "savedAt": "2026-11-20T11:22:59.973Z"
 }
