@@ -14247,7 +14247,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.1,
    "extra": true
+  },
+  {
+   "ref": "WO-1968",
+   "code": "OHAPP065115",
+   "desc": "NAVY LADIES ADJUSTABLE BIB APRON, S/F TIES + POCKET",
+   "qty": 20,
+   "due": "2026-11-25",
+   "created": "2026-11-20",
+   "printedAt": "2026-11-20",
+   "customer": "",
+   "k": "WO-1968|OHAPP065115|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 13.25
   }
  ],
- "savedAt": "2026-11-20T08:27:32.613Z"
+ "savedAt": "2026-11-20T08:33:19.690Z"
 }
