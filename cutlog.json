@@ -14339,7 +14339,13 @@
    "k": "WO-1969|OHHTM016001|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 1.3
+   "std": 1.3,
+   "cutAt": "2026-11-23",
+   "at": "2026-11-23T13:47:55.474Z",
+   "metres": 2.08,
+   "qtyCut": 16,
+   "note": "16 CUT",
+   "adjustedAt": "2026-11-23T13:47:55.474Z"
   },
   {
    "ref": "WO-1970",
@@ -14446,5 +14452,5 @@
    "std": 16.8
   }
  ],
- "savedAt": "2026-11-23T13:29:22.748Z"
+ "savedAt": "2026-11-23T13:47:55.474Z"
 }
