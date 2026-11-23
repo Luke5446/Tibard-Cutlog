@@ -14384,7 +14384,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 11.84
+  },
+  {
+   "ref": "S-OH117874-Pt1",
+   "code": "OHCJ000244",
+   "desc": "WHITE UNISEX S/S BUTTON FASTENED DEVON CHEF JACKET SZ 44\"",
+   "qty": 3,
+   "due": "2026-12-03",
+   "created": "2026-11-19",
+   "printedAt": "2026-11-23",
+   "customer": "Cripps Stone Barn",
+   "k": "S-OH117874-Pt1|OHCJ000244|PC14001",
+   "fabric": "PC14001",
+   "fabName": "White cooltex 1 poly cotton 50% 50%",
+   "std": 3.57
   }
  ],
- "savedAt": "2026-11-23T10:15:34.814Z"
+ "savedAt": "2026-11-23T10:57:09.825Z"
 }
