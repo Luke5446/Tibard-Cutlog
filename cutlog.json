@@ -14410,7 +14410,21 @@
    "fabric": "PC14001",
    "fabName": "White cooltex 1 poly cotton 50% 50%",
    "std": 3.57
+  },
+  {
+   "ref": "S-TIB873940-Pt3",
+   "code": "COB0003108",
+   "desc": "NAVY GENTS LAB COAT SZ 108CM + MTC TRAINING LOGOS",
+   "qty": 2,
+   "due": "2026-11-30",
+   "created": "2026-11-23",
+   "printedAt": "2026-11-23",
+   "customer": "MTC Operations Limited",
+   "k": "S-TIB873940-Pt3|COB0003108|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 3.8
   }
  ],
- "savedAt": "2026-11-23T11:34:13.066Z"
+ "savedAt": "2026-11-23T12:07:14.700Z"
 }
