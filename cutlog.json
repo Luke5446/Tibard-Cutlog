@@ -14450,7 +14450,21 @@
    "fabric": "PC2083ECO",
    "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
    "std": 16.8
+  },
+  {
+   "ref": "S-TIB873940-Pt4",
+   "code": "COB0003116",
+   "desc": "NAVY GENTS LAB COAT SZ 116CM + MTC TRAINING LOGOS",
+   "qty": 1,
+   "due": "2026-11-30",
+   "created": "2026-11-23",
+   "printedAt": "2026-11-23",
+   "customer": "MTC Operations Limited",
+   "k": "S-TIB873940-Pt4|COB0003116|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 2.11
   }
  ],
- "savedAt": "2026-11-23T13:47:55.474Z"
+ "savedAt": "2026-11-23T13:57:36.107Z"
 }
