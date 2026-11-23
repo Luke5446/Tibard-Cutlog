@@ -14427,7 +14427,21 @@
    "fabric": "PC2015ECO",
    "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
    "std": 3.8
+  },
+  {
+   "ref": "WO-1982",
+   "code": "OHAPP078683",
+   "desc": "OLIVE POLY/COTTON UTILITY BIB APRON BASE",
+   "qty": 20,
+   "due": "2026-11-27",
+   "created": "2026-11-23",
+   "printedAt": "2026-11-23",
+   "customer": "",
+   "k": "WO-1982|OHAPP078683|PC2083ECO",
+   "fabric": "PC2083ECO",
+   "fabName": "OLIVE GREEN SUSTAINABLE 65/35 POLY/COTTON (X133 - AM298)",
+   "std": 16.8
   }
  ],
- "savedAt": "2026-11-23T12:38:02.871Z"
+ "savedAt": "2026-11-23T13:17:55.981Z"
 }
