@@ -14610,7 +14610,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.1,
    "extra": true
+  },
+  {
+   "ref": "WO-1996",
+   "code": "OHAPP054415",
+   "desc": "NAVY 100% COTTON ADJ BIB APRON, SELF FABRIC TIES + POCKET",
+   "qty": 100,
+   "due": "2026-12-08",
+   "created": "2026-11-23",
+   "printedAt": "2026-11-23",
+   "customer": "",
+   "k": "WO-1996|OHAPP054415|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 103
   }
  ],
- "savedAt": "2026-11-23T15:14:30.028Z"
+ "savedAt": "2026-11-23T15:15:25.862Z"
 }
