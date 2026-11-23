@@ -14630,7 +14630,21 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 103
+  },
+  {
+   "ref": "WO-1994",
+   "code": "OHAPP063015HP1S",
+   "desc": "NAVY ADJUSTABLE BIB APRON WITH LEATHER STRAP + 1 HIP POCKET",
+   "qty": 64,
+   "due": "2026-12-03",
+   "created": "2026-11-23",
+   "printedAt": "2026-11-23",
+   "customer": "",
+   "k": "WO-1994|OHAPP063015HP1S|CO5015ECO",
+   "fabric": "CO5015ECO",
+   "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
+   "std": 42.08
   }
  ],
- "savedAt": "2026-11-23T15:33:34.430Z"
+ "savedAt": "2026-11-23T16:56:11.127Z"
 }
