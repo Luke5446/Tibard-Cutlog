@@ -13864,7 +13864,10 @@
    "k": "S-OH117982-Pt2|OHLCJSYORK2201|PC2001ECO",
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
-   "std": 7.85
+   "std": 7.85,
+   "cutAt": "2026-11-24",
+   "at": "2026-11-24T09:23:31.489Z",
+   "metres": 7.85
   },
   {
    "ref": "WO-1930",
@@ -14881,5 +14884,5 @@
    "extra": true
   }
  ],
- "savedAt": "2026-11-24T09:16:10.495Z"
+ "savedAt": "2026-11-24T09:23:31.489Z"
 }
