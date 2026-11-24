@@ -14999,7 +14999,36 @@
    "fabName": "Coolmax mesh fabric qual 22909 white",
    "std": 0.6,
    "extra": true
+  },
+  {
+   "ref": "WO-2018",
+   "code": "OHHTM016015",
+   "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
+   "qty": 100,
+   "due": "2026-12-22",
+   "created": "2026-11-24",
+   "printedAt": "2026-11-24",
+   "customer": "",
+   "k": "WO-2018|OHHTM016015|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 8.52
+  },
+  {
+   "ref": "WO-2018",
+   "code": "OHHTM016015",
+   "desc": "NAVY BLACK MESH VELCRO FASTEN ONE SIZE SKULL CAP",
+   "qty": 100,
+   "due": "2026-12-22",
+   "created": "2026-11-24",
+   "printedAt": "2026-11-24",
+   "customer": "",
+   "k": "WO-2018|OHHTM016015|MESHPW31415",
+   "fabric": "MESHPW31415",
+   "fabName": "Navy mesh 100% polyester (Philip Whitfield & Sons)",
+   "std": 3.45,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-24T14:17:10.324Z"
+ "savedAt": "2026-11-24T14:18:59.618Z"
 }
