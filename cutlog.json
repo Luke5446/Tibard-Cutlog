@@ -13125,7 +13125,13 @@
    "k": "WO-1849|OHCJSMSTRATFORD4801|PC14001",
    "fabric": "PC14001",
    "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
-   "std": 3.77
+   "std": 3.77,
+   "cutAt": "2026-11-24",
+   "at": "2026-11-24T15:51:53.872Z",
+   "metres": 27.65,
+   "qtyCut": 22,
+   "note": "22 CUT  27.50 USED",
+   "adjustedAt": "2026-11-24T15:51:53.872Z"
   },
   {
    "ref": "WO-1849",
@@ -13140,7 +13146,13 @@
    "fabric": "MESH2290901",
    "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
    "std": 0.27,
-   "extra": true
+   "extra": true,
+   "cutAt": "2026-11-24",
+   "at": "2026-11-24T15:51:53.873Z",
+   "metres": 1.98,
+   "qtyCut": 22,
+   "note": "22 CUT",
+   "adjustedAt": "2026-11-24T15:51:53.873Z"
   },
   {
    "ref": "WO-1850",
@@ -15062,5 +15074,5 @@
    "std": 15
   }
  ],
- "savedAt": "2026-11-24T15:28:13.910Z"
+ "savedAt": "2026-11-24T15:51:53.873Z"
 }
