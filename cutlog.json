@@ -14716,7 +14716,36 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 1.1,
    "extra": true
+  },
+  {
+   "ref": "WO-2002",
+   "code": "OHCJMCHESHIRE4801",
+   "desc": "WHITE L/S CHESHIRE PRESS STUD CHEF JACKET SZ 48''",
+   "qty": 40,
+   "due": "2026-12-10",
+   "created": "2026-11-24",
+   "printedAt": "2026-11-24",
+   "customer": "",
+   "k": "WO-2002|OHCJMCHESHIRE4801|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 59.6
+  },
+  {
+   "ref": "WO-2002",
+   "code": "OHCJMCHESHIRE4801",
+   "desc": "WHITE L/S CHESHIRE PRESS STUD CHEF JACKET SZ 48''",
+   "qty": 40,
+   "due": "2026-12-10",
+   "created": "2026-11-24",
+   "printedAt": "2026-11-24",
+   "customer": "",
+   "k": "WO-2002|OHCJMCHESHIRE4801|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric, qual 22909, white",
+   "std": 4.4,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-24T08:22:04.709Z"
+ "savedAt": "2026-11-24T08:22:09.844Z"
 }
