@@ -14891,7 +14891,21 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 2.2,
    "extra": true
+  },
+  {
+   "ref": "WO-2005",
+   "code": "OHLCJYORK1801",
+   "desc": "WHITE LADIES L/S YORK PRESS STUD CHEF JACKET SZ 18",
+   "qty": 2,
+   "due": "2026-11-24",
+   "created": "2026-11-24",
+   "printedAt": "2026-11-24",
+   "customer": "",
+   "k": "WO-2005|OHLCJYORK1801|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 3.56
   }
  ],
- "savedAt": "2026-11-24T09:38:50.932Z"
+ "savedAt": "2026-11-24T09:59:02.049Z"
 }
