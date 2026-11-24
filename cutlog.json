@@ -14644,7 +14644,21 @@
    "fabric": "CO5015ECO",
    "fabName": "NAVY 100% SUSTAINABLE COTTON (X149 - AM303)",
    "std": 42.08
+  },
+  {
+   "ref": "S-OH118161-Pt1",
+   "code": "OHSTRAP07",
+   "desc": "RED 100% COTTON DETACHABLE LONG BIB STRAP",
+   "qty": 25,
+   "due": "2026-12-07",
+   "created": "2026-11-24",
+   "printedAt": "2026-11-24",
+   "customer": "Your Custom Clothing",
+   "k": "S-OH118161-Pt1|OHSTRAP07|CO5007",
+   "fabric": "CO5007",
+   "fabName": "RED 3110 COTTON 255GSM 150CM",
+   "std": 5.75
   }
  ],
- "savedAt": "2026-11-24T07:54:42.693Z"
+ "savedAt": "2026-11-24T07:58:54.180Z"
 }
