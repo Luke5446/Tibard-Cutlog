@@ -14938,7 +14938,21 @@
    "cutAt": "2026-11-24",
    "at": "2026-11-24T10:06:37.110Z",
    "metres": 3.56
+  },
+  {
+   "ref": "WO-2014",
+   "code": "OHLCJSYORK1401",
+   "desc": "WHITE LADIES S/S YORK PRESS STUD CHEF JACKET SZ 14",
+   "qty": 15,
+   "due": "2026-12-01",
+   "created": "2026-11-24",
+   "printedAt": "2026-11-24",
+   "customer": "",
+   "k": "WO-2014|OHLCJSYORK1401|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 22.2
   }
  ],
- "savedAt": "2026-11-24T12:35:59.590Z"
+ "savedAt": "2026-11-24T13:17:25.542Z"
 }
