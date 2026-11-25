@@ -21839,7 +21839,16 @@
    "qty": 10,
    "desc": "WHITE L/S CHESHIRE PRESS STUD CHEF JACKET SZ 38''",
    "bookedAt": "2026-11-24T16:14:02.021Z"
+  },
+  {
+   "k": "print|WO-1925",
+   "kind": "print",
+   "ref": "WO-1925",
+   "code": "EGOCICJ0193LL01",
+   "pickCode": "CICJ0193LL01",
+   "qty": 24,
+   "printedAt": "2026-11-25T11:25:04.054Z"
   }
  ],
- "savedAt": "2026-11-24T16:14:03.440Z"
+ "savedAt": "2026-11-25T11:25:04.055Z"
 }
