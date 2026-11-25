@@ -15344,7 +15344,36 @@
    "fabric": "POPLAZA03",
    "fabName": "BLACK PLAZA 100% POLYESTER 200gms 1.5M WIDTH",
    "std": 38.4
+  },
+  {
+   "ref": "WO-2039",
+   "code": "OHCJSMSTRATFORD5201",
+   "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 52\"",
+   "qty": 10,
+   "due": "2026-11-30",
+   "created": "2026-11-25",
+   "printedAt": "2026-11-25",
+   "customer": "",
+   "k": "WO-2039|OHCJSMSTRATFORD5201|PC14001",
+   "fabric": "PC14001",
+   "fabName": "WHITE COOLTEX 1 - 215GSM 50/50 poly cotton - SHADE 002",
+   "std": 14.8
+  },
+  {
+   "ref": "WO-2039",
+   "code": "OHCJSMSTRATFORD5201",
+   "desc": "WHITE S/S STRATFORD FLY FRONT CHEF JACKET SZ 52\"",
+   "qty": 10,
+   "due": "2026-11-30",
+   "created": "2026-11-25",
+   "printedAt": "2026-11-25",
+   "customer": "",
+   "k": "WO-2039|OHCJSMSTRATFORD5201|MESH2290901",
+   "fabric": "MESH2290901",
+   "fabName": "Coolmax mesh fabric qual 22909 white cut side panel X 1 pair + cut underarm panel X 1 pair",
+   "std": 0.9,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-25T15:53:35.561Z"
+ "savedAt": "2026-11-25T15:53:40.394Z"
 }
