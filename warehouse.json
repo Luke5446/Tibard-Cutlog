@@ -21950,7 +21950,17 @@
    "due": "2026-12-01",
    "customer": "",
    "pickedAt": "2026-11-25T13:59:54.471Z"
+  },
+  {
+   "k": "book|S-TIB873357-Pt1|TI003109|2026-11-25|120",
+   "kind": "book",
+   "ref": "S-TIB873357-Pt1",
+   "code": "TI003109",
+   "completed": "2026-11-25",
+   "qty": 120,
+   "desc": "CORAL COSY CLUB TIE",
+   "bookedAt": "2026-11-25T14:02:25.410Z"
   }
  ],
- "savedAt": "2026-11-25T13:59:54.471Z"
+ "savedAt": "2026-11-25T14:02:26.174Z"
 }
