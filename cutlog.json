@@ -15327,7 +15327,21 @@
    "fabric": "CO7003",
    "fabName": "BLACK 3111 COTTON 305GSM 150CM",
    "std": 7.28
+  },
+  {
+   "ref": "WO-2037",
+   "code": "SHAAPP054203",
+   "desc": "BLACK 100% POLYESTER BIB APRON",
+   "qty": 80,
+   "due": "2026-12-21",
+   "created": "2026-11-25",
+   "printedAt": "2026-11-25",
+   "customer": "",
+   "k": "WO-2037|SHAAPP054203|POPLAZA03",
+   "fabric": "POPLAZA03",
+   "fabName": "BLACK PLAZA 100% POLYESTER 200gms 1.5M WIDTH",
+   "std": 38.4
   }
  ],
- "savedAt": "2026-11-25T15:30:34.185Z"
+ "savedAt": "2026-11-25T15:52:07.689Z"
 }
