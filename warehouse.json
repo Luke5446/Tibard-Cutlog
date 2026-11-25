@@ -21848,7 +21848,16 @@
    "pickCode": "CICJ0193LL01",
    "qty": 24,
    "printedAt": "2026-11-25T11:25:04.054Z"
+  },
+  {
+   "k": "print|WO-1926",
+   "kind": "print",
+   "ref": "WO-1926",
+   "code": "EGOCICJ0193MM01",
+   "pickCode": "CICJ0193MM01",
+   "qty": 30,
+   "printedAt": "2026-11-25T11:25:11.675Z"
   }
  ],
- "savedAt": "2026-11-25T11:25:04.055Z"
+ "savedAt": "2026-11-25T11:25:11.675Z"
 }
