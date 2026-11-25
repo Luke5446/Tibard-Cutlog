@@ -15272,7 +15272,36 @@
    "fabName": "Coolmax mesh fabric, qual 22909, white",
    "std": 0.4,
    "extra": true
+  },
+  {
+   "ref": "S-OH118245-Pt2",
+   "code": "OHCJSMOXFORD4215",
+   "desc": "NAVY S/S OXFORD DETACH BUTTON POLY/COTTON CHEF JACKET SZ 42\"",
+   "qty": 3,
+   "due": "2026-12-08",
+   "created": "2026-11-25",
+   "printedAt": "2026-11-25",
+   "customer": "Essential Cuisine Ltd",
+   "k": "S-OH118245-Pt2|OHCJSMOXFORD4215|PC2015ECO",
+   "fabric": "PC2015ECO",
+   "fabName": "NAVY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM297)",
+   "std": 4.02
+  },
+  {
+   "ref": "S-OH118245-Pt2",
+   "code": "OHCJSMOXFORD4215",
+   "desc": "NAVY S/S OXFORD DETACH BUTTON POLY/COTTON CHEF JACKET SZ 42\"",
+   "qty": 3,
+   "due": "2026-12-08",
+   "created": "2026-11-25",
+   "printedAt": "2026-11-25",
+   "customer": "Essential Cuisine Ltd",
+   "k": "S-OH118245-Pt2|OHCJSMOXFORD4215|MESHPW31415",
+   "fabric": "MESHPW31415",
+   "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
+   "std": 0.12,
+   "extra": true
   }
  ],
- "savedAt": "2026-11-25T12:29:32.502Z"
+ "savedAt": "2026-11-25T13:32:39.472Z"
 }
