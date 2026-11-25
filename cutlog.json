@@ -15313,7 +15313,21 @@
    "fabName": "NAVY 100% POLYESTER MESH 160CM (PW314)",
    "std": 0.12,
    "extra": true
+  },
+  {
+   "ref": "WO-2027",
+   "code": "LRGL0203",
+   "desc": "BLACK H/WEIGHT SERVER CLOTH HEMMED AT 4 SIDES, 24\" X 15\"",
+   "qty": 26,
+   "due": "2026-11-26",
+   "created": "2026-11-25",
+   "printedAt": "2026-11-25",
+   "customer": "",
+   "k": "WO-2027|LRGL0203|CO7003",
+   "fabric": "CO7003",
+   "fabName": "BLACK 3111 COTTON 305GSM 150CM",
+   "std": 7.28
   }
  ],
- "savedAt": "2026-11-25T14:14:27.301Z"
+ "savedAt": "2026-11-25T15:30:34.185Z"
 }
