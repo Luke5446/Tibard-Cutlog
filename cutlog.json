@@ -15072,7 +15072,21 @@
    "fabric": "PC2001ECO",
    "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
    "std": 15
+  },
+  {
+   "ref": "S-TIB875943-Pt1",
+   "code": "CT3082XS28",
+   "desc": "BLACK/WHITE GINGHAM ELASTICATED/DRAWSTRING CHEF TROUSERS WITH SIDE SEAM POCKETS SZ X-SMALL (22\"-24\")",
+   "qty": 2,
+   "due": "2026-12-07",
+   "created": "2026-11-20",
+   "printedAt": "2026-11-25",
+   "customer": "Bettys & Taylors of Harrogate Ltd",
+   "k": "S-TIB875943-Pt1|CT3082XS28|PC2028",
+   "fabric": "PC2028",
+   "fabName": "BLACK/WHITE CHECK GINGHAM P/C 190GSM 150CM",
+   "std": 3.26
   }
  ],
- "savedAt": "2026-11-24T15:51:53.873Z"
+ "savedAt": "2026-11-25T08:00:53.827Z"
 }
