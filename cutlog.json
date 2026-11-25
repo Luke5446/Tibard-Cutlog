@@ -15169,7 +15169,21 @@
    "fabric": "PC2064ECO",
    "fabName": "Storm grey 65% recycled polyester / 35% BCI cotton 200 gsm X133ECO AM299 (Tiajo) — rating 0.12 m",
    "std": 7.5
+  },
+  {
+   "ref": "WO-2024",
+   "code": "OHAP3005248L",
+   "desc": "STORM GREY POLY/COTTON 6\" LONGER BIB APRON",
+   "qty": 40,
+   "due": "2026-11-27",
+   "created": "2026-11-25",
+   "printedAt": "2026-11-25",
+   "customer": "",
+   "k": "WO-2024|OHAP3005248L|PC2064ECO",
+   "fabric": "PC2064ECO",
+   "fabName": "STORM GREY SUSTAINABLE 65/35 POLY/COTTON (X133 - AM299)",
+   "std": 38.8
   }
  ],
- "savedAt": "2026-11-25T10:25:42.372Z"
+ "savedAt": "2026-11-25T10:28:37.104Z"
 }
