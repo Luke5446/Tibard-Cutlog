@@ -21928,7 +21928,18 @@
    "due": "2026-12-01",
    "customer": "",
    "pickedAt": "2026-11-25T13:59:35.195Z"
+  },
+  {
+   "k": "pick|WO-1925|EGOCICJ0193LL01",
+   "kind": "pick",
+   "ref": "WO-1925",
+   "code": "EGOCICJ0193LL01",
+   "pickCode": "CICJ0193LL01",
+   "qty": 24,
+   "due": "2026-12-01",
+   "customer": "",
+   "pickedAt": "2026-11-25T13:59:46.888Z"
   }
  ],
- "savedAt": "2026-11-25T13:59:35.195Z"
+ "savedAt": "2026-11-25T13:59:46.888Z"
 }
