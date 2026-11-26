@@ -13761,7 +13761,12 @@
    "k": "WO-1857|OHEGOAPP064903|CO5003ECO",
    "fabric": "CO5003ECO",
    "fabName": "BLACK 100% SUSTAINABLE COTTON (X149 - AM8)",
-   "std": 49.8
+   "std": 49.8,
+   "cutAt": "2026-11-26",
+   "at": "2026-11-26T09:17:37.128Z",
+   "metres": 34.5,
+   "note": "34.50  USED",
+   "adjustedAt": "2026-11-26T09:17:37.128Z"
   },
   {
    "ref": "WO-1894",
@@ -15492,5 +15497,5 @@
    "std": 8.88
   }
  ],
- "savedAt": "2026-11-26T08:58:46.428Z"
+ "savedAt": "2026-11-26T09:17:37.128Z"
 }
