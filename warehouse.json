@@ -22160,7 +22160,15 @@
    "qty": 13,
    "desc": "BLUE/WHITE GING CHEFS TRS ELAS/DSTRING, SIDE SEAM PKT SZ 56\"",
    "bookedAt": "2026-11-25T16:55:49.471Z"
+  },
+  {
+   "k": "emb|WO-1924|EGOCICJ01935201",
+   "kind": "emb",
+   "ref": "WO-1924",
+   "code": "EGOCICJ01935201",
+   "machine": "4",
+   "allocatedAt": "2026-11-26T10:31:03.775Z"
   }
  ],
- "savedAt": "2026-11-25T16:55:50.020Z"
+ "savedAt": "2026-11-26T10:31:03.775Z"
 }
