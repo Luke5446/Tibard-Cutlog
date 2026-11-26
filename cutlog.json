@@ -15618,8 +15618,11 @@
    "k": "WO-2048|OHCTLINCOLN3203|PCFLEXI03",
    "fabric": "PCFLEXI03",
    "fabName": "BLACK FLEXI STRETCH - 65/35 POLY COTTON - 220gm 145cm",
-   "std": 13.6
+   "std": 13.6,
+   "cutAt": "2026-11-26",
+   "at": "2026-11-26T15:53:27.361Z",
+   "metres": 13.6
   }
  ],
- "savedAt": "2026-11-26T15:46:46.761Z"
+ "savedAt": "2026-11-26T15:53:27.361Z"
 }
