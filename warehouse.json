@@ -22192,7 +22192,15 @@
    "code": "EGOCICJ0193XS01",
    "machine": "4",
    "allocatedAt": "2026-11-26T10:31:16.249Z"
+  },
+  {
+   "k": "emb|WO-1928|EGOCICJ0193XL01",
+   "kind": "emb",
+   "ref": "WO-1928",
+   "code": "EGOCICJ0193XL01",
+   "machine": "3",
+   "allocatedAt": "2026-11-26T10:31:21.824Z"
   }
  ],
- "savedAt": "2026-11-26T10:31:16.249Z"
+ "savedAt": "2026-11-26T10:31:21.824Z"
 }
