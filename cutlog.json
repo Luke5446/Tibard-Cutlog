@@ -15450,7 +15450,21 @@
    "fabric": "PC2X13307",
    "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
    "std": 25.16
+  },
+  {
+   "ref": "S-TIB876330-Pt4",
+   "code": "OHCJSNORFOLK5207S",
+   "desc": "RED NORFOLK S/S PLASTIC BUTTON PLACKET 52\" - Special",
+   "qty": 12,
+   "due": "2026-12-23",
+   "created": "2026-11-26",
+   "printedAt": "2026-11-26",
+   "customer": "Independent Catering Management Ltd",
+   "k": "S-TIB876330-Pt4|OHCJSNORFOLK5207S|PC2X13307",
+   "fabric": "PC2X13307",
+   "fabName": "RED POLY/COTTON 200G (X133 COLOUR 111)",
+   "std": 17.76
   }
  ],
- "savedAt": "2026-11-26T08:45:04.645Z"
+ "savedAt": "2026-11-26T08:45:14.256Z"
 }
