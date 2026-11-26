@@ -15572,7 +15572,21 @@
    "fabName": "Coolmax mesh fabric qual 22909 white cut side /underarm panel x 2 pair",
    "std": 0.09,
    "extra": true
+  },
+  {
+   "ref": "WO-2046",
+   "code": "OHLCJSYORK0801",
+   "desc": "WHITE LADIES S/S YORK PRESS STUD CHEF JACKET SZ 08",
+   "qty": 10,
+   "due": "2026-12-01",
+   "created": "2026-11-26",
+   "printedAt": "2026-11-26",
+   "customer": "",
+   "k": "WO-2046|OHLCJSYORK0801|PC2001ECO",
+   "fabric": "PC2001ECO",
+   "fabName": "WHITE SUSTAINABLE 65/35 POLY/COTTON (X133 - AM101)",
+   "std": 14.1
   }
  ],
- "savedAt": "2026-11-26T14:12:47.403Z"
+ "savedAt": "2026-11-26T14:19:38.834Z"
 }
