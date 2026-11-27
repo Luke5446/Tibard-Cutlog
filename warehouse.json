@@ -22445,7 +22445,20 @@
    "qty": 4,
    "desc": "BLACK GENTS STUD LAB COAT SZ 112CM + MTC LOGO",
    "bookedAt": "2026-11-26T17:12:49.107Z"
+  },
+  {
+   "k": "embbook|WO-1940|EGOCICJ0193LL01",
+   "kind": "embbook",
+   "ref": "WO-1940",
+   "code": "EGOCICJ0193LL01",
+   "baseCode": "CICJ0193LL01",
+   "qty": 6,
+   "bookedAt": "2026-11-27T14:21:25.872Z",
+   "files": [
+    "EMB_WriteOff_WO-1940_2026-11-27.csv",
+    "EMB_BookIn_WO-1940_2026-11-27.csv"
+   ]
   }
  ],
- "savedAt": "2026-11-27T10:50:57.376Z"
+ "savedAt": "2026-11-27T14:21:25.873Z"
 }
