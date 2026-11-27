@@ -22484,7 +22484,20 @@
     "EMB_WriteOff_WO-1925_2026-11-27.csv",
     "EMB_BookIn_WO-1925_2026-11-27.csv"
    ]
+  },
+  {
+   "k": "embbook|WO-1811|SLCICJ0193SS03",
+   "kind": "embbook",
+   "ref": "WO-1811",
+   "code": "SLCICJ0193SS03",
+   "baseCode": "CICJ0193SS03",
+   "qty": 7,
+   "bookedAt": "2026-11-27T14:21:40.425Z",
+   "files": [
+    "EMB_WriteOff_WO-1811_2026-11-27.csv",
+    "EMB_BookIn_WO-1811_2026-11-27.csv"
+   ]
   }
  ],
- "savedAt": "2026-11-27T14:21:37.805Z"
+ "savedAt": "2026-11-27T14:21:40.425Z"
 }
