@@ -22536,7 +22536,20 @@
     "EMB_WriteOff_WO-1927_2026-11-27.csv",
     "EMB_BookIn_WO-1927_2026-11-27.csv"
    ]
+  },
+  {
+   "k": "embbook|WO-1929|EGOCICJ0193XS01",
+   "kind": "embbook",
+   "ref": "WO-1929",
+   "code": "EGOCICJ0193XS01",
+   "baseCode": "CICJ0193XS01",
+   "qty": 2,
+   "bookedAt": "2026-11-27T14:25:04.127Z",
+   "files": [
+    "EMB_WriteOff_WO-1929_2026-11-27.csv",
+    "EMB_BookIn_WO-1929_2026-11-27.csv"
+   ]
   }
  ],
- "savedAt": "2026-11-27T14:24:58.680Z"
+ "savedAt": "2026-11-27T14:25:04.127Z"
 }
